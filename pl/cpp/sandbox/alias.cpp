@@ -1,10 +1,11 @@
 #include <iostream>
 
-int main(){
+int main()
+{
     int x = 10;
-    int &y=x;
+    int &y = x;
 
-    y =20;
+    y = 20;
 
     std::cout << "x=" << x << std::endl;
     std::cout << "y=" << y << std::endl;

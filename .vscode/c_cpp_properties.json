@@ -16,7 +16,7 @@
             "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64/cl.exe"
         },
         {
-            "name": "Win-gcc64",
+            "name": "Win-g++64",
             "includePath": [
                 "${workspaceFolder}/**",
                 "${vcpkgRoot}/x64-windows/include"
@@ -28,8 +28,9 @@
             ],
             "windowsSdkVersion": "10.0.18362.0",
             "intelliSenseMode": "windows-gcc-x64",
-            "compilerPath": "C:/TDM-GCC-64/bin/gcc.exe",
-            "cStandard": "c11"
+            "compilerPath": "C:/TDM-GCC-64/bin/g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
         }
     ],
     "version": 4

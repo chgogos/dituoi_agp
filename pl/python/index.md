@@ -1,5 +1,15 @@
 # Python
 
+## Βιβλία 
+
+* [Think Python 2nd Edition by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)
+  * [Μετάφραση στα Ελληνικά (Κ.Γ. Μαργαρίτης)](http://www.it.uom.gr/teaching/python/ThinkPython2eGR.pdf)
+* [ΚΑΛΛΙΠΟΣ - Εισαγωγή στον αντικειμενοστραφή προγραμματισμό με Python, Μαγκούτης και Νικολάου](https://repository.kallipos.gr/handle/11419/1708)
+* [ΚΑΛΛΙΠΟΣ - Εισαγωγή στον Προγραμματισμό με αρωγό τη γλώσσα Python, Μανής](https://repository.kallipos.gr/handle/11419/2745)
+* [Python Programming - Α. Τερζίδου και Μ. Δασυγένης (2016)](https://arch.icte.uowm.gr/docs/Python_Programming_Full_Book_Dasygenis_Terzidou.pdf)
+* [Automate the boring staff with Python by Al Sweigart](https://automatetheboringstuff.com/)
+* [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
+
 ## Online μαθήματα
 
 * [Sololearn - Python course](https://www.sololearn.com/learning/1073)
@@ -7,23 +17,14 @@
 
 ## Tutorials
 
-* [trekhleb - Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python)
-* [jerry-git - Learn Python 3](https://github.com/jerry-git/learn-python3)
-
-## Βιβλία 
-
-* [Think Python 2nd Edition by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)
-  * [Μετάφραση στα Ελληνικά (Κ.Γ. Μαργαρίτης)](http://www.it.uom.gr/teaching/python/ThinkPython2eGR.pdf)
-* [ΚΑΛΛΙΠΟΣ - Εισαγωγή στον αντικειμενοστραφή προγραμματισμό με Python, Μαγκούτης και Νικολάου](https://repository.kallipos.gr/handle/11419/1708)
-* [ΚΑΛΛΙΠΟΣ - Εισαγωγή στον Προγραμματισμό με αρωγό τη γλώσσα Python, Μανής](https://repository.kallipos.gr/handle/11419/2745)
-* [](https://arch.icte.uowm.gr/docs/Python_Programming_Full_Book_Dasygenis_Terzidou.pdf)
 * [Python tutorial - Ελληνική Κοινότητα Προγραμματιστών Python](http://python.org.gr/phocadownload/Tutorials/tutorial_by_example.pdf)
-* [Automate the boring staff with Python by Al Sweigart](https://automatetheboringstuff.com/)
-* [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
+* [jerry-git - Learn Python 3](https://github.com/jerry-git/learn-python3)
+* [trekhleb - Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python)
 
 ## Videos
 
 * [CS50x -  Python](https://cs50.harvard.edu/x/2021/shorts/python/)
+* [Socratica - Python learning tutorials](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 
 ## MOOCs (στα ελληνικά)
 

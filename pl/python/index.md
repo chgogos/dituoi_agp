@@ -12,10 +12,14 @@
 
 ## Βιβλία 
 
-* [Automate the boring staff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 * [Think Python 2nd Edition by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)
+  * [Μετάφραση στα Ελληνικά (Κ.Γ. Μαργαρίτης)](http://www.it.uom.gr/teaching/python/ThinkPython2eGR.pdf)
 * [ΚΑΛΛΙΠΟΣ - Εισαγωγή στον αντικειμενοστραφή προγραμματισμό με Python, Μαγκούτης και Νικολάου](https://repository.kallipos.gr/handle/11419/1708)
 * [ΚΑΛΛΙΠΟΣ - Εισαγωγή στον Προγραμματισμό με αρωγό τη γλώσσα Python, Μανής](https://repository.kallipos.gr/handle/11419/2745)
+* [](https://arch.icte.uowm.gr/docs/Python_Programming_Full_Book_Dasygenis_Terzidou.pdf)
+* [Python tutorial - Ελληνική Κοινότητα Προγραμματιστών Python](http://python.org.gr/phocadownload/Tutorials/tutorial_by_example.pdf)
+* [Automate the boring staff with Python by Al Sweigart](https://automatetheboringstuff.com/)
+* [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 
 ## Videos
 

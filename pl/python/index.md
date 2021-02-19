@@ -9,6 +9,7 @@
 * [Python Programming - Α. Τερζίδου και Μ. Δασυγένης (2016)](https://arch.icte.uowm.gr/docs/Python_Programming_Full_Book_Dasygenis_Terzidou.pdf)
 * [Automate the boring staff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
+* [Dive into Python 3 by Mark Pilgrim](https://diveintopython3.net/index.html)
 
 ## Online μαθήματα
 

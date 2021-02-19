@@ -16,14 +16,14 @@ C, C++, C#, Java, Python, Perl, Rust, Ruby, ...
 
 Lisp, Scheme, Haskell, Scala, ...
 
-### Haskell
+<!-- ### Haskell
 
-https://github.com/wimvanderbauwhede/HaskellMOOC
+https://github.com/wimvanderbauwhede/HaskellMOOC -->
 
 
-### Windows installation
+<!-- ### Windows installation
 
-Εγκατάσταση με το chocolatey στα windows
+Εγκατάσταση με το chocolatey στα windows -->
 
 ## Λογικός προγραμματισμός
 

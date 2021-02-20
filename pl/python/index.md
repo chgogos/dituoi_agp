@@ -1,5 +1,18 @@
 # Python
 
+## Notebooks εισαγωγής στην Python
+
+1. [Εισαγωγή](./notebooks/01-intro.ipynb)
+2. [Λεκτικά](./notebooks/02-strings.ipynb)
+3. [Λίστες, πλειάδες, λεξικά και σύνολα](./notebooks/03-lists-tuples-dictionaries-sets.ipynb)
+4. [Η εντολή if](./notebooks/04-conditional_statements.ipynb)
+5. [Επαναλήψεις](./notebooks/05-loops.ipynb)
+6. [Comprehensions](./notebooks/06-comprehensions.ipynb)
+7. [Εξαιρέσεις](./notebooks/07-exceptions.ipynb)
+8. [Αρχεία](./notebooks/08-files.ipynb)
+9. [Συναρτήσεις](./notebooks/09-functions.ipynb)
+10. [Λάμδα](./notebooks/10-lambdas.ipynb)
+
 ## Βιβλία 
 
 * [Think Python 2nd Edition by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)

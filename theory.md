@@ -1,12 +1,15 @@
 # Αρχές Γλωσσών Προγραμματισμού
 
 * [Εισαγωγή](./cpl_sebesta/ch01/index.md)
-<!-- * [Η εξέλιξη των σημαντικότερων γλωσσών προγραμματισμού](./cpl_sebesta/ch02/index.md)
-* [Συντακτικό και σημασιολογία](./cpl_sebesta/ch03/index.md) -->
+* Συντακτικό και σημασιολογία
 * [Λεκτική και συντακτική ανάλυση](./cpl_sebesta/ch04/index.md)
-<!-- * [Ονόματα, προσδέσεις και εμβέλειες](./cpl_sebesta/ch05/index.md) -->
+* Ονόματα, προσδέσεις και εμβέλειες
 
-## Συγγράμματα μαθήματος
+<!-- * [Η εξέλιξη των σημαντικότερων γλωσσών προγραμματισμού](./cpl_sebesta/ch02/index.md)
+* [Συντακτικό και σημασιολογία](./cpl_sebesta/ch03/index.md)
+* [Ονόματα, προσδέσεις και εμβέλειες](./cpl_sebesta/ch05/index.md) -->
+
+## Συγγράμματα (Εύδοξος)
 
 * [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi)
 * [Σύγχρονες Γλώσσες Προγραμματισμού, Brooks Webber Adam](https://www.cup.gr/book/sigchrones-glosses-programmatismou/)
@@ -23,7 +26,7 @@
 
 ## Προστακτικός προγραμματισμός
 
-[C](../dituoi_agp/pl/c/index.md), [C++](../dituoi_agp/pl/cpp/index.md), C#, [Java](../dituoi_agp/pl/java/index.md), [Python](../dituoi_agp/pl/python/index.md), Perl, Rust, Ruby, ...
+C, C++, C#, Java, Python, Perl, Rust, Ruby, ...
 
 ## Συναρτησιακός προγραμματισμός
 

@@ -12,6 +12,9 @@
 8. [Αρχεία](./notebooks/08-files.ipynb)
 9. [Συναρτήσεις](./notebooks/09-functions.ipynb)
 10. [Λάμδα](./notebooks/10-lambdas.ipynb)
+11. [Κλάσεις](./notebooks/11-classes.ipynb)
+12. [Logging](./notebooks/12-logging.ipynb)
+13. [Testing](./notebooks/13-testing.ipynb)
 
 ## Βιβλία 
 
@@ -28,6 +31,7 @@
 
 * [Sololearn - Python course](https://www.sololearn.com/learning/1073)
 * [Python 101: Interactively learn how to program with Python 3](https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3)
+* [Practical Python Programming by David Beazley](https://dabeaz-course.github.io/practical-python/)
 
 ## Tutorials
 

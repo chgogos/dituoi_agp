@@ -1,4 +1,4 @@
-# import math package (2/4) με ψευδώνυμο
+# import math module (2/4) με ψευδώνυμο
 
 import math as m
 

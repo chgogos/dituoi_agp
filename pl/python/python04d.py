@@ -1,4 +1,4 @@
-# import όλων των μεθόδων και μελών δεδομένων του package math (4/4)
+# import όλων των μεθόδων και μελών δεδομένων του module math (4/4)
 
 from math import *
 

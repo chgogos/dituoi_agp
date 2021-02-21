@@ -1,4 +1,4 @@
-# import math package (1/4)
+# import math module (1/4)
 
 import math
 

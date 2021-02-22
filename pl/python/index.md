@@ -19,23 +19,24 @@
 ## Βιβλία 
 
 * [Think Python 2nd Edition by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)
-  * [Μετάφραση στα Ελληνικά (Κ.Γ. Μαργαρίτης)](http://www.it.uom.gr/teaching/python/ThinkPython2eGR.pdf)
+  * <mark>[Μετάφραση στα Ελληνικά (Κ.Γ. Μαργαρίτης)](http://www.it.uom.gr/teaching/python/ThinkPython2eGR.pdf)</mark>
 * [ΚΑΛΛΙΠΟΣ - Εισαγωγή στον αντικειμενοστραφή προγραμματισμό με Python, Μαγκούτης και Νικολάου](https://repository.kallipos.gr/handle/11419/1708)
 * [ΚΑΛΛΙΠΟΣ - Εισαγωγή στον Προγραμματισμό με αρωγό τη γλώσσα Python, Μανής](https://repository.kallipos.gr/handle/11419/2745)
-* [Python Programming - Α. Τερζίδου και Μ. Δασυγένης (2016)](https://arch.icte.uowm.gr/docs/Python_Programming_Full_Book_Dasygenis_Terzidou.pdf)
+* [Python Programming - Α. Τερζίδου και Μ. Δασυγένης](https://arch.icte.uowm.gr/docs/Python_Programming_Full_Book_Dasygenis_Terzidou.pdf)
 * [Automate the boring staff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 * [Dive into Python 3 by Mark Pilgrim](https://diveintopython3.net/index.html)
 
 ## Online μαθήματα
 
-* [Sololearn - Python course](https://www.sololearn.com/learning/1073)
+* <mark>[Sololearn - Python course](https://www.sololearn.com/learning/1073)</mark>
 * [Python 101: Interactively learn how to program with Python 3](https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3)
-* [Practical Python Programming by David Beazley](https://dabeaz-course.github.io/practical-python/)
 
 ## Tutorials
 
+* <mark>[Learn X in Y minutes Where X=Python (μετάφραση στα ελληνικά)](https://learnxinyminutes.com/docs/el-gr/python-gr/)</mark>
 * [Python tutorial - Ελληνική Κοινότητα Προγραμματιστών Python](http://python.org.gr/phocadownload/Tutorials/tutorial_by_example.pdf)
+* [Practical Python Programming by David Beazley](https://dabeaz-course.github.io/practical-python/)
 * [jerry-git - Learn Python 3](https://github.com/jerry-git/learn-python3)
 * [trekhleb - Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python)
 

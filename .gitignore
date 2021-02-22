@@ -4,6 +4,9 @@
 # java
 *.class
 
+# package files
+*.zip
+
 # python
 __pycache__/
 *.py[cod]

@@ -2,7 +2,7 @@
 
 ## Notebooks εισαγωγής στην Python
 
-1. [Εισαγωγή](./notebooks/01-intro.ipynb)
+1. [<mark>Εισαγωγή</mark>](./notebooks/01-intro.html)
 2. [Λεκτικά](./notebooks/02-strings.ipynb)
 3. [Λίστες, πλειάδες, λεξικά και σύνολα](./notebooks/03-lists-tuples-dictionaries-sets.ipynb)
 4. [Η εντολή if](./notebooks/04-conditional_statements.ipynb)
@@ -19,7 +19,7 @@
 ## Βιβλία 
 
 * [Think Python 2nd Edition by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)
-  * <mark>[Μετάφραση στα Ελληνικά (Κ.Γ. Μαργαρίτης)](http://www.it.uom.gr/teaching/python/ThinkPython2eGR.pdf)</mark>
+  * [<mark>Μετάφραση στα Ελληνικά (Κ.Γ. Μαργαρίτης)</mark>](http://www.it.uom.gr/teaching/python/ThinkPython2eGR.pdf)
 * [ΚΑΛΛΙΠΟΣ - Εισαγωγή στον αντικειμενοστραφή προγραμματισμό με Python, Μαγκούτης και Νικολάου](https://repository.kallipos.gr/handle/11419/1708)
 * [ΚΑΛΛΙΠΟΣ - Εισαγωγή στον Προγραμματισμό με αρωγό τη γλώσσα Python, Μανής](https://repository.kallipos.gr/handle/11419/2745)
 * [Python Programming - Α. Τερζίδου και Μ. Δασυγένης](https://arch.icte.uowm.gr/docs/Python_Programming_Full_Book_Dasygenis_Terzidou.pdf)
@@ -34,7 +34,7 @@
 
 ## Tutorials
 
-* <mark>[Learn X in Y minutes Where X=Python (μετάφραση στα ελληνικά)](https://learnxinyminutes.com/docs/el-gr/python-gr/)</mark>
+* [<mark>Learn X in Y minutes Where X=Python (μετάφραση στα ελληνικά)</mark>](https://learnxinyminutes.com/docs/el-gr/python-gr/)
 * [Python tutorial - Ελληνική Κοινότητα Προγραμματιστών Python](http://python.org.gr/phocadownload/Tutorials/tutorial_by_example.pdf)
 * [Practical Python Programming by David Beazley](https://dabeaz-course.github.io/practical-python/)
 * [jerry-git - Learn Python 3](https://github.com/jerry-git/learn-python3)
@@ -60,7 +60,7 @@
 * Εγκατάσταση της [Python](https://www.python.org/), χρήση του IDLE
 * [Thonny IDE](https://thonny.org/)
 * Εγκατάσταση της [Python](https://www.python.org/), εγκατάσταση του [VSCode](https://code.visualstudio.com/) και του [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-* <mark>Εγκατάσταση της [Python](https://www.python.org/), εγκατάσταση του [IntelliJ PyCharm Community](https://www.jetbrains.com/pycharm/download/#section=windows)</mark>
+* Εγκατάσταση της [Python](https://www.python.org/), εγκατάσταση του [IntelliJ PyCharm Community](https://www.jetbrains.com/pycharm/download/#section=windows)
 * Εγκατάσταση του [Anaconda Python Individual Edition](https://www.anaconda.com/products/individual), χρήση του Spyder IDE
 
 
@@ -69,7 +69,7 @@
 * <https://www.python.org/dev/peps/pep-0008/>
 * <https://pep8.org/>
 
-Παραδείγματα οδηγιών
+Παραδείγματα οδηγιών PEP8
 
 * Οι συναρτήσεις, τα ονόματα των μεταβλητών και τα ονόματα αρχείων θα πρέπει να γράφονται με πεζά, με κάτω παύλες μεταξύ των λέξεων (snake_case)
 * Τα ονόματα κλάσεων γράφονται με το πρώτο γράμμα κάθε επιμέρους λέξης με κεφαλαία (CamelCase)

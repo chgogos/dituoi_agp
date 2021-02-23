@@ -3,18 +3,18 @@
 ## Notebooks εισαγωγής στην Python
 
 1. [<mark>Εισαγωγή</mark>](./notebooks/01-intro.html)
-2. [Λεκτικά](./notebooks/02-strings.ipynb)
-3. [Λίστες, πλειάδες, λεξικά και σύνολα](./notebooks/03-lists-tuples-dictionaries-sets.ipynb)
-4. [Η εντολή if](./notebooks/04-conditional_statements.ipynb)
-5. [Επαναλήψεις](./notebooks/05-loops.ipynb)
-6. [Comprehensions](./notebooks/06-comprehensions.ipynb)
-7. [Εξαιρέσεις](./notebooks/07-exceptions.ipynb)
-8. [Αρχεία](./notebooks/08-files.ipynb)
-9. [Συναρτήσεις](./notebooks/09-functions.ipynb)
-10. [Λάμδα](./notebooks/10-lambdas.ipynb)
-11. [Κλάσεις](./notebooks/11-classes.ipynb)
-12. [Logging](./notebooks/12-logging.ipynb)
-13. [Testing](./notebooks/13-testing.ipynb)
+2. [Λεκτικά](./notebooks/02-strings.html)
+3. [Λίστες, πλειάδες, λεξικά και σύνολα](./notebooks/03-lists-tuples-dictionaries-sets.html)
+4. [Η εντολή if](./notebooks/04-conditional_statements.html)
+5. [Επαναλήψεις](./notebooks/05-loops.html)
+6. [Comprehensions](./notebooks/06-comprehensions.html)
+7. [Εξαιρέσεις](./notebooks/07-exceptions.html)
+8. [Αρχεία](./notebooks/08-files.html)
+9. [Συναρτήσεις](./notebooks/09-functions.html)
+10. [Λάμδα](./notebooks/10-lambdas.html)
+11. [Κλάσεις](./notebooks/11-classes.html)
+12. [Logging](./notebooks/12-logging.html)
+13. [Testing](./notebooks/13-testing.html)
 
 ## Βιβλία 
 
@@ -59,12 +59,12 @@
 
 * Εγκατάσταση της [Python](https://www.python.org/), χρήση του IDLE
 * [Thonny IDE](https://thonny.org/)
-* Εγκατάσταση της [Python](https://www.python.org/), εγκατάσταση του [VSCode](https://code.visualstudio.com/) και του [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-* Εγκατάσταση της [Python](https://www.python.org/), εγκατάσταση του [IntelliJ PyCharm Community](https://www.jetbrains.com/pycharm/download/#section=windows)
+* Εγκατάσταση της Python, εγκατάσταση του [VSCode](https://code.visualstudio.com/) και του [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+* <mark>Εγκατάσταση της Python, εγκατάσταση του </mark>[<mark>IntelliJ PyCharm Community</mark>](https://www.jetbrains.com/pycharm/download/#section=windows) 
 * Εγκατάσταση του [Anaconda Python Individual Edition](https://www.anaconda.com/products/individual), χρήση του Spyder IDE
 
 
-## PEP8 (Python Enhancement Proposals)
+## PEP8 (Python Enhancement Proposals - Style Guide for Python Code)
 
 * <https://www.python.org/dev/peps/pep-0008/>
 * <https://pep8.org/>

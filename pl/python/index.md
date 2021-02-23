@@ -51,3 +51,14 @@
 * [Mathesis - Διαδίκτυο των Πραγμάτων (IoT) στην Πράξη: με Raspberry Pi και Python](https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS4.1+20D/about)
 * [Coursity - Εισαγωγή στον Προγραμματισμό με Python](https://coursity.gr/courses/course-v1:AUTH+Prog1+2020_trial/about)
   * <http://pytolearn.csd.auth.gr/>
+
+
+## Εγκατάσταση περιβάλλοντος ανάπτυξης προγραμμάτων στην Python
+
+Μπορείτε να επιλέξτε **έναν** από τους ακόλουθους τρόπους: 
+
+* Εγκατάσταση της [Python](https://www.python.org/), χρήση του IDLE
+* [Thonny IDE](https://thonny.org/)
+* Εγκατάσταση της [Python](https://www.python.org/), εγκατάσταση του [VSCode](https://code.visualstudio.com/) και του [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+* <mark>Εγκατάσταση της [Python](https://www.python.org/), εγκατάσταση του [IntelliJ PyCharm Community](https://www.jetbrains.com/pycharm/download/#section=windows)</mark>
+* Εγκατάσταση του [Anaconda Python Individual Edition](https://www.anaconda.com/products/individual), χρήση του Spyder IDE

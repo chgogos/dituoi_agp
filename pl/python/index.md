@@ -29,7 +29,7 @@
 
 ## Online μαθήματα
 
-* <mark>[Sololearn - Python course](https://www.sololearn.com/learning/1073)</mark>
+* [<mark>Sololearn - Python course</mark>](https://www.sololearn.com/learning/1073)
 * [Python 101: Interactively learn how to program with Python 3](https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3)
 
 ## Tutorials
@@ -62,3 +62,19 @@
 * Εγκατάσταση της [Python](https://www.python.org/), εγκατάσταση του [VSCode](https://code.visualstudio.com/) και του [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 * <mark>Εγκατάσταση της [Python](https://www.python.org/), εγκατάσταση του [IntelliJ PyCharm Community](https://www.jetbrains.com/pycharm/download/#section=windows)</mark>
 * Εγκατάσταση του [Anaconda Python Individual Edition](https://www.anaconda.com/products/individual), χρήση του Spyder IDE
+
+
+## PEP8 (Python Enhancement Proposals)
+
+* <https://www.python.org/dev/peps/pep-0008/>
+* <https://pep8.org/>
+
+Παραδείγματα οδηγιών
+
+* Οι συναρτήσεις, τα ονόματα των μεταβλητών και τα ονόματα αρχείων θα πρέπει να γράφονται με πεζά, με κάτω παύλες μεταξύ των λέξεων (snake_case)
+* Τα ονόματα κλάσεων γράφονται με το πρώτο γράμμα κάθε επιμέρους λέξης με κεφαλαία (CamelCase)
+* Τα ονόματα των packages γράφονται με πεζά και δεν περιλαμβάνουν κάτω παύλες μεταξύ των λέξεων
+
+## Εργαλεία
+
+* [Python Tutor](http://www.pythontutor.com/)

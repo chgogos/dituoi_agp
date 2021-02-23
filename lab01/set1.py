@@ -9,12 +9,12 @@ def find_odd(values):
     pass
 
 
-class TestFindOdd(unittest.TestCase):
+class TestFunctions(unittest.TestCase):
 
-    def test_samples(self):
+    def test_find_odd(self):
         self.assertEqual(find_odd([1]), 1)
         self.assertEqual(find_odd([1, 1, 2, 2, 3, 4, 4]), 3)
-        self.assertEqual(find_odd([7, 7, 1, 2, 1, 7, 4, 4, 2, 2, 2]), 3)
+        self.assertEqual(find_odd([7, 7, 1, 2, 1, 7, 4, 4, 2, 2, 2]), 7)
 
 
 if __name__ == "__main__":

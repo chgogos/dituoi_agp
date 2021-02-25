@@ -79,23 +79,23 @@ count++;
 
 1. Μολονότι η C διαθέτει 2 είδη δομημένων τύπων δεδομένων, τις διατάξεις και τις εγγραφές (struct), οι εγγραφές μπορούν να επιστρέφονται από συναρτήσεις αλλά όχι οι διατάξεις. Ωστόσο, θα πρέπει να σημειωθεί ότι η C επιτρέπει την επιστροφή ενός δείκτη προς μια διάταξη.
 
-* [orthogonality_violation1.c](./../../pl/c/orthogonality_violation1.c)
+    [orthogonality_violation1.c](./../../pl/c/orthogonality_violation1.c)
 
 2. Ένα μέλος μιας δομής μπορεί να είναι οποιουδήποτε τύπου δεδομένων εκτός από void ή μια δομή του ίδιου τύπου. Ωστόσο ένα μέλος μιας δομής μπορεί να είναι δείκτης προς void ή δείκτης προς δομή του ίδιου τύπου.
 
-* [orthogonality_violation2.c](./../../pl/c/orthogonality_violation2.c)
+    [orthogonality_violation2.c](./../../pl/c/orthogonality_violation2.c)
 
 3. Ένα στοιχείο μιας διάταξης μπορεί να είναι οποιοδήποτε τύπος δεδομένων εκτός από void ή μια συνάρτηση. Ωστόσο, μπορεί να είναι δείκτης προς void ή δείκτης προς συνάρτηση.
 
-* [orthogonality_violation3.c](./../../pl/c/orthogonality_violation3.c)
+    [orthogonality_violation3.c](./../../pl/c/orthogonality_violation3.c)
 
 4. Οι παράμετροι συναρτήσεων περνούν με τιμή εκτός αν είναι διατάξεις οπότε περνούν με αναφορά (επειδή η εμφάνιση του ονόματος μιας διάταξης χωρίς δείκτη ερμηνεύεται ως η διεύθυνση του πρώτου στοιχείου της διάταξης)
 
-* [orthogonality_violation4.c](./../../pl/c/orthogonality_violation4.c)
+    [orthogonality_violation4.c](./../../pl/c/orthogonality_violation4.c)
 
 5. Εξάρτηση από τα συμφραζόμενα για τον τελεστή + στην έκφραση a + b. Αν το a είναι δείκτης προς μια τιμή float που καταλαμβάνει 4 bytes τότε η τιμή του b θα πολλαπλασιαστεί επί 4 πριν προστεθεί στο a.
 
-* [orthogonality_violation5.c](./../../pl/c/orthogonality_violation5.c)
+    [orthogonality_violation5.c](./../../pl/c/orthogonality_violation5.c)
 
 ---
 

@@ -2,9 +2,9 @@
 
 ## Notebooks εισαγωγής στην Python
 
-1. [<mark>Εισαγωγή</mark>](./notebooks/01-intro.html)
-2. [<mark>Λεκτικά</mark>](./notebooks/02-strings.html)
-3. [<mark>Λίστες, πλειάδες, λεξικά και σύνολα</mark>](./notebooks/03-lists-tuples-dictionaries-sets.html)
+1. [<mark>Εισαγωγή</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/01-intro.ipynb)
+2. [<mark>Λεκτικά</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/02-strings.ipynb)
+3. [<mark>Λίστες, πλειάδες, λεξικά και σύνολα</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/03-lists-tuples-dictionaries-sets.ipynb)
 4. [Η εντολή if](./notebooks/04-conditional_statements.html)
 5. [Επαναλήψεις](./notebooks/05-loops.html)
 6. [Comprehensions](./notebooks/06-comprehensions.html)

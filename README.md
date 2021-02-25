@@ -15,12 +15,12 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 ## 2. ΕΡΓΑΣΤΗΡΙΟ
 
 * [Python](./pl/python/index.md)
-  * [25/2/2021](https://hackmd.io/@cgogos/SkGKYH9Z_)
+  * [25/2/2021 HackMD](https://hackmd.io/@cgogos/SkGKYH9Z_)
 * Prolog
 * Haskell
 
 ### Εργαστηριακές ασκήσεις
 
-1. [Πρώτη άσκηση](./resources/agp_assignment20210225.pdf) υποβολή μέσω του ecourse
+1. [Πρώτη άσκηση](./resources/agp_assignment20210225.pdf) υποβολή μέσω του e-course μέχρι τις 28/3/2020
 
 

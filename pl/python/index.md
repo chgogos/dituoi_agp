@@ -3,8 +3,8 @@
 ## Notebooks εισαγωγής στην Python
 
 1. [<mark>Εισαγωγή</mark>](./notebooks/01-intro.html)
-2. [Λεκτικά](./notebooks/02-strings.html)
-3. [Λίστες, πλειάδες, λεξικά και σύνολα](./notebooks/03-lists-tuples-dictionaries-sets.html)
+2. [<mark>Λεκτικά</mark>](./notebooks/02-strings.html)
+3. [<mark>Λίστες, πλειάδες, λεξικά και σύνολα</mark>](./notebooks/03-lists-tuples-dictionaries-sets.html)
 4. [Η εντολή if](./notebooks/04-conditional_statements.html)
 5. [Επαναλήψεις](./notebooks/05-loops.html)
 6. [Comprehensions](./notebooks/06-comprehensions.html)
@@ -78,3 +78,7 @@
 ## Εργαλεία
 
 * [Python Tutor](http://www.pythontutor.com/)
+
+## Ενδιαφέρουσες ιστοσελίδες
+
+* [Έρευνα προγραμματιστών Python από την JetBrains (2020)](https://www.jetbrains.com/lp/python-developers-survey-2020/)

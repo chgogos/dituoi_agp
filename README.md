@@ -6,16 +6,21 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 22/02/2021
+Τελευταία ενημέρωση: 25/02/2021
 
 ## 1. ΘΕΩΡΙΑ
 
-* [Θεωρία μαθήματος](./theory.md)
+[Θεωρία μαθήματος](./theory.md)
 
 ## 2. ΕΡΓΑΣΤΗΡΙΟ
 
 * [Python](./pl/python/index.md)
+  * [25/2/2021](https://hackmd.io/@cgogos/SkGKYH9Z_)
 * Prolog
 * Haskell
+
+### Εργαστηριακές ασκήσεις
+
+1. [Πρώτη άσκηση](./resources/agp_assignment20210225.pdf) υποβολή μέσω του ecourse
 
 

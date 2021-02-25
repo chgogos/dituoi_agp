@@ -14,3 +14,7 @@ __pycache__/
 
 # virtual environments
 venv    
+
+
+# temporary
+/tmp/*

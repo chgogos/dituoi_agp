@@ -5,16 +5,16 @@
 1. [<mark>Εισαγωγή</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/01-intro.ipynb)
 2. [<mark>Λεκτικά</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/02-strings.ipynb)
 3. [<mark>Λίστες, πλειάδες, λεξικά και σύνολα</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/03-lists-tuples-dictionaries-sets.ipynb)
-4. [Η εντολή if](./notebooks/04-conditional_statements.html)
-5. [Επαναλήψεις](./notebooks/05-loops.html)
-6. [Comprehensions](./notebooks/06-comprehensions.html)
-7. [Εξαιρέσεις](./notebooks/07-exceptions.html)
-8. [Αρχεία](./notebooks/08-files.html)
-9. [Συναρτήσεις](./notebooks/09-functions.html)
-10. [Λάμδα](./notebooks/10-lambdas.html)
-11. [Κλάσεις](./notebooks/11-classes.html)
-12. [Logging](./notebooks/12-logging.html)
-13. [Testing](./notebooks/13-testing.html)
+4. [<mark>Η εντολή if<mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/04-conditional_statements.ipynb)
+5. [<mark>Επαναλήψεις<mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/05-loops.ipynb)
+6. [Comprehensions](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/06-comprehensions.ipynb)
+7. [Εξαιρέσεις](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/07-exceptions.ipynb)
+8. [Αρχεία](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/08-files.ipynb)
+9. [Συναρτήσεις](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/09-functions.ipynb)
+10. [Λάμδα](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/10-lambdas.ipynb)
+11. [Κλάσεις](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/11-classes.ipynb)
+12. [Logging](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/12-logging.ipynb)
+13. [Testing](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/13-testing.ipynb)
 
 ## Βιβλία 
 
@@ -81,4 +81,5 @@
 
 ## Ενδιαφέρουσες ιστοσελίδες
 
+* [pycoders weekly (newsletter)](https://pycoders.com/)
 * [Έρευνα προγραμματιστών Python από την JetBrains (2020)](https://www.jetbrains.com/lp/python-developers-survey-2020/)

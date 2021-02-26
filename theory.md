@@ -45,3 +45,7 @@ https://github.com/wimvanderbauwhede/HaskellMOOC -->
 ## Λογικός προγραμματισμός
 
 Prolog, Mozart/Oz, Mercury, ECLiPSe...
+
+---
+
+[extras](./EXTRAS.md)

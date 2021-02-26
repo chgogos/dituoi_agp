@@ -60,7 +60,7 @@
 * Εγκατάσταση της [Python](https://www.python.org/), χρήση του IDLE
 * [Thonny IDE](https://thonny.org/)
 * Εγκατάσταση της Python, εγκατάσταση του [VSCode](https://code.visualstudio.com/) και του [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-* <mark>Εγκατάσταση της Python, εγκατάσταση του </mark>[<mark>IntelliJ PyCharm Community</mark>](https://www.jetbrains.com/pycharm/download/#section=windows) 
+* <mark>Εγκατάσταση της Python, εγκατάσταση του </mark>[<mark>JetBrains PyCharm Community</mark>](https://www.jetbrains.com/pycharm/download/#section=windows) 
 * Εγκατάσταση του [Anaconda Python Individual Edition](https://www.anaconda.com/products/individual), χρήση του Spyder IDE
 
 

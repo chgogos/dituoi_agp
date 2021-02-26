@@ -46,6 +46,3 @@ https://github.com/wimvanderbauwhede/HaskellMOOC -->
 
 Prolog, Mozart/Oz, Mercury, ECLiPSe...
 
----
-
-[extras](./EXTRAS.md)

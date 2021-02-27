@@ -1,0 +1,27 @@
+<root>
+    <address>
+        <city>Άρτα</city>
+        <postalCode>45221</postalCode>
+        <state>Ήπειρος</state>
+        <streetAddress>Ανεξαρτησίας 33</streetAddress>
+    </address>
+    <age>30</age>
+    <firstName>Γιάννης</firstName>
+    <lastName>Παπαδόπουλος</lastName>
+    <married>true</married>
+    <phoneNumbers>
+        <element>
+            <number>00302681123456</number>
+            <type>home</type>
+        </element>
+        <element>
+            <number>00302681654321</number>
+            <type>work</type>
+        </element>
+        <element>
+            <number>00306971234567</number>
+            <type>mobile</type>
+        </element>
+    </phoneNumbers>
+    <email null="true"/>
+</root>

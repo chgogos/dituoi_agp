@@ -16,8 +16,8 @@
 12. [Logging](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/12-logging.ipynb)
 13. [Testing](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/13-testing.ipynb)
 14. [CSV](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/14-csv.ipynb)
-15. Excel
-16. XML
+15. [Excel](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/15-excel.ipynb)
+16. [XML](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/16-xml.ipynb)
 17. [JSON](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/17-json.ipynb)
 
 ## Βιβλία 

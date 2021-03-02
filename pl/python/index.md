@@ -19,6 +19,13 @@
 15. [Excel](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/15-excel.ipynb)
 16. [XML](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/16-xml.ipynb)
 17. [JSON](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/17-json.ipynb)
+18. [YAML](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/18-yaml.ipynb)
+19. [pickle](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/19-pickle.ipynb)
+20. [datetime](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/20-datetime.ipynb)
+
+## Γραφικά περιβάλλοντα διεπαφής (Graphical User Interfaces = GUIs)
+
+* [TkInter](./gui/index.md)
 
 ## Βιβλία 
 
@@ -72,6 +79,7 @@
 
 * <https://www.python.org/dev/peps/pep-0008/>
 * <https://pep8.org/>
+* [The PEP 8 Song](https://www.youtube.com/watch?v=hgI0p1zf31k)
 
 Παραδείγματα οδηγιών PEP8
 

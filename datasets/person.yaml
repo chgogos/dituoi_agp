@@ -1,0 +1,18 @@
+---
+firstName: Γιάννης
+lastName: Παπαδόπουλος
+age: 30
+married: true
+email:
+address:
+  streetAddress: Ανεξαρτησίας 33
+  city: Άρτα
+  state: Ήπειρος
+  postalCode: '45221'
+phoneNumbers:
+- type: home
+  number: '00302681123456'
+- type: work
+  number: '00302681654321'
+- type: mobile
+  number: '00306971234567'

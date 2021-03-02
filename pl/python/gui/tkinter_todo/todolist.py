@@ -48,7 +48,7 @@ def save_tasks():
 
 # Δημιουργία GUI
 
-frame_tasks = tkinter.Frame(root)
+frame_tasks = tkinter.Frame(root) # Frame για το listbox και το scrollbar 
 frame_tasks.pack()
 
 listbox_tasks = tkinter.Listbox(frame_tasks, height=10, width=50)

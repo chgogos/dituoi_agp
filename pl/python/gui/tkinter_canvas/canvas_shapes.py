@@ -1,3 +1,5 @@
+# σχεδίαση σχημάτων σε canvas
+
 from tkinter import *
 
 def paint(event):

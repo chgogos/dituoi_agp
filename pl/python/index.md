@@ -5,7 +5,7 @@
 1. [<mark>Εισαγωγή</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/01-intro.ipynb)
 2. [<mark>Λεκτικά</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/02-strings.ipynb)
 3. [<mark>Λίστες, πλειάδες, λεξικά και σύνολα</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/03-lists-tuples-dictionaries-sets.ipynb)
-4. [<mark>Η εντολή if</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/04-conditional.ipynb)
+4. [<mark>Η εντολή if</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/04-conditionals.ipynb)
 5. [<mark>Επαναλήψεις</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/05-loops.ipynb)
 6. [<mark>Comprehensions</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/06-comprehensions.ipynb)
 7. [<mark>Εξαιρέσεις</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/07-exceptions.ipynb)

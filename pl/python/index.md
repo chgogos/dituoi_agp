@@ -11,7 +11,7 @@
 7. [<mark>Εξαιρέσεις</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/07-exceptions.ipynb)
 8. [<mark>Αρχεία</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/08-files.ipynb)
 9. [Συναρτήσεις](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/09-functions.ipynb)
-10. [Λάμδα](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/10-lambdas.ipynb)
+10. [Συναρτήσεις λάμδα](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/10-lambdas.ipynb)
 11. [Κλάσεις](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/11-classes.ipynb)
 12. [Logging](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/12-logging.ipynb)
 13. [Testing](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/13-testing.ipynb)
@@ -25,7 +25,7 @@
 
 ## Γραφικά περιβάλλοντα διεπαφής (Graphical User Interfaces = GUIs)
 
-* [TkInter](./gui/index.md)
+[TkInter + wxPython](./gui/index.md)
 
 ## Βιβλία 
 

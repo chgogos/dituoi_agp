@@ -2,11 +2,27 @@
 
 ## TkInter
 
-### Παράδειγμα: TODO List με TKInter
+### TODO List με TkInter
 
-![](./tkinter_todo/todo.png)
+![](./tkinter_todo/tkinter_todo.png)
 
 * [todolist.py](./tkinter_todo/todolist.py)
+* [TokyoEdtech - YouTube](https://www.youtube.com/watch?v=8qUJ9a_3zSQ)
+
+### Σχεδίαση σε canvas
+
+![](./tkinter_todo/tkinter_canvas.png)
+
+* [canvas_shapes.py](./tkinter_canvas/canvas_shapes.py)
+
+## wxPython
+
+### TODO List με wxPython
+
+![](./wxpython_todo/wxpython_todo.png)
+
+* [todolist.py](./wxpython_todo/todolist.py)
+
 
 
 <!-- ## PyQt
@@ -21,7 +37,4 @@ $ pip install PySide6
   * [main.py](./pyqt_todo/main.py)
   * [todolist.txt](./pyqt_todo/todolist.txt)
 
-## wxPython
-
-### Παράδειγμα: TODO List με wxPython
  -->

@@ -24,6 +24,11 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 1. [Πρώτη άσκηση](./resources/agp_assignment20210225.pdf) υποβολή μέσω του e-course μέχρι τις 28/3/2020
 
+
+---
+
+[Mini Challenge](./challenge/index.md)
+
 ---
 
 [EXTRAS](./EXTRAS.md)

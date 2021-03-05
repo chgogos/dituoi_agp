@@ -2,6 +2,6 @@
     "git.ignoreLimitWarning": true,
     "editor.formatOnSave": true,
     "clang-format.executable": "C:\\Program Files\\LLVM\\bin\\clang-format.exe",
-    "python.pythonPath": "C:\\Users\\chgogos\\.conda\\envs\\myenv\\python.exe",
+    "python.pythonPath": "C:\\ProgramData\\Miniconda3\\python.exe",
     "python.formatting.provider": "black"
 }

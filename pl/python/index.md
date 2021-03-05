@@ -53,8 +53,9 @@
 
 ## Videos
 
-* [CS50x -  Python](https://cs50.harvard.edu/x/2021/shorts/python/)
+* [Corey Schafer -  Python tutorials](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 * [Socratica - Python learning tutorials](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
+* [CS50x -  Python](https://cs50.harvard.edu/x/2021/shorts/python/)
 
 ## MOOCs (στα ελληνικά)
 

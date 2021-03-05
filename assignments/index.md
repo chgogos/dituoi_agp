@@ -1,5 +1,6 @@
 # Επιπλέον υλικό για τις εργασίες
 
-Mock interface για την εργασία 1
+Mock interface για την εργασία 1 (σχεδιάστηκε με το [pencil project](https://pencil.evolus.vn/))
 
-![](./../resources/prototype_ergasia1.png)
+
+<img src="./../resources/prototype_ergasia1.png"/>

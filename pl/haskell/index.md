@@ -1,6 +1,10 @@
 # Haskell
 
 
+## Videos
+
+* [Graham Hutton - Functional Programming](https://www.youtube.com/channel/UCBDp7ydYTHi1dh4Gnf3VTPA)
+
 ## Examples
 
 ### Starman

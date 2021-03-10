@@ -5,3 +5,4 @@
 * Ανώνυμες συναρτήσεις  (anonymous functions) = Λάμδα συναρτήσεις (lambda functions)
 * Συναρτήσεις υψηλότερης τάξης (higher order functions)
 * Κλειστότητα (closure)
+* duck typing

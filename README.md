@@ -17,7 +17,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 * [Python](./pl/python/index.md) 
   * [25/02/2021 HackMD](https://hackmd.io/@cgogos/SkGKYH9Z_)
   * [04/03/2021 HackMD](https://hackmd.io/@cgogos/rySJ2Rcfd)
-  * [XX/03/2021 HackMD](https://hackmd.io/@cgogos/rkZ11fHmd)
+  * [18/03/2021 HackMD](https://hackmd.io/@cgogos/rkZ11fHmd)
 * Prolog
 * Haskell
 

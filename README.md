@@ -6,7 +6,7 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 04/03/2021
+Τελευταία ενημέρωση: 15/03/2021
 
 ## 1. ΘΕΩΡΙΑ
 
@@ -18,6 +18,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
   * [25/02/2021 HackMD](https://hackmd.io/@cgogos/SkGKYH9Z_)
   * [04/03/2021 HackMD](https://hackmd.io/@cgogos/rySJ2Rcfd)
   * [18/03/2021 HackMD](https://hackmd.io/@cgogos/rkZ11fHmd)
+  * [24/03/2021 HackMD](https://hackmd.io/@cgogos/S1EzDb6XO)
 * Prolog
 * Haskell
 

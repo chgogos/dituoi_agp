@@ -3,7 +3,7 @@
 * Συντακτικό
 * Σημασιολογία
 * Μέθοδος περιγραφής συντακτικού γραμματικών χωρίς συμφραζόμενα (CFGs)
-* Συνεπαγωγή, δένδρα συντακτικής ανάλυσης, ασάφεια, προτεραιότητα τελεστών, προσεταιριστικότητα τελεστών
+* Παραγωγή, δένδρα συντακτικής ανάλυσης, ασάφεια, προτεραιότητα τελεστών, προσεταιριστικότητα τελεστών
 * BNF, EBNF
 * Γραμματικές χαρακτηριστικών (attribute grammars) για περιγραφή συντακτικού και στατικής σημασιολογίας
 * Δυναμική σημασιολογία
@@ -303,11 +303,11 @@ H BNF (Backus Naur Form) και οι CFG (Context Free Grammars) είναι ισ
 
 Γραμματική (σαφής)
 
-<stmt> -> <matched> | <unmatched>
-<matched>   -> if (<logic_expr>) <matched> else <matched>
-             | any non-if statement
-<unmatched> -> if (<logic_expr>) <stmt>
-             | if (<logic_expr>) <matched> else <unmatched>
+    <stmt> -> <matched> | <unmatched>
+    <matched>   -> if (<logic_expr>) <matched> else <matched>
+                | any non-if statement
+    <unmatched> -> if (<logic_expr>) <stmt>
+                | if (<logic_expr>) <matched> else <unmatched>
 
 Για την πρόταση
 

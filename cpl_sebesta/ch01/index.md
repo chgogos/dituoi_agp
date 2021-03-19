@@ -120,8 +120,8 @@ count++;
 
 * Ο έλεγχος τύπων κατά την εκτέλεση είναι ακριβός και προτιμάται ο έλεγχος τύπων κατά τη μεταγλώττιση.
 * linters της C 
-  * https://invisible-island.net/personal/lint-tools.html#tool_lint
-  * http://cppcheck.sourceforge.net/
+  * <https://invisible-island.net/personal/lint-tools.html#tool_lint>
+  * <http://cppcheck.sourceforge.net/>
 
 #### Χειρισμός εξαιρέσεων
 

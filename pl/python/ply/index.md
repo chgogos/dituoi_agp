@@ -5,4 +5,6 @@
 
 * WAE (With Arithmetic Expression)
 
-    {with {{x 5} {y 2}} {+ x y}}
+    ```
+    <!-- {with {{x 5} {y 2}} {+ x y}} -->
+    ```

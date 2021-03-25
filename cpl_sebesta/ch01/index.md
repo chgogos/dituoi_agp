@@ -1,5 +1,7 @@
 # 1. Εισαγωγή
 
+[pl11ch1GR.pdf](./../../resources/pl11ch1GR.pdf)
+
 * Γιατί δεν αρκεί η καλή γνώση 1-2 γλωσσών προγραμματισμού;
 * Βασικές επιρροές στη σχεδίαση γλωσσών προγραμματισμού: αρχιτεκτονική Η/Υ + μεθοδολογίες σχεδίασης προγραμμάτων
 
@@ -120,7 +122,7 @@ count++;
 
 #### Έλεγχος τύπων
 
-* Ο έλεγχος τύπων κατά την εκτέλεση είναι ακριβός και προτιμάται ο έλεγχος τύπων κατά τη μεταγλώττιση.
+* Ο έλεγχος τύπων κατά την εκτέλεση είναι "ακριβός" και προτιμάται ο έλεγχος τύπων κατά τη μεταγλώττιση.
 * linters της C 
   * <https://invisible-island.net/personal/lint-tools.html#tool_lint>
   * <http://cppcheck.sourceforge.net/>
@@ -136,8 +138,17 @@ count++;
 
 Η ψευδωνυμία αναφέρεται στη χρήση δύο ή περισσότερων ονομάτων για πρόσβαση δεδομένων που βρίσκονται στην ίδια θέση μνήμης.
 
+Aliases στη C
+
 * [alias.c](./../../pl/c/alias.c)
+
+Aliases στη C++
+
 * [alias.cpp](./../../pl/cpp/sandbox/alias.cpp)
+
+Aliases στην Python
+
+* [alias.ipynb](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/32-alias.ipynb)
 
 ## 1.4 Επιρροές στη σχεδίαση γλωσσών προγραμματισμού
 
@@ -222,16 +233,45 @@ count++;
 
 * [preprocessor1.c](./../../pl/c/preprocessor1.c)
 
+  ```
+  #include <stdio.h>
+  #define max(A, B) ((A) > (B) ? (A) : (B))
+  int main() {
+    double x, y = 2.7, z = 13.1;
+    x = max(2 * y, z / 1.7);
+    printf("%.f\n", x);
+  }
+  ```
+
+Αν δοθεί η εντολή:
+
+  ```
+  $ gcc -E preprocessor1.c
+  ```
+
+τότε η έξοδος θα είναι:
+
+  ```
+  ...
+  int main() {
+    double x, y=2.7, z=13.1;
+    x = ((2*y)>(z/1.7) ? (2*y):(z/1.7));
+  }
+  ```
+
+
 ## 1.8 Προγραμματιστικά περιβάλλοντα
 
 Ένα προγραμματιστικό περιβάλλον είναι μια συλλογή εργαλείων που χρησιμοποιούνται για την ανάπτυξη λογισμικού.
 
 ### Editors
 
-* Microsoft Visual Studio Code
-* Sublime Text
-* Atom
-* Notepad++
+* [Microsoft Visual Studio Code](https://code.visualstudio.com/)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Atom](https://atom.io/)
+* [Notepad++](https://notepad-plus-plus.org/downloads/)
+* [vim](https://www.vim.org/)
+* [emacs](https://www.gnu.org/software/emacs/)
 
 ### IDEs
 

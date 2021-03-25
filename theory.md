@@ -1,7 +1,5 @@
 # Αρχές Γλωσσών Προγραμματισμού
 
-
-
 * [Εισαγωγή](./cpl_sebesta/ch01/index.md)
 * [Περιγραφή συντακτικού και σημασιολογίας](./cpl_sebesta/ch03/index.md)
 
@@ -49,3 +47,6 @@ https://github.com/wimvanderbauwhede/HaskellMOOC -->
 
 Prolog, Mozart/Oz, Mercury, ECLiPSe...
 
+---
+
+* [Ασκήσεις](./exercises/compilers01.md)

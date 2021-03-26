@@ -49,4 +49,4 @@ Prolog, Mozart/Oz, Mercury, ECLiPSe...
 
 ---
 
-* [Ασκήσεις](./exercises/compilers01.md)
+* [Ασκήσεις](./exercises/set01.md)

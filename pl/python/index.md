@@ -15,8 +15,8 @@
 11. [<mark>Κλάσεις</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/11-classes.ipynb)
 12. [<mark>Logging</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/12-logging.ipynb)
 13. [<mark>Testing</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/13-testing.ipynb)
-14. [CSV](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/14-csv.ipynb)
-15. [Excel](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/15-excel.ipynb)
+14. [<mark>CSV</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/14-csv.ipynb)
+15. [<mark>Excel</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/15-excel.ipynb)
 16. [XML](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/16-xml.ipynb)
 17. [JSON](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/17-json.ipynb)
 18. [YAML](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/18-yaml.ipynb)
@@ -28,6 +28,12 @@
 
 [TkInter + wxPython](./gui/index.md)
 
+## Testing (με unittest)
+
+* [Παράδειγμα 1](./testing1/index.md)
+* [Παράδειγμα 2](./testing2/index.md)
+* [Παράδειγμα 3](./testing1/index.md)
+  
 ## Βιβλία 
 
 * [Think Python 2nd Edition by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)

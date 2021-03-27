@@ -26,8 +26,9 @@
 22. [Κανονικές εκφράσεις](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/22-regular_expressions.ipynb)
 23. [Generators](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/23-generators.ipynb)
 24. [Iterators](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/24-iterators.ipynb)
-25. [<mark>Aliasing</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/32-alias.ipynb)
-26. 
+25. [itertools](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/25-itertools.ipynb)
+26. [<mark>Aliasing</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/32-alias.ipynb)
+
 
 ## Γραφικά περιβάλλοντα διεπαφής (Graphical User Interfaces = GUIs)
 

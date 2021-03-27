@@ -23,7 +23,11 @@
 19. [Αποθήκευση (serialize) αντικειμένων με το pickle](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/19-pickle.ipynb)
 20. [Ημερομηνίες και ώρες](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/20-datetime.ipynb)
 21. [Τυχαίες τιμές](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/21-random.ipynb)
-32. [<mark>Aliasing</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/32-alias.ipynb)
+22. [Κανονικές εκφράσεις](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/22-regular_expressions.ipynb)
+23. [Generators](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/23-generators.ipynb)
+24. [Iterators](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/24-iterators.ipynb)
+25. [<mark>Aliasing</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/32-alias.ipynb)
+26. 
 
 ## Γραφικά περιβάλλοντα διεπαφής (Graphical User Interfaces = GUIs)
 

@@ -6,7 +6,7 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 26/03/2021
+Τελευταία ενημέρωση: 29/03/2021
 
 ## 1. ΘΕΩΡΙΑ
 
@@ -24,7 +24,8 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 ### Εργαστηριακές ασκήσεις
 
-1. [Πρώτη άσκηση](./resources/agp_assignment20210225.pdf) υποβολή μέσω του e-course μέχρι τις 28/3/2020
+1. [Πρώτη άσκηση](./resources/agp_assignment20210225.pdf) υποβολή μέσω του e-course μέχρι τις ~~28/3/2021~~
+2. [Δεύτερη άσκηση](./resources/agp_assignment20210329.pdf) υποβολή μέσω του e-course μέχρι τις 24/5/2021
 
 [Επιπλέον υλικό σχετικό με τις εργασίες](./assignments/index.md)
 

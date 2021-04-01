@@ -9,5 +9,5 @@ class TokenTypes(enum.Enum):
     MUL = 5
     DIV = 6
     IDENT = 7
-    INT_LST = 8
+    INT_LIT = 8
     EOF = 0

@@ -456,20 +456,27 @@ EBNF (ισοδύναμο με το παραπάνω σε BNF)
        Σημασιολογικός κανόνας: <expr>.expected_type <- <var>.actual_type
 
     2. Συντακτικός κανόνας: <expr> -> <var>[2] + <var>[3]
-       Σημασιολογικός κανόνας: <expr>.actual_type <-
-        if (<var>[2].actual_type = int) and (<var>[3].actual_type = int) then 
-            int
+       Σημασιολογικός κανόνας: <expr>.actual_type =
+        if (<var>[2].actual_type = int_type) and (<var>[3].actual_type = int_type) then 
+            int_type
         else 
-            real
+            real_type
         end if
        Κατηγόρημα: <expr>.actual_type == <expr>.expected_type
 
     3. Συντακτικός κανόνας: <expr> -> <var>
-       Σημασιολογικός κανόνας: <expr>.actual_type <- <var>.actual_type
+       Σημασιολογικός κανόνας: <expr>.actual_type = <var>.actual_type
        Κατηγόρημα: <expr>.actual_type == <expr>.expected_type
 
-    4. Συντακτικός κανόνας: <var> -> A | B | C
-       Σημασιολογικός κανόνας: <var>.actual_type <- look-up(<var>.string)
+    4. Συντακτικός κανόνας: <var> -> A | B | C 
+       I. Συντακτικός κανόνας: <var> -> A
+       Σημασιολογικός κανόνας: <var>.actual_type = look-up(A.value)
+       
+       II. Συντακτικός κανόνας: <var> -> B 
+       Σημασιολογικός κανόνας: <var>.actual_type = look-up(B.value)
+       
+       III. Συντακτικός κανόνας: <var> ->  C
+       Σημασιολογικός κανόνας: <var>.actual_type = look-up(C.value)
 
 Η συνάρτηση look-up ελέγχει αν υπάρχει ένα όνομα μεταβλητής στον πίνακα συμβόλων και επιστρέφει τον τύπο της μεταβλητής
 

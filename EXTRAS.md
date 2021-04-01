@@ -13,3 +13,7 @@
 
 * [EdX - NYUx DMEDX6063 - Creative Coding](https://learning.edx.org/course/course-v1:NYUx+DMEDX6063+1T2021/home)
 
+
+## Άρθρα
+
+* [Retrospective: An Axiomatic Basis for Computer Programming by C.A.R. Hoare](https://dl.acm.org/doi/pdf/10.1145/1562764.1562779)

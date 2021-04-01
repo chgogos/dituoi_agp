@@ -99,12 +99,12 @@ while (expr)
 }
 ```
 
-**Λύση**
+<!-- **Λύση**
 
 ```
 loop: control = expr
     if control == 0 goto out
     stmts
     goto loop
-out: ...
+out: ... -->
 ```

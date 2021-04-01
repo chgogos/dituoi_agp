@@ -49,5 +49,5 @@ Prolog, Mozart/Oz, Mercury, ECLiPSe...
 
 ---
 
-* [Λυμένες ασκήσεις](./exercises/recitation.md)
-* [Λυμένες ασκήσεις από το βιβλίο Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](./exercises/ppl.md)
+* [Ασκήσεις](./exercises/recitation.md)
+* [Ασκήσεις από το βιβλίο Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](./exercises/ppl.md)

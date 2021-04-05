@@ -6,7 +6,7 @@ class Token:
     def __str__(self):
         if self._t.value == TokenTypes.IDENT.value:
             return f"<{self._t}:{self._c}>"
-        elif self._t.value == TokenTypes.INT.value:
+        elif self._t.value == TokenTypes.INT_LIT.value:
             return f"<INT:{self._c}>"
         else:
             return self._t

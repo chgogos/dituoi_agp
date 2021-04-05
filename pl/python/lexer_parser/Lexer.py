@@ -43,13 +43,13 @@ class Lexer:
                 j = i
                 while j < len(s) and s[j].isdigit():
                     j += 1
-                result.append(Token(TokenTypes.IDENT, s[i:j]))
+                result.append(Token(TokenTypes.INT_LIT, s[i:j]))
                 i = j
             elif c.isalpha():
                 j = i
                 while j < len(s) and s[j].isalnum():
                     j += 1
-                result.append(Token(TokenTypes.INT_LIT, s[i:j]))
+                result.append(Token(TokenTypes.IDENT, s[i:j]))
                 i = j
             else:
                 print(f"UNEXPECTED CHARACTER ENCOUNTERED: {c}")

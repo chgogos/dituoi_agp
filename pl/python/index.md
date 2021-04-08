@@ -23,7 +23,7 @@
 19. [<mark>Αποθήκευση (serialize) αντικειμένων με το pickle</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/19-pickle.ipynb)
 20. [<mark>Ημερομηνίες και ώρες</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/20-datetime.ipynb)
 21. [<mark>Τυχαίες τιμές</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/21-random.ipynb)
-22. [Κανονικές εκφράσεις](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/22-regular_expressions.ipynb)
+22. [<mark>Κανονικές εκφράσεις</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/22-regular_expressions.ipynb)
 23. [Generators](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/23-generators.ipynb)
 24. [Iterators](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/24-iterators.ipynb)
 25. [itertools](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/25-itertools.ipynb)

@@ -62,13 +62,13 @@
 
 #### Υλοποίηση σε C
 
-* [front.c](./../../pl/c/lexer/front.c)
+* [front_lexer.c](./../../pl/c/lexer/front_lexer.c)
 
 Η έκφραση, π.χ. (sum + 47) / total, βρίσκεται στο αρχείο [front.in](./../../pl/c/lexer/front.in) και διαβάζεται από το εκτελέσιμο.
 
 ```
-$ gcc front.c -o front -std=gnu89
-$ ./front 
+$ gcc front_lexer.c -o front_lexer -std=gnu89
+$ ./front_lexer 
 Next token is: 25, Next lexeme is (
 Next token is: 11, Next lexeme is sum
 Next token is: 21, Next lexeme is +
@@ -189,15 +189,23 @@ A -> aA
 <factor> -> id | const | (<expr>)
 ```
 
+
+![](./../../resources/fig4_2.png)
+Δένδρο συντακτικής ανάλυσης για την έκφραση (sum + 47) / total
+
+
+
 #### Υλοποίηση σε C
 
-* [front.c](./../../pl/c/parser/front.c)
+Προσοχή στην υλοποίηση κανόνων EBNF  με περισσότερα από 1 RHS.
+
+* [front_parser.c](./../../pl/c/parser/front_parser.c)
 
 Η έκφραση, π.χ. (sum + 47) / total, βρίσκεται στο αρχείο [front.in](./../../pl/c/parser/front.in) και διαβάζεται από το εκτελέσιμο.
 
 ```
-$ gcc front.c -o front -std=gnu89
-$ ./front 
+$ gcc front_parser.c -o front_parser -std=gnu89
+$ ./front_parser 
 Next token is: 25, Next lexeme is (
 Enter <expr>
 Enter <term>

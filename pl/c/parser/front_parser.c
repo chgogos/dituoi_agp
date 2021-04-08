@@ -52,10 +52,8 @@ main() {
     printf("ERROR - cannot open front.in \n");
   else {
     getChar();
-    do {
-      lex();
-      expr();
-    } while (nextToken != EOF);
+    lex();
+    expr();
   }
 }
 
@@ -235,12 +233,9 @@ void factor() {
       error();
   } /* End of else */
   printf("Exit <factor>\n");
-  ;
 } /* End of function factor */
 
-void error(){
-  printf("Syntax Error");
-}
+void error() { printf("Syntax Error"); }
 
 /*
 Next token is: 25, Next lexeme is (

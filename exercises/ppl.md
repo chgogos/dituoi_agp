@@ -143,9 +143,9 @@ S -> A | AbS
 A -> abA | aA
 ```
 
-<!-- ## Κεφάλαιο 4
+## Κεφάλαιο 4
 
-### Άσκηση 1
+<!-- ### Άσκηση 1
 
 Εκτελέστε τη δοκιμή ιδιότητας ξένων ανά ζεύγη για τους παρακάτω κανόνες γραμματικής.
 
@@ -155,11 +155,66 @@ A -> abA | aA
 γ. C -> aaA | b | caB
 ```
 
-**Λύση**
+**Λύση** -->
 
 ### Άσκηση 3
 
 Αποτυπώστε την πορεία του συντακτικού αναλυτή αναδρομικής κατάβασης της ενότητας 4.4.1 για τη συμβολοσειρά a + b * c
 
 **Λύση**
- -->
+
+```
+O lexer επιστρέφει a
+Enter <expr>
+        Enter <term>
+                Enter <factor>
+                        O lexer επιστρέφει +
+                Exit <factor>
+        Exit <term>
+        O lexer επιστρέφει b
+        Enter <term>
+                Enter <factor>
+                        O lexer επιστρέφει *
+                Exit <factor>
+                O lexer επιστρέφει c
+                Enter <factor>
+                        O lexer επιστρέφει EOF
+                Exit <factor>
+        Exit <term>
+Exit <expr>
+```
+
+<!-- ### Άσκηση 5
+
+Αποτυπώστε την πορεία του συντακτικού αναλυτή αναδρομικής κατάβασης της ενότητας 4.4.1 για τη συμβολοσειρά a * (b + c)
+
+**Λύση**
+
+```
+O lexer επιστρέφει a
+Enter <expr>
+        Enter <term>
+                Enter <factor>
+                        O lexer επιστρέφει *
+                Exit <factor>
+        O lexer επιστρέφει (
+                Enter <factor>
+                O lexer επιστρέφει b
+                        Enter <expr>
+                                Enter <term>
+                                        Enter <factor>
+                                                O lexer επιστρέφει +
+                                        Exit <factor>
+                                Exit <term>
+                                O lexer επιστρέφει c
+                                Enter <term>
+                                        Enter <factor>
+                                                O lexer επιστρέφει )
+                                        Exit <factor>
+                                Exit <term>
+                        Exit <expr>
+                O lexer επιστρέφει EOF
+                Exit <factor>
+        Exit <term>
+Exit <expr>
+``` -->

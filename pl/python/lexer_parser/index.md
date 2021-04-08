@@ -1,5 +1,7 @@
 # Λεκτικός αναλυτής (lexer) και συντακτικός αναλυτής (parser) για απλές αριθμητικές εκφράσεις
 
+Προσαρμογή υλοποίησης από το [Csc 4330/6330, Programming Language Concepts (Spring 2020) - Raj Sunderraman](https://tinman.cs.gsu.edu/~raj/4330/sp20/) 
+
 Αναγνωρίζει:
 * Αναγνωριστικά IDENT
 * Ακέραια κυριολεκτικά INT_LIT
@@ -47,6 +49,37 @@ Next token: TokenTypes.INT_LIT Next lexeme: 17
 Next token: TokenTypes.RPAREN Next lexeme: )
 Next token: TokenTypes.EOF Next lexeme: EOF
 ```
+
+### Δοκιμή Lexer από τη γραμμή εντολών
+
+```
+$ python
+Python 3.8.0 ...
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import Lexer
+>>> my_lexer = Lexer.Lexer("x1 + 15 * x2")
+>>> my_lexer.lex()
+Next token: TokenTypes.IDENT Next lexeme: x1
+<Token.Token object at 0x0000026641CEA580>
+>>> my_lexer.lex()
+Next token: TokenTypes.ADD Next lexeme: +
+<Token.Token object at 0x0000026641CF68B0>
+>>> my_lexer.lex()
+Next token: TokenTypes.INT_LIT Next lexeme: 15
+<Token.Token object at 0x0000026641CC9280>
+>>> my_lexer.lex()
+Next token: TokenTypes.MUL Next lexeme: *
+<Token.Token object at 0x0000026641B28430>
+>>> my_lexer.lex()
+Next token: TokenTypes.IDENT Next lexeme: x2
+<Token.Token object at 0x0000026641B28970>
+>>> my_lexer.lex()
+Next token: TokenTypes.EOF Next lexeme: EOF
+<Token.Token object at 0x0000026641E41760> 
+```
+
+
+---
 
 ## Parser
 

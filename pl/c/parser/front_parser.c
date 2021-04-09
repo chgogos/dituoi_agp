@@ -238,12 +238,30 @@ void factor() {
 void error() { printf("Syntax Error"); }
 
 /*
+Next token is: 11, Next lexeme is a
+Enter <expr>
+Enter <term>
+Enter <factor>
+Next token is: 23, Next lexeme is *
+Exit <factor>
 Next token is: 25, Next lexeme is (
-Next token is: 11, Next lexeme is sum
+Enter <factor>
+Next token is: 11, Next lexeme is b
+Enter <expr>
+Enter <term>
+Enter <factor>
 Next token is: 21, Next lexeme is +
-Next token is: 10, Next lexeme is 46
+Exit <factor>
+Exit <term>
+Next token is: 11, Next lexeme is c
+Enter <term>
+Enter <factor>
 Next token is: 26, Next lexeme is )
-Next token is: 24, Next lexeme is /
-Next token is: 11, Next lexeme is total
+Exit <factor>
+Exit <term>
+Exit <expr>
 Next token is: -1, Next lexeme is EOF
+Exit <factor>
+Exit <term>
+Exit <expr>
 */

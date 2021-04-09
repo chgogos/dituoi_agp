@@ -12,10 +12,14 @@ for root, _, files in os.walk(start_directory, topdown=False):
             fp = os.path.join(root, file)  # πλήρες όνομα αρχείου
             print(fp)
             c += 1
-            with open(fp, "r", encoding="utf-8") as f:  # άνοιγμα αρχείου fp με context manager
-                lines = f.read()
+            with open(
+                fp, "r", encoding="utf-8"
+            ) as f:  # άνοιγμα αρχείου fp με context manager
+                lines = f.readlines()
                 # lines = [x for x in lines if x != "\n"]  # α) αφαίρεση γραμμών που περιέχουν μόνο το σύμβολο αλλαγής γραμμής \n
-                # lines = [x for x in lines if x.strip() != ""] β) # αφαίρεση κενών γραμμών
+                lines = [
+                    x for x in lines if x.strip() != ""
+                ]  # β) # αφαίρεση κενών γραμμών
                 total_lines_c += len(lines)
 
 print(f"Αρχεία C++ = {c}, συνολικός αριθμός γραμμών C++ κώδικα = {total_lines_c}")

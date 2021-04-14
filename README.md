@@ -19,10 +19,12 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
   * [04/03/2021 HackMD](https://hackmd.io/@cgogos/rySJ2Rcfd)
   * [18/03/2021 HackMD](https://hackmd.io/@cgogos/rkZ11fHmd)
   * [24/03/2021 HackMD](https://hackmd.io/@cgogos/S1EzDb6XO)
-  * [01/04/2021 HackMD](https://hackmd.io/@cgogos/ryNl-xTEd)
+  * [01/04/2021 & 08/04/2021 HackMD](https://hackmd.io/@cgogos/ryNl-xTEd)
+  * [15/04/2021 ΗackMD](https://hackmd.io/@cgogos/SyojDoELu)
 
 <!-- * Prolog
-* Haskell -->
+  * [22/04/2021 HackMD]()
+* Haskell  -->
 
 
 ### Εργαστηριακές ασκήσεις

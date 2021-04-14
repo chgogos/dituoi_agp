@@ -27,7 +27,14 @@
 23. [Generators](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/23-generators.ipynb)
 24. [Iterators](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/24-iterators.ipynb)
 25. [itertools](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/25-itertools.ipynb)
-26. [<mark>Aliasing</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/32-alias.ipynb)
+26. [enums](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/26-enums.ipynb)
+27. [<mark>urllib</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/27-urllib.ipynb)
+28. [<mark>requests</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/28-requests.ipynb)
+29. [<mark>bs4</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/29-bs4.ipynb)
+30. [collections](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/30-collections.ipynb)
+31. [PLY](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/31-PLY.ipynb)
+32. [<mark>Aliasing</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/32-alias.ipynb)
+
 
 
 ## Γραφικά περιβάλλοντα διεπαφής (Graphical User Interfaces = GUIs)

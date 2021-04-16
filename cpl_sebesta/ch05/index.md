@@ -134,8 +134,11 @@ vector<int> v;
 auto itr = v.iterator();
 ```
 
-δηλώνουν με στατική πρόσδεση ότι o τύπος της μεταβλητής itr είναι vector<int>::iterator
+δηλώνουν με στατική πρόσδεση ότι o τύπος της μεταβλητής itr είναι 
 
+```
+vector<int>::iterator
+```
 
 
 #### 5.4.2.2 Δυναμική πρόσδεση τύπων (dynamic binding ή late binding)

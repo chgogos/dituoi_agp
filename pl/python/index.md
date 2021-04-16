@@ -32,7 +32,7 @@
 28. [<mark>requests</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/28-requests.ipynb)
 29. [<mark>bs4</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/29-bs4.ipynb)
 30. [collections](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/30-collections.ipynb)
-31. [PLY](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/31-PLY.ipynb)
+31. [<mark>PLY - Python Lex Yacc</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/31-PLY.ipynb)
 32. [<mark>Aliasing</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/32-alias.ipynb)
 
 

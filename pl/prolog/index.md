@@ -2,10 +2,10 @@
 
 ## Παρουσιάσεις
 
-* [Εισαγωγή στη γλώσσα Prolog - Παπασπύρου Ν., Σαγώνας Κ.](https://ocw.aoc.ntua.gr/modules/document/file.php/ECE117/lecture-16.pdf)
+* [<mark>Εισαγωγή στη γλώσσα Prolog - Παπασπύρου Ν., Σαγώνας Κ.</mark>](https://ocw.aoc.ntua.gr/modules/document/file.php/ECE117/lecture-16.pdf)
 * [Περισσότερη Prolog - Παπασπύρου Ν., Σαγώνας Κ.](https://ocw.aoc.ntua.gr/modules/document/file.php/ECE117/lecture-17.pdf)
 
-[Κώδικας παραδειγμάτων](./mpl_webber/index.md)
+[<mark>Κώδικας παρουσιάσεων</mark>](./mpl_webber/index.md)
 
 ## Συγγράμματα
 
@@ -18,6 +18,7 @@
 
 ## Tutorials
 
+* [<mark>Learn X in Y minutes where X=prolog</mark>](https://learnxinyminutes.com/docs/prolog/)
 * [The power of Prolog by Markus Triska](https://www.metalevel.at/prolog)
 * [Prolog tutorial by J.R.Fisher](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/pt_framer.html)
 * [Learn Prolog Now](http://www.learnprolognow.org/)
@@ -50,7 +51,6 @@
   * [Chapter 10 kb3.pl](./lpn/ch10/kb3.pl)
   * [Chapter 10 kb4.pl](./lpn/ch10/kb4.pl)
   * [Chapter 10 kb5.pl](./lpn/ch10/kb5.pl)
-* [Learn X in Y minutes where X=prolog](https://learnxinyminutes.com/docs/prolog/)
 
 ## Βίντεο μαθήματα για την Prolog
 
@@ -58,13 +58,14 @@
 * [Εισαγωγή στην Prolog, Δ. Ψούνης)](https://www.youtube.com/playlist?list=PLLMmbOLFy25HGbFmMa6aWLBkFcI5FVabr)
 * [The Power of Prolog by Markus Triska: Videos](https://www.metalevel.at/prolog/videos/)
 
+## Λογισμικά
+
+* [<mark>SWI-Prolog</mark>](http://www.swi-prolog.org/)
+  * [SWI-Prolog editor (μόνο για windows)](http://arbeitsplattform.bildung.hessen.de/fach/informatik/swiprolog/indexe.html)
+  * [pyswip (Python - SWI-Prolog bridge)](https://github.com/yuce/pyswip)
+* [GNU-Prolog](http://www.gprolog.org/)
+
 ## Διάφορα
 
 * [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook/)
 
-## Λογισμικά
-
-* [SWI-Prolog](http://www.swi-prolog.org/)
-  * [SWI-Prolog editor (μόνο για windows)](http://arbeitsplattform.bildung.hessen.de/fach/informatik/swiprolog/indexe.html)
-  * [pyswip (Python - SWI-Prolog bridge)](https://github.com/yuce/pyswip)
-* [GNU-Prolog](http://www.gprolog.org/)

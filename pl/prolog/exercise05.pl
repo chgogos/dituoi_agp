@@ -37,21 +37,21 @@ female_friends(X,Y):-
         
 %% Ερώτημα A.5
 friend_same_gender(X,Y):-
- female(X),
- friends(X,Y),
- female(Y).
+        female(X),
+        friends(X,Y),
+        female(Y).
 
 friend_same_gender(X,Y):-
- male(X),
- friends(X,Y),
- male(Y).
+        male(X),
+        friends(X,Y),
+        male(Y).
 
 %% Ερώτημα A.6
 recommend_common_friends(X,Y):-
- friends(X,Z),
- friends(Z,Y),
- X \= Y.
- 
+        friends(X,Z),
+        friends(Z,Y),
+        X \= Y.
+
 %% Ερώτημα Β.1
 %% ?- follows(X, sofia).
 %% X = petros ;

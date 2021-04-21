@@ -14,7 +14,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 ## 2. ΕΡΓΑΣΤΗΡΙΟ
 
-* [Python](./pl/python/index.md) 
+* [Υλικό για την Python](./pl/python/index.md) 
   * [25/02/2021 HackMD](https://hackmd.io/@cgogos/SkGKYH9Z_)
   * [04/03/2021 HackMD](https://hackmd.io/@cgogos/rySJ2Rcfd)
   * [18/03/2021 HackMD](https://hackmd.io/@cgogos/rkZ11fHmd)
@@ -24,8 +24,11 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 **[Λύσεις ασκήσεων Python](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/sols.ipynb)**
 
-* [Prolog](./pl/prolog/index.md)
+* [Υλικό για την Prolog](./pl/prolog/index.md)
   * [22/04/2021 HackMD](https://hackmd.io/@cgogos/SyojDoELu)
+
+<!-- **[Λύσεις ασκήσεων Prolog]()** -->
+
 
 <!-- * Haskell  -->
 

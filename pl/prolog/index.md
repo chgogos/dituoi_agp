@@ -70,6 +70,14 @@
 
 ## Διάφορα
 
+**Εμφάνιση αποτελεσμάτων**
+
+```
+?-  X = 1,  Y = 2,  Z is  X + Y, W = arta, format('X=~w Y=~w Z=~w W=~s', [X,Y,Z,W]), fail.  % στη SWI-Prolog
+X=1 Y=2 Z=3 W=arta
+false.
+```
+
 **Έξοδος από κατάσταση λάθους**
 
 Ctrl + C και μετά a για abort
@@ -85,7 +93,9 @@ GNU Prolog 1.4.5 (64 bits)
 Compiled Feb  5 2017, 10:30:08 with gcc
 By Daniel Diaz
 Copyright (C) 1999-2016 Daniel Diaz
-| ?-
+| ?- print('hello world').
+hello world
+
+yes
+| ?- halt.
 ```
-
-

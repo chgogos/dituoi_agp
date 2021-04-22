@@ -14,6 +14,7 @@
   * Κεφάλαιο 5. Σημασιολογία Prolog Προγραμμάτων
 * [Λογικός Προγραμματισμός - Η γλώσσα Prolog - Χ. Νομικός, 2015](http://www.cs.uoi.gr/~cnomikos/courses/pl/Prolog-2015.pdf)
 * [Η γλώσσα προγραμματισμού Prolog - μέθοδος ταχείας εκμάθησης βάσει παραδειγμάτων - Κ. Σγάρμπας , 2006](https://www.dit.uoi.gr/e-class/modules/document/file.php/196/prolog_shmeiwseis_sgarbas.pdf)
+* [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook/)
 
 
 ## Tutorials
@@ -44,7 +45,7 @@
   * [Chapter 4 a2b.pl](./lpn/ch4/a2b.pl)
   * [Chapter 5 addThreeAndDouble.pl](./lpn/ch5/addThreeAndDouble.pl)
   * [Chapter 5 len1.pl](./lpn/ch5/len1.pl)
-  * [Chapter 5 accLen.pl](./lpn/ch5/accLen.pl)
+  * [Chapter 5 accLen.pl](./lpn/ch5/acclen.pl)
   * [Chapter 5 accMax.pl](./lpn/ch5/accMax.pl)
   * [Chapter 10 kb1.pl](./lpn/ch10/kb1.pl)
   * [Chapter 10 kb2.pl](./lpn/ch10/kb2.pl)
@@ -61,11 +62,30 @@
 ## Λογισμικά
 
 * [<mark>SWI-Prolog</mark>](http://www.swi-prolog.org/)
+  * [swish - online εκτέλεση εντολών και προγραμμάτων Prolog](https://swish.swi-prolog.org/)
   * [SWI-Prolog editor (μόνο για windows)](http://arbeitsplattform.bildung.hessen.de/fach/informatik/swiprolog/indexe.html)
   * [pyswip (Python - SWI-Prolog bridge)](https://github.com/yuce/pyswip)
 * [GNU-Prolog](http://www.gprolog.org/)
 
+
 ## Διάφορα
 
-* [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook/)
+**Έξοδος από κατάσταση λάθους**
+
+Ctrl + C και μετά a για abort
+
+**Εγκατάσταση της GNU-Prolog σε Ubuntu**
+
+```
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get gprolog
+$ gprolog
+GNU Prolog 1.4.5 (64 bits)
+Compiled Feb  5 2017, 10:30:08 with gcc
+By Daniel Diaz
+Copyright (C) 1999-2016 Daniel Diaz
+| ?-
+```
+
 

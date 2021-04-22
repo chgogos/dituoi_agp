@@ -42,13 +42,21 @@ For built-in help, use ?- help(Topic). or ?- apropos(Word).
 1 ?-
 ```
 
+Έξοδος από την interactive γραμμή εντολών διερμηνέα της Prolog
+
+```
+?- halt.
+```
+
 **Φόρτωση βάσης γνώσης**
+
+Η φόρτωση μιας βάσης γνώσης μπορεί να γίνει με το κατηγόρημα consult/1.
 
 ```
 ?- consult(lect16_p11.pl).
 ```
 
-εναλλακτικά μπορεί να γίνει και με 
+εναλλακτικά μπορεί να γίνει και με αγκύλες τύπου \[\].
 
 ```
 ?- [lect16_p11].
@@ -120,10 +128,12 @@ greatgrandparent(GGP, GGC) :-
 Στο ερώτημα
 
 ```
+?- [lect16_p23].
+true.
 ?- greatgrandparent(esther, GreatGrandChild).
 ```
 
-προκαλείται η ακόλουθη πρόσδεση μεταβλητών
+προκαλείται η ακόλουθη πρόσδεση μεταβλητών.
 
 ```
 GGP = esther.
@@ -168,6 +178,8 @@ ancestor(X, Y) :-
 [lect16_p27.pl](./lect16_p27.pl)
 
 ```
+?- [lect16_p27].
+true.
 ?- ancestor(jean, jean).
 false.
 
@@ -225,6 +237,24 @@ X = 1+2*3.
 
 ### Λίστες
 
+Μια λίστα αναπαρίσταται με αγκύλες της μορφής \[\] με περιεχόμενα στοιχεία που διαχωρίζονται μεταξύ τους με κόμματα. Για παράδειγμα:
+
+```
+?- X = [maria, petros, nikos].
+X = [maria, petros, nikos].
+```
+
+**Εσωτερική αναπαράσταση λίστας**
+
+Οι λίστες αναπαρίστανται εσωτερικά ως σύνθετοι όροι χρησιμοποιώντας το functor . (dot). Η άδεια λίστα [] είναι ένα άτομο και ισχύει η ακόλουθη ισοδυναμία συμβολισμού για τη λίστα \[a,b,c\].
+
+```
+% swipl --traditional
+?- X = .(a, .(b, .(c,[]))).
+X = [a,b,c].
+```
+
+
 **Κεφαλή και ουρά λίστας**
 
 ```
@@ -268,7 +298,7 @@ Y = [] ;
 false.
 ```
 
-Υλοποίηση του κατηγορήματος append
+Υλοποίηση του κατηγορήματος append (το κατηγόρημα append είναι ήδη υλοποιημένο στην prolog).
 
 ```
 append([], L, L).
@@ -286,9 +316,19 @@ append([H|L1], L2, [H|L3]) :-
 * reverse(X,Y) Επιτυγχάνει εάν ο όρος Y ενοποιείται με την αναστροφή της λίστας X. 
 * sort(X,Y) Επιτυγχάνει όταν o όρος Y είναι το ταξινομημένο X. (μη αναστρέψιμο)
 
+[SWI-Prolog	- library(lists): List Manipulation](https://www.swi-prolog.org/pldoc/man?section=lists)
+
 **Ανώνυμες μεταβλητές**
 
-Οι ανώνυμες μεταβλητές συμβολίζονται με την κάτω παύλα
+Οι ανώνυμες μεταβλητές συμβολίζονται με την κάτω παύλα και αφορούν μεταβλητές για τις οποίες δεν ενδιαφέρει η τελική αποτίμηση τιμής τους.
+
+```
+?- [X,_|Y] = [1,2,3].
+X = 1,
+Y = [3].
+```
+
+Υλοποίηση του κατηγορήματος member.
 
 ```
 member(X, [X|_]).
@@ -337,7 +377,11 @@ sibling(X, Y) :-
 ```
 [lect16_p59a.pl](./lect16_p59a.pl)
 
+Στο τελευταίο από τα ερωτήματα θα περιμέναμε διαφορετική συμπεριφορά.
+
 ```
+[lect16_p59a].
+true.
 ?- sibling(kim, kent).
 true.
 ?- sibling(kim, kim).
@@ -345,6 +389,8 @@ false.
 ?- sibling(X, Y).
 false.
 ```
+
+Επιδιόρθωση.
 
 ```
 parent(kim, holly).
@@ -362,6 +408,8 @@ sibling(X, Y) :-
 [lect16_p59b.pl](./lect16_p59b.pl)
 
 ```
+?- [lect16_p59b].
+true.
 ?- sibling(X, Y).
 X = kim
 Y = kent ;
@@ -410,5 +458,23 @@ solution(Config, [Move|Moves]) :-
 [lect16_p65.pl](./lect16_p65.pl)
 
 ```
+? [lect16_p65].
+true.
 ?- length(L, Ν), solution([w,w,w,w], L).
+5 ?- length(L, Ν), solution([w,w,w,w], L).
+L = [goat, nothing, wolf, goat, cabbage, nothing, goat],
+Ν = 7 ;
+L = [goat, nothing, cabbage, goat, wolf, nothing, goat],
+Ν = 7 ;
+L = [goat, goat, goat, nothing, wolf, goat, cabbage, nothing, goat],
+Ν = 9 ;
+L = [goat, goat, goat, nothing, cabbage, goat, wolf, nothing, goat],
+Ν = 9 ;
+L = [goat, nothing, wolf, wolf, wolf, goat, cabbage, nothing, goat],
+Ν = 9 ;
+L = [goat, nothing, wolf, wolf, cabbage, goat, wolf, nothing, goat],
+Ν = 9 ;
+L = [goat, nothing, wolf, goat, goat, goat, cabbage, nothing, goat],
+Ν = 9 ;
+...
 ```

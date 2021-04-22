@@ -8,12 +8,18 @@
 
 * [Lex Fridman Podcast](https://lexfridman.com/podcast/)
 * [Programming podcast with Minko Gechev](https://podcast.mgechev.com/)
+* [CppCast](https://cppcast.com/)
 
 ## Creative Coding
 
 * [EdX - NYUx DMEDX6063 - Creative Coding](https://learning.edx.org/course/course-v1:NYUx+DMEDX6063+1T2021/home)
 
 
-## Άρθρα
+## Άρθρα σε επιστημονικά περιοδικά
 
 * [Retrospective: An Axiomatic Basis for Computer Programming by C.A.R. Hoare](https://dl.acm.org/doi/pdf/10.1145/1562764.1562779)
+
+
+## Άρθρα
+
+* [Java is criminally underhyped](https://jackson.sh/posts/2021-04-java-underrated/)

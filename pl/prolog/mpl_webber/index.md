@@ -42,7 +42,7 @@ For built-in help, use ?- help(Topic). or ?- apropos(Word).
 1 ?-
 ```
 
-Έξοδος από την interactive γραμμή εντολών διερμηνέα της Prolog
+Έξοδος από την interactive γραμμή εντολών του διερμηνέα της Prolog:
 
 ```
 ?- halt.

@@ -23,3 +23,5 @@
 ## Άρθρα
 
 * [Java is criminally underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
+* [Green Vs. Brown Programming Languages](https://earthly.dev/blog/brown-green-language/)
+* [StackOverflow 2020 Developer Survey](https://insights.stackoverflow.com/survey/2020)

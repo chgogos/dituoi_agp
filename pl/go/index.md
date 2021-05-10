@@ -1,5 +1,7 @@
 # Go
 
+* [Go playground](https://play.golang.org/)
+
 Η Go δεν έχει κλάσεις, αλλά μπορούν να ορίζονται μέθοδοι σε τύπους. Μια μέθοδος είναι μια συνάρτηση που έχει ένα ειδικό όρισμα παραλήπτη (receiver). Συχνά ο receiver είναι pointer.
 
 ## Παραδείγματα
@@ -14,3 +16,4 @@ channels: Ένα channel είναι ένας αγωγός μέσω του οπο
 
 * [Get started with Go](https://golang.org/doc/tutorial/getting-started)
 * [A tour of Go](https://tour.golang.org/list)
+

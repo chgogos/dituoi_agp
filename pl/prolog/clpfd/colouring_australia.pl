@@ -1,3 +1,4 @@
+% http://www.todayifoundout.com/index.php/2014/04/origin-names-australias-states-territories-capitals/
 % WA = Western Australia 
 % NT = Northern Territory 
 % Q = Queensland 
@@ -5,8 +6,6 @@
 % V = Victoria 
 % SA = South Australia 
 % T = Tasmania
-% http://www.todayifoundout.com/index.php/2014/04/origin-names-australias-states-territories-capitals/
-
 
 :- use_module(library(clpfd)).
 

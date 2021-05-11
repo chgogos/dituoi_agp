@@ -45,7 +45,7 @@ subject to  0 <= x <= 1
 * Κλήση του επιλυτή και εμφάνιση των αποτελεσμάτων
 
 
-[linear_programming.ipynb](./linear_programming.ipynb)
+[linear_programming.ipynb](https://github.com/chgogos/dituoi_agp/blob/main/tools/ortools/linear_programming.ipynb)
 
 
 **Κατηγορίες προβλημάτων βελτιστοποίησης που αντιμετωπίζονται από το OR-Tools**
@@ -79,7 +79,7 @@ subject to  0 <= x <= 1
 =   TRUE
 ```
 
-[cryptarithmetic.ipynb](./cryptarithmetic.ipynb)
+[cryptarithmetic.ipynb](https://github.com/chgogos/dituoi_agp/blob/main/tools/ortools/cryptarithmetic.ipynb)
 
 **Το πρόβλημα των Ν-Βασιλισσών**
 
@@ -90,7 +90,7 @@ subject to  0 <= x <= 1
 
 Ο CP-SAT επιλυτής χρησιμοποιεί περισσότερο προχωρημένες τεχνικές από τον CP-Solver και προτείνεται από το OR-Tools έναντι του CP-Solver για την αποδοτικότερη επίλυση προβλημάτων. Στο πρόβλημα των N-βασιλισσών εφόσον ζητείται ο εντοπισμός μιας μόνο λύσης ο CP-SAT είναι σε θέση να εντοπίσει τη λύση ακόμα και για ταμπλό 50Χ50 σε μερικά milliseconds.
 
-[nqueens.ipynb](./nqueens.ipynb)
+[nqueens.ipynb](https://github.com/chgogos/dituoi_agp/blob/main/tools/ortools/nqueens.ipynb)
 
 
 ## Προβλήματα ανάθεσης
@@ -99,7 +99,7 @@ subject to  0 <= x <= 1
 
 Για απλές μορφές προβλημάτων ανάθεσης μπορεί να χρησιμοποιηθεί ο ταχύτατος επιλυτής [Linear Assignment Solver](https://developers.google.com/optimization/assignment/linear_assignment) του OR-Tools.
 
-[linear_assignment_solver.ipynb](./linear_assignment_solver.ipynb)
+[linear_assignment_solver.ipynb](https://github.com/chgogos/dituoi_agp/blob/main/tools/ortools/linear_assignment_solver.ipynb)
 
 ## Προβλήματα χρονοπρογραμματισμού
 
@@ -112,7 +112,7 @@ subject to  0 <= x <= 1
 * Κάθε ημέρα κάθε βάρδια ανατίθεται σε έναν νοσηλευτή και δεν επιτρέπεται σε κανένα νοσηλευτή να εργάζεται περισσότερες από μια βάρδιες την ημέρα.
 * Σε κάθε νοσηλευτή θα πρέπει να ανατεθούν τουλάχιστον δύο βάρδιες κατά τη διάρκεια των 3 ημερών.
 
-[employee_scheduling.ipynb](./employee_scheduling.ipynb)
+[employee_scheduling.ipynb](https://github.com/chgogos/dituoi_agp/blob/main/tools/ortools/employee_scheduling.ipynb)
 
 ---
 

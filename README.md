@@ -6,7 +6,10 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 10/05/2021
+Τελευταία ενημέρωση: 13/05/2021
+
+Η ύλη της προόδου που θα πραγματοποιηθεί στις 14/5/2021 στις 11:00-12:00 είναι τα κεφάλαια 1,3,4,5,16 από το [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi) καθώς και [βασικές γνώσεις για την Python](./pl/python/index.md).
+
 
 ## 1. ΘΕΩΡΙΑ
 
@@ -27,11 +30,13 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 * [Υλικό για την Prolog](./pl/prolog/index.md)
   * [22/04/2021 HackMD](https://hackmd.io/@cgogos/SyojDoELu)
 
-* Δηλωτικός προγραμματισμός - μοντέλα προβλημάτων (SWI PROLOG CLPFD, [GOOGLE OR-Tools](./tools/ortools/index.md))
+* Δηλωτικός προγραμματισμός - μοντελοποίηση προβλημάτων ([SWI PROLOG CLPFD](https://www.swi-prolog.org/man/clpfd.html), [GOOGLE OR-Tools](./tools/ortools/index.md))
   * [13/05/2021 HackMD](https://hackmd.io/@cgogos/Byie_58_d)
 
-<!-- **[Λύσεις ασκήσεων Prolog]()** -->
+**Λύσεις ασκήσεων Prolog**
 
+* [Prolog - Άσκηση 1](./pl/prolog/exercise08.pl)
+<!-- * [Prolog CLPFD - ] -->
 
 <!-- * Haskell  -->
 
@@ -39,7 +44,8 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 1. [Πρώτη άσκηση](./resources/agp_assignment20210225.pdf) υποβολή μέσω του e-course μέχρι τις ~~28/3/2021~~
 2. [Δεύτερη άσκηση](./resources/agp_assignment20210329.pdf) υποβολή μέσω του e-course μέχρι τις ~~25/4/2021~~
-
+<!-- 3. [Τρίτη άσκηση]() υποβολή μέσω του e-course μέχρι τις 11/6/2021 -->
+   
 [Επιπλέον υλικό σχετικό με τις εργασίες](./assignments/index.md)
 
 ---

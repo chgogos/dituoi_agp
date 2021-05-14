@@ -355,7 +355,7 @@ X = a ;
 X = b.
 ```
 
-**Το κατηγόρημα \+/1**
+**Το κατηγόρημα +\\1**
 
 ```
 ?- member(1, [1,2,3]).
@@ -427,6 +427,8 @@ X = jean
 Y = margaret ;
 false.
 ```
+
+Δείτε και το <https://cliplab.org/~vocal/public_info/seminar_notes/node52.html>
 
 ## Το πρόβλημα λογικής: Λύκος - Κατσίκα - Λάχανο
 

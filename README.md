@@ -6,9 +6,9 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 13/05/2021
+Τελευταία ενημέρωση: 14/05/2021
 
-Η ύλη της προόδου που θα πραγματοποιηθεί στις 14/5/2021 στις 11:00-12:00 είναι τα κεφάλαια 1,3,4,5,16 από το [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi) καθώς και [βασικές γνώσεις για την Python](./pl/python/index.md).
+Η ύλη της προόδου που θα πραγματοποιηθεί στις ~~14/5/2021 στις 11:00-12:00~~ είναι τα κεφάλαια 1,3,4,5,16 από το [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi) καθώς και [βασικές γνώσεις για την Python](./pl/python/index.md).
 
 
 ## 1. ΘΕΩΡΙΑ

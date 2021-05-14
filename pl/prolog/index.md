@@ -52,6 +52,7 @@
   * [Chapter 10 kb3.pl](./lpn/ch10/kb3.pl)
   * [Chapter 10 kb4.pl](./lpn/ch10/kb4.pl)
   * [Chapter 10 kb5.pl](./lpn/ch10/kb5.pl)
+* [Drawing Prolog Search Trees: A Manual for Teachers and Students of Logic Programming](https://arxiv.org/pdf/2001.08133.pdf)
 
 ## Βίντεο μαθήματα για την Prolog
 
@@ -70,7 +71,33 @@
 
 ## Διάφορα
 
+**Έναρξη SWI-Prolog διερμηνευτή από τη γραμμή εντολών**
+
+```
+> swipl
+Welcome to SWI-Prolog (threaded, 64 bits, version 8.2.4)
+SWI-Prolog comes with ABSOLUTELY NO WARRANTY. This is free software.
+Please run ?- license. for legal details.
+
+For online help and background, visit https://www.swi-prolog.org
+For built-in help, use ?- help(Topic). or ?- apropos(Word).
+
+1 ?- 
+```
+
 **Εμφάνιση αποτελεσμάτων**
+
+```
+?- print('hello world').
+'hello world'
+true.
+```
+
+```
+?- writeln('hello world').
+'hello world'
+true.
+```
 
 ```
 ?-  X = 1,  Y = 2,  Z is  X + Y, W = arta, format('X=~w Y=~w Z=~w W=~s', [X,Y,Z,W]), fail.  % στη SWI-Prolog
@@ -81,6 +108,17 @@ false.
 **Έξοδος από κατάσταση λάθους**
 
 Ctrl + C και μετά a για abort
+
+
+**Ενεργοποίηση και απενεργοποίηση ιχνηλάτησης**
+
+```
+trace.
+[trace] ?- 
+...
+nodebug.
+?-
+```
 
 **Εγκατάσταση της GNU-Prolog σε Ubuntu**
 
@@ -98,14 +136,4 @@ hello world
 
 yes
 | ?- halt.
-```
-
-**Ενεργοποίηση και απενεργοποίηση ιχνηλάτησης**
-
-```
-trace.
-[trace] ?- 
-...
-nodebug.
-?-
 ```

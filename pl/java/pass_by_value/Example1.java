@@ -9,12 +9,12 @@ public class Example1 {
 
     public static void main(String[] args) {
         int x = 5;
-        // κλήση με τιμή
+        // μεταβίβαση κατά τιμή
         foo(x);
         System.out.println(x);
 
         MyClass obj = new MyClass(5);
-        // προσομοίωση κλήσης με αναφορά
+        // προσομοίωση μεταβίβασης κατά αναφορά
         bar(obj);
         System.out.println(obj.a);
     }

@@ -31,7 +31,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
   * [22/04/2021 HackMD](https://hackmd.io/@cgogos/SyojDoELu)
 
 * Δηλωτικός προγραμματισμός - μοντελοποίηση προβλημάτων ([SWI PROLOG CLPFD](https://www.swi-prolog.org/man/clpfd.html), [GOOGLE OR-Tools](./tools/ortools/index.md))
-  * [13/05/2021 HackMD](https://hackmd.io/@cgogos/Byie_58_d)
+  * [13/05/2021 & 20/5/2021 HackMD](https://hackmd.io/@cgogos/Byie_58_d)
 
 **Λύσεις ασκήσεων Prolog**
 

@@ -1,9 +1,11 @@
 #include <stdio.h>
 
+#define mat_ptr(r, c) (*(mat_ptr + ((r) * N) + c)))
+
 void fun(int *mat_ptr, int M, int N) {
   for (int i = 0; i < M; i++) {
     for (int j = 0; j < N; j++) {
-      printf("%3d", *(mat_ptr + (i * N) + j));
+      printf("%3d", mat_ptr(i,j);
     }
     printf("\n");
   }

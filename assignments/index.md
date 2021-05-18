@@ -10,3 +10,7 @@ Mock interface για την εργασία 1 (σχεδιάστηκε με το 
 
 * [Διάσχιση υποκαταλόγων ενός καταλόγου με την os.walk](./../pl/python/os_walk.py)
 
+<script src="https://gist.github.com/chgogos/5fae0afe96df4637b8cd4f649055f346.js"></script>
+
+
+

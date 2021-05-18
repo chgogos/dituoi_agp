@@ -7,10 +7,11 @@ def outer_func(msg):
     return inner_function
 
 
-hi_func = outer_func('Hi')
-hello_func = outer_func('hello')
+hi_func = outer_func("Hi")
+hello_func = outer_func("hello")
 
 hi_func()
 hello_func()
 
 # Hi
+# hello

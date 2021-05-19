@@ -398,6 +398,7 @@ swap1(c,d);
 
 * [function_pointer.c](./../../pl/c/function_pointer.c)
 * [function_pointer2.c](./../../pl/c/function_pointer2.c)
+* [trapezoid_rule.c](./../../pl/c/trapezoid_rule.c)
 
 ## 9.8 Ζητήματα σχεδιασμού για συναρτήσεις
 

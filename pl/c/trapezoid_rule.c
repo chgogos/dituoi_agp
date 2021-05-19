@@ -39,3 +39,9 @@ int main(int argc, char **argv) {
 
   return 0;
 }
+
+// result: 50.00000
+// result: 333.33333
+// result: 2500.00000
+// result: 22025.46579
+// result: 21.08185

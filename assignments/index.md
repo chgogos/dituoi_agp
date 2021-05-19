@@ -14,4 +14,9 @@ Mock interface για την εργασία 1 (σχεδιάστηκε με το 
 <script src="https://gist.github.com/chgogos/5fae0afe96df4637b8cd4f649055f346.js"></script>
 
 
+## Εργασία 3
+
+* [Håkan Kjellerstrand - OR-Tools Page](http://www.hakank.org/google_or_tools)
+  * [Sudoku](http://www.hakank.org/google_or_tools/sudoku_mip_sat.py)
+
 

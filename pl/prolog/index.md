@@ -53,6 +53,7 @@
   * [Chapter 10 kb4.pl](./lpn/ch10/kb4.pl)
   * [Chapter 10 kb5.pl](./lpn/ch10/kb5.pl)
 * [Drawing Prolog Search Trees: A Manual for Teachers and Students of Logic Programming](https://arxiv.org/pdf/2001.08133.pdf)
+* [Prolog dictionary](http://www.cse.unsw.edu.au/~billw/prologdict.html)
 
 ## Βίντεο μαθήματα για την Prolog
 
@@ -137,3 +138,11 @@ hello world
 yes
 | ?- halt.
 ```
+
+**Βιβλιοθήκες της SWI-Prolog**
+
+* https://www.swi-prolog.org/pldoc/man?section=libpl
+  * [<mark>library(clpb): Constraint Logic Programming over Boolean Variables</mark>](https://www.swi-prolog.org/pldoc/man?section=clpb)
+  * [library(clpfd): Constraint Logic Programming over Finite Domains](https://www.swi-prolog.org/pldoc/man?section=clpfd)
+  * [library(clpqr): Constraint Logic Programming over Rationals and Reals](https://www.swi-prolog.org/pldoc/man?section=clpqr)
+  * [library(simplex): Solve linear programming problems](https://www.swi-prolog.org/pldoc/man?section=simplex)

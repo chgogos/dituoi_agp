@@ -3,6 +3,7 @@ from ortools.sat.python import cp_model
 """
     SEND
 +   MORE
+--------
 =  MONEY
 """
 
@@ -15,7 +16,7 @@ d = model.NewIntVar(0, 9, "D")
 m = model.NewIntVar(1, 9, "M")
 o = model.NewIntVar(0, 9, "O")
 r = model.NewIntVar(0, 9, "R")
-y = model.NewIntVar(0, 9, "y")
+y = model.NewIntVar(0, 9, "Y")
 
 letters = [s, e, n, d, m, o, r, y]
 
@@ -32,3 +33,18 @@ status = solver.Solve(model)
 
 for letter in letters:
     print(f'{letter} -> {solver.Value(letter)}')
+
+
+# S -> 9
+# E -> 5
+# N -> 6
+# D -> 7
+# M -> 1
+# O -> 0
+# R -> 8
+# Y -> 2
+
+#    9567
+# +  1085
+# -------
+#   10652

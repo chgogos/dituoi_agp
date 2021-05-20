@@ -5,7 +5,7 @@ using namespace std;
 int adder(int list[], int listlen)
 {
     static int sum = 0; // στατική τοπική μεταβλητή
-    int count; // τοπική μεταβλητή δυναμικής δέσμευσης μνήμης
+    int count;          // τοπική μεταβλητή δυναμική-στοίβας
     for (count = 0; count < listlen; count++)
     {
         sum += list[count];

@@ -8,6 +8,9 @@ int main()
     cin >> width;
 
     const int result = 2 * width + 1; // δυναμική πρόσδεση τιμών σε επώνυμη σταθερά
-    
+
     cout << result << endl;
 }
+
+// Input width: 5
+// 11

@@ -15,8 +15,8 @@ int adder(int list[], int listlen)
 
 int main()
 {
-    int a[] = {1, 2, 3};
-    int b[] = {4, 5, 6, 7};
+    int a[] = {1, 2, 3}; // -> 6
+    int b[] = {4, 5, 6, 7}; // -> 22
     cout << adder(a, 3) << endl;
     cout << adder(b, 4) << endl;
 }

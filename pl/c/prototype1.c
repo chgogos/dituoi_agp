@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // prototype της συνάρτησης fun
-int fun1(int, int);
+int fun1(int a, int b);
 
 int main() {
   int x = 1, y = 2, z;
@@ -9,6 +9,4 @@ int main() {
   printf("z=%d\n", z);
 }
 
-int fun1(int a, int b){
-    return a + b;
-}
+int fun1(int a, int b) { return a + b; }

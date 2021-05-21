@@ -74,6 +74,10 @@ cube = function(x) return x * x * x end
 Στη C και στη C++ χρησιμοποιούνται τα **πρωτότυπα συναρτήσεων** που αποτελούν δηλώσεις συναρτήσεων πριν τον ορισμό τους. Στις περισσότερες άλλες γλώσσες δεν χρησιμοποιούνται ξεχωριστές δηλώσεις των υποπρογραμμάτων.
 
 
+Παράδειγμα με συνάρτηση χωρίς prototype στη C
+
+* [prototype0.c](./../../pl/c/prototype0.c)
+
 Παράδειγμα με prototype στη C
 
 * [prototype1.c](./../../pl/c/prototype1.c)
@@ -82,6 +86,19 @@ cube = function(x) return x * x * x end
 
 * [prototype2.h](./../../pl/c/prototype2.h)
 * [prototype2.c](./../../pl/c/prototype2.c)
+
+Παράδειγμα με prototype σε header στη C και ξεχωριστό αρχείο πηγαίου κώδικα για τη συνάρτηση που δηλώνεται στο header αρχείο
+
+* [my_functions.h](./../../pl/c/my_functions.h)
+* [my_functions.c](./../../pl/c/my_functions.c)
+* [prototype3.c](./../../pl/c/prototype3.c)
+
+Η μεταγλώττιση και εκτέλεση σε αυτή την περίπτωση θα πρέπει να γίνει ως εξής:
+
+```
+$ gcc my_functions.c prototype3.c -o prototype3
+$ ./prototype
+```
 
 ### 9.2.3 Παράμετροι
 

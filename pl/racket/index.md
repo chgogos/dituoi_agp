@@ -122,7 +122,6 @@
 '(a b c)
 ```
 
-
 **car cdr cons**
 
 ```
@@ -165,4 +164,63 @@
 ```
 > (list 'a 'b 'c)
 > '(a b c)
+```
+
+## Παραδείγματα επεξεργασίας λιστών
+
+**Παράδειγμα 1**
+
+Επίλυση προβλήματος ιδιότητας μέλους ενός δεδομένου ατόμου σε μια δεδομένη λίστα που δεν περιλαμβάνει υπολίστες (απλή λίστα).
+
+```
+(define (my_member atm a_list)
+    (cond
+        ((null? a_list) #f)
+        ((eq? atm (car a_list)) #t)
+        (else (my_member atm (cdr a_list)))
+))
+```
+
+```
+> (my_member 'a '(a b c))
+#true
+```
+
+**Παράδειγμα 2**
+
+Διαπίστωση του εάν δύο δεδομένες απλές λίστες είναι ίσες.
+
+```
+(define (equalsimp list1 list2)
+    (cond
+        ((null? list1) (null? list2))
+        ((null? list2) #f)
+        ((eq? (car list1) (car list2))
+            (equalsimp (cdr list1) (cdr list2)))
+        (else #f)
+    )
+)
+```
+
+```
+> (equalsimp '(a b) '(a b))
+#true
+```
+
+**Παράδειγμα 3**
+
+Κατασκευή μιας νέας λίστας που περιέχει όλα τα στοιχεία δύο δεδομένων ορισμάτων λιστών.
+
+```
+(define (my_append list1 list2)
+    (cond 
+        ((null? list1) list2)
+        (else (cons (car list1) (my_append (cdr list1) list2)))
+    )
+)
+```
+
+```
+> (my_append '(a b) '(c d e))
+(list 'a 'b 'c 'd 'e)
 ```

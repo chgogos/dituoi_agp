@@ -15,10 +15,20 @@ Prelude> :quit
 **Αριθμοί**
 
 ```hs
+Prelude> 1 + 2
+3
+Prelude> (+) 1 2
+3
 Prelude> 1 + 2 * 3
 7
 Prelude> 1 + 2 * 3.0
 7.0
+Prelude> 2 ^ 10
+1024
+Prelude> div 10 3
+3
+Prelude> mod 10 3
+1
 ```
 
 **Λεκτικά**
@@ -72,6 +82,18 @@ Prelude> times2 21
 times2 :: Integer -> Integer
 times2 x = 2 * x
 ```
+[times2.hs](./times2.hs)
+
+Φόρτωση κώδικα και κλήση συνάρτησης.
+
+```
+$ ghci
+GHCi, version 8.0.2: http://www.haskell.org/ghc/  :? for help
+Prelude> :load times2.hs
+*Main> times2 10
+20
+:quit
+```
 
 ## Αναδρομή
 
@@ -89,16 +111,20 @@ fact 0 = 1
 fact x = x * fact (x - 1)
 ```
 
+[fact_pattern_matching.hs](./fact_pattern_matching.hs)
+
 **Φρουροί (guards)**
 
 Οι φρουροί είναι συνθήκες που περιορίζουν τις τιμές των ορισμάτων όπως στη συνέχεια. Όταν η συνθήκη ενός φρουρού ικανοποιείται η Haskell καλεί την κατάλληλη συνάρτηση.
 
 ```hs
 fact :: Integer -> Integer
-factorial x
-    | x > 1 = x * factorial (x-1)
+fact x
+    | x > 1 = x * fact (x-1)
     | otherwise 1
 ```
+
+[fact_guards.hs](./fact_guards.hs)
 
 ## Πλειάδες και λίστες
 
@@ -119,13 +145,15 @@ fib 0 = 1
 fib 1 = 1
 fib x = fib (x - 1) + fib (x - 2)
 ```
-
-Υλοποίηση ταχύτερη έκδοσης της συνάρτησης fib με χρήση πλειάδων
+[fib_pattern_matching.hs](./fib_pattern_matching.hs)
 
 ```hs
 *Main> fib 10
 10946
 ```
+
+Υλοποίηση ταχύτερης έκδοσης της συνάρτησης fib (με χρήση πλειάδων).
+
 
 ```hs
 fibTuple :: (Integer, Integer, Integer) -> (Integer, Integer, Integer)
@@ -138,6 +166,7 @@ fibResult (x, y, z) =x
 fib :: Integer -> Integer
 fib x = fibResult (fibTuple (0, 1, x))
 ```
+[fib_tuples.hs](./fib_tuples.hs)
 
 ```hs
 *Main> fib 100
@@ -178,13 +207,15 @@ second = 2
 size [] = 0
 size (h:t) = 1 + size t
 ```
-
-**Γινόμενο τιμών λίστας**
+[size.hs](./size.hs)
 
 ```hs
 *Main> size [1,2,3,4]
 4
 ```
+
+**Γινόμενο τιμών λίστας**
+
 
 **Συνδυασμός λιστών με το zip**
 
@@ -202,12 +233,12 @@ Prelude> 1:[2,3]
 
 **Συνάρτηση που επιστρέφει μια λίστα με τους άρτιους αριθμούς μιας λίστας**
 
-
 ```hs
 allEven :: [Integer] -> [Integer]
 allEven [] = []
-allEven (h:t) = if even h then h:allEven t else allEvent
+allEven (h:t) = if even h then h:allEven t else allEven t
 ```
+[all_even.hs](./all_even.hs)
 
 ```hs
 *Main> allEven [1,2,3,4,5,6]

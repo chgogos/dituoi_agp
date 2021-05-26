@@ -1,4 +1,2 @@
-module SLSW where
-
-    times2 :: Integer -> Integer
-    times2 x = 2 * x
+times2 :: Integer -> Integer
+times2 x = 2 * x

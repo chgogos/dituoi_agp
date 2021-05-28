@@ -284,8 +284,9 @@ Prelude> [(x,y) | x <- a, y<-b, x < y]
 ## Videos
 
 * [Graham Hutton - Functional Programming](https://www.youtube.com/channel/UCBDp7ydYTHi1dh4Gnf3VTPA)
+* [Philipp Hagenlocher - Haskell for Imperative Programmers](https://www.youtube.com/watch?v=Vgu82wiiZ90&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
 
-## Examples
+<!-- ## Examples -->
 
 <!-- ### Starman
 

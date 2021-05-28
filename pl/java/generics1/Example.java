@@ -45,3 +45,7 @@ class MyClass {
 // Ioannina
 // Preveza
 // Igoumenitsa
+
+// Object:617901222 value: 1
+// Object:1149319664 value: 2
+// Object:2093631819 value: 3

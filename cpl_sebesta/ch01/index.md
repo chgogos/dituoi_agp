@@ -178,7 +178,7 @@ Aliases στην Python
 * προστακτικές (C, C++, C#, Java, Python, ...)
 * συναρτησιακές (Lisp, Scheme, F#, Haskell, ...)
 * λογικές (Prolog, ...)
-* αντικειμενοστραφής (C++, Java, C#, ...)
+* αντικειμενοστραφείς (C++, Java, C#, ...)
 * σεναρίων (Python, Perl, JavaScript, Ruby, ...)
 * υβριδικές γλώσσες σημείωσης/προγραμματισμού (JSPTL, XSLT, ...)
 

@@ -17,7 +17,8 @@
 
 ## Άρθρα σε επιστημονικά περιοδικά
 
-* [Retrospective: An Axiomatic Basis for Computer Programming by C.A.R. Hoare](https://dl.acm.org/doi/pdf/10.1145/1562764.1562779)
+* [Retrospective: An Axiomatic Basis for Computer Programming by C.A.R. Hoare, 2009](https://dl.acm.org/doi/pdf/10.1145/1562764.1562779)
+* [The Development of Erlang by Joe Armstrong, 1997](http://www.erlang.se/publications/icfp97.pdf)
 
 
 ## Άρθρα

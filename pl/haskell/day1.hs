@@ -7,13 +7,13 @@ times2 x = x + x
 -- factorial (3 τρόποι)
 -- με conditional
 factc :: Integer -> Integer
-factc x = if x==0 then 1 else factc (x-1) * x
+factc x = if x == 0 then 1 else factc (x -1) * x
 
 -- με guards
 factg :: Integer -> Integer
 factg x
-    | x > 1 = x * factg (x-1)
-    | otherwise = 1
+  | x > 1 = x * factg (x -1)
+  | otherwise = 1
 
 -- με pattern matching
 factpm :: Integer -> Integer
@@ -54,18 +54,20 @@ fibc = fst . fibNthPair
 -------------------------------------------------
 
 -- μήκος λίστας
+size :: Num p => [a] -> p
 size [] = 0
-size (h:t) = 1 + size t
+size (h : t) = 1 + size t
 
 -------------------------------------------------
 
 -- γινόμενο στοιχείων λίστας
+prod :: Num p => [p] -> p
 prod [] = 1
-prod (h:t) = h * prod t
+prod (h : t) = h * prod t
 
 -------------------------------------------------
 
 -- διατήρηση μόνο των άρτιων τιμών μιας λίστας
 allEven :: [Integer] -> [Integer]
 allEven [] = []
-allEven (h:t) = if even h then h:allEven t else allEven t
+allEven (h : t) = if even h then h : allEven t else allEven t

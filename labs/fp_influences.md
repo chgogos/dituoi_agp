@@ -10,7 +10,7 @@
 ## Παραδείγματα απλών λάμδα συναρτήσεων σε C++, Java, Python
 
 * [simple_lambda.cpp](./../pl/cpp/simple_lambda.cpp)
-* [SimpleLambda.java](./../pl/java/simple_lamda/SimpleLambda.java)
+* [SimpleLambda.java](./../pl/java/simple_lambda/SimpleLambda.java)
 * [simple_lambda.py](./../pl/python/simple_lambda.py)
 
 [10-lambdas.ipynb](./pl/python/notebooks/10-lambdas.ipynb)

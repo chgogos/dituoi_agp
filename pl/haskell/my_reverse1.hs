@@ -1,3 +1,3 @@
-myReverse :: [Integer] -> [Integer]
-reverselist [] = []
-reverselist (h:t) = reverselist t ++ [h]
+myReverse :: [a] -> [a]
+myReverse [] = []
+myReverse (h : t) = myReverse t ++ [h]

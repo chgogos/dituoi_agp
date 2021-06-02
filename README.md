@@ -32,7 +32,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
   * [13/05/2021 & 20/5/2021 HackMD](https://hackmd.io/@cgogos/Byie_58_d)
 * [Haskell](./pl/haskell/index.md)
   * [27/05/2021 HackMD](https://hackmd.io/@cgogos/ByTU9KjKd)
-  * [02/06/2021 HackMD](https://hackmd.io/@cgogos/Hk547zS9d)
+  * [03/06/2021 HackMD](https://hackmd.io/@cgogos/Hk547zS9d)
 
 [Λύσεις](./sols.md)
 

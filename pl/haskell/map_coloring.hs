@@ -1,5 +1,8 @@
+colors :: [[Char]]
 colors = ["red", "green", "blue"]
 
+colourable :: ([Char], [Char], [Char], [Char], [Char], [Char], [Char], [Char],
+ [Char], [Char], [Char], [Char], [Char], [Char])
 colourable = head [("WA", wa, "SA", sa, "NT", nt, "Q", q, "NSW", nsw, "V", v, "T", t) | 
     wa <- colors,
     sa <- colors,

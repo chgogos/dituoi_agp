@@ -114,5 +114,6 @@
 
 ## Ενδιαφέρουσες ιστοσελίδες
 
+* [The Python Standard Library](https://docs.python.org/3/library/index.html)
 * [pycoders weekly (newsletter)](https://pycoders.com/)
 * [Έρευνα προγραμματιστών Python από την JetBrains (2020)](https://www.jetbrains.com/lp/python-developers-survey-2020/)

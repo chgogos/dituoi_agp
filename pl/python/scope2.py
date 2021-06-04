@@ -18,3 +18,7 @@ def sub1():
     sub2()
 
 sub1()
+
+# checkpoint1:  g=3, a=5, b=7
+# checkpoint2:  g=3, c=9
+# checkpoint3:  g=11, c=9

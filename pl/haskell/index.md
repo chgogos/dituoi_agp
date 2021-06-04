@@ -33,7 +33,8 @@ Prelude> :quit
 3
 > mod 10 3
 1
-
+> gcd 24 56
+8 
 ```
 
 **Λεκτικά**
@@ -43,6 +44,9 @@ Prelude> :quit
 "hi"
 > "hello " ++ "world"
 "hello world"
+-- δεικτοδότηση λεκτικού με το !!
+> "hello" !! 1
+'e'
 ```
 
 **Χαρακτήρες**
@@ -77,19 +81,19 @@ False
 42
 ```
 
-Πρόσδεση της συνάρτησης times2 σε τοπική εμβέλεια.
+Πρόσδεση της συνάρτησης double σε τοπική εμβέλεια.
 
 ```hs
-> let times2 x = 2 * x
-> times2 21
+> let double x = 2 * x
+> double 21
 42
 ```
 
 Αποθήκευση συνάρτησης σε αρχείο.
 
 ```hs
-times2 :: Integer -> Integer
-times2 x = 2 * x
+double :: Integer -> Integer
+double x = 2 * x
 ```
 [day1.hs](./day1.hs)
 
@@ -98,8 +102,8 @@ times2 x = 2 * x
 ```
 $ ghci
 GHCi, version 8.0.2: http://www.haskell.org/ghc/  :? for help
-Prelude> :load times2.hs
-*Main> times2 10
+Prelude> :load day1.hs
+*Main> double 10
 20
 *Main> :quit
 ```
@@ -107,9 +111,9 @@ Prelude> :load times2.hs
 ή 
 
 ```
-$ ghci times2.hs
+$ ghci day1.hs
 GHCi, version 8.0.2: http://www.haskell.org/ghc/  :? for help
-*Main> times2 10
+*Main> double 10
 20
 *Main> :quit
 ```
@@ -156,7 +160,9 @@ factg x
 
 ## Πλειάδες και λίστες
 
-Στις πλειάδες τα στοιχεία μπορούν να είναι διαφορετικού τύπου ενώ στις λίστες όλα τα στοιχεία είναι του ίδιου τύπου.
+Στις πλειάδες τα στοιχεία μπορούν να είναι διαφορετικού τύπου ενώ στις λίστες όλα τα στοιχεία είναι του ίδιου τύπου. 
+
+Μια λίστα και μια πλειάδα.
 
 ```hs
 >:type [1,2,3]
@@ -337,7 +343,7 @@ allEven (h:t) = if even h then h:allEven t else allEven t
 Η σύνταξη των ανώνυμων συναρτήσεων στη Haskell είναι η ακόλουθη.
 
 ```
-(\param1 .. \paramn -> function_body)
+(\param1 .. paramn -> function_body)
 ```
 
 Μια ανώνυμη συνάρτηση επιστροφής του τετραγώνου της παραμέτρου της και η κλήση της με παράμετρο την τιμή 5.
@@ -345,6 +351,13 @@ allEven (h:t) = if even h then h:allEven t else allEven t
 ```hs
 > (\ x -> x * x) 5
 25
+```
+
+Μια ανώνυμη συνάρτηση με δύο παραμέτρους.
+
+```hs
+> (\ x y-> x * y) 5 7
+35
 ```
 
 **map**
@@ -474,10 +487,38 @@ Children[Leaf 1, Children [Leaf 2, Leaf 3]]
 
 Στην Haskell μια κλάση ορίζει ένα πρωτόκολλο λειτουργιών (σύνολο από συναρτήσεις) που πρέπει να υποστηρίζει ένας τύπος έτσι ώστε ο τύπος να θεωρείται στιγμιότυπο της κλάσης.
 
+
+## Μεταγλώττιση και εκτέλεση κώδικα
+
+```hs
+fac :: (Eq p, Num p) => p -> p
+fac 0 = 1
+fac n = n * fac (n-1)
+
+main :: IO ()
+main = print (fac 42)
+```
+[example1.hs](./example1.hs)
+
+```
+$ ghc example1.hs
+[1 of 1] Compiling Main             ( example1.hs, example1.o )
+Linking example1.exe ...
+$ example1.exe
+1405006117752879898543142606244511569936384000000000
+```
+
+
 ## Videos
 
 * [Graham Hutton - Functional Programming](https://www.youtube.com/channel/UCBDp7ydYTHi1dh4Gnf3VTPA)
 * [Philipp Hagenlocher - Haskell for Imperative Programmers](https://www.youtube.com/watch?v=Vgu82wiiZ90&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
+
+## Πηγές
+
+* [Learning Haskell](https://wiki.haskell.org/Learning_Haskell)
+* [Learn X in Y minutes](https://learnxinyminutes.com/docs/haskell/)
+
 
 <!-- ## Examples -->
 

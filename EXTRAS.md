@@ -15,10 +15,11 @@
 * [EdX - NYUx DMEDX6063 - Creative Coding](https://learning.edx.org/course/course-v1:NYUx+DMEDX6063+1T2021/home)
 
 
-## Άρθρα σε επιστημονικά περιοδικά
+## Επιστημονικά άρθρα
 
 * [Retrospective: An Axiomatic Basis for Computer Programming by C.A.R. Hoare, 2009](https://dl.acm.org/doi/pdf/10.1145/1562764.1562779)
 * [The Development of Erlang by Joe Armstrong, 1997](http://www.erlang.se/publications/icfp97.pdf)
+* [Why Functional Programming Matters by John Hughes, 1984](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
 
 
 ## Άρθρα

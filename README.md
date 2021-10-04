@@ -40,7 +40,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 - [x] [Πρώτη άσκηση](./resources/agp_assignment20210225.pdf) υποβολή μέσω του e-course μέχρι τις ~~28/3/2021~~
 - [x] [Δεύτερη άσκηση](./resources/agp_assignment20210329.pdf) υποβολή μέσω του e-course μέχρι τις ~~25/4/2021~~
-- [ ] [Τρίτη άσκηση](./resources/agp_assignment20210515.pdf) υποβολή μέσω του e-course μέχρι τις 11/6/2021
+- [x] [Τρίτη άσκηση](./resources/agp_assignment20210515.pdf) υποβολή μέσω του e-course μέχρι τις ~~11/6/2021~~
    
 [Επιπλέον υλικό σχετικό με τις εργασίες](./assignments/index.md)
 

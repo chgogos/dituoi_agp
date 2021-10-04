@@ -49,10 +49,13 @@
   
 ## Βιβλία 
 
+* [A byte of Python](https://python.swaroopch.com/)
+  * [Μετάφραση στα Ελληνικά]( http://dide.flo.sch.gr/Plinet/Meetings/Meeting23/A_Byte_of_Python-el.pdf)
 * [Think Python 2nd Edition by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)
   * [<mark>Μετάφραση στα Ελληνικά (Κ.Γ. Μαργαρίτης)</mark>](http://www.it.uom.gr/teaching/python/ThinkPython2eGR.pdf)
 * [ΚΑΛΛΙΠΟΣ - Εισαγωγή στον αντικειμενοστραφή προγραμματισμό με Python, Μαγκούτης και Νικολάου](https://repository.kallipos.gr/handle/11419/1708)
 * [ΚΑΛΛΙΠΟΣ - Εισαγωγή στον Προγραμματισμό με αρωγό τη γλώσσα Python, Μανής](https://repository.kallipos.gr/handle/11419/2745)
+* [Εισαγωγή στον προγραμματισμό με την Python, Αγγελιδάκης](http://aggelid.mysch.gr/pythonbook/)
 * [Python Programming - Α. Τερζίδου και Μ. Δασυγένης](https://arch.icte.uowm.gr/docs/Python_Programming_Full_Book_Dasygenis_Terzidou.pdf)
 * [Automate the boring staff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
@@ -80,6 +83,7 @@
 ## MOOCs (στα ελληνικά)
 
 * [Mathesis - Εισαγωγή στην Python](https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS1.1+20C/about)
+* [Mathesis - Προχωρημένος προγραμματισμός με Python](https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS1.2+21E/about)
 * [Mathesis - Διαδίκτυο των Πραγμάτων (IoT) στην Πράξη: με Raspberry Pi και Python](https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS4.1+20D/about)
 * [Coursity - Εισαγωγή στον Προγραμματισμό με Python](https://coursity.gr/courses/course-v1:AUTH+Prog1+2020_trial/about)
   * <http://pytolearn.csd.auth.gr/>

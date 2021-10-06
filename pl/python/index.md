@@ -57,6 +57,7 @@
 * [Automate the boring staff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 * [Dive into Python 3 by Mark Pilgrim](https://diveintopython3.net/index.html)
+* [Github repository με ελεύθερα διαθέσιμα βιβλία για Python](https://github.com/pamoroso/free-python-books)
 
 ## Online μαθήματα
 

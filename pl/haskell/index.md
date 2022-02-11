@@ -508,11 +508,16 @@ $ example1.exe
 1405006117752879898543142606244511569936384000000000
 ```
 
+## Βιβλία - σημειώσεις
+
+* [Λογικός και συναρτησιακός προγραμματισμός - Σταματόπουλος Παναγιώτης](https://repository.kallipos.gr/handle/11419/3587)
+
 
 ## Videos
 
 * [Graham Hutton - Functional Programming](https://www.youtube.com/channel/UCBDp7ydYTHi1dh4Gnf3VTPA)
 * [Philipp Hagenlocher - Haskell for Imperative Programmers](https://www.youtube.com/watch?v=Vgu82wiiZ90&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
+* [Curtis D'Alves - Learning Haskell](https://www.youtube.com/playlist?list=PLHRF-X-NtQR4MZBvm05NshPIEI8ELID5m)
 
 ## Πηγές
 

@@ -52,7 +52,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 **Άσκηση E1A1** - Γράψτε πρόγραμμα που να υπολογίζει τα 10 πρώτα ψηφία του αποτελέσματος της ακόλουθης πράξης:
 
-$\sqrt{\frac{2^{101}}{\pi^{53}+11^7}}$
+<img src="https://render.githubusercontent.com/render/math?math=\sqrt{\frac{2^{101}}{\pi^{53}+11^7}}">
 
 **Άσκηση E1A2** - Γράψτε πρόγραμμα που να εμφανίζει για τη συμβολοσειρά "How I need a drink alcoholic of course, after all those lectures involving quantum mechanics" το πλήθος των χαρακτήρων κάθε λέξης. Παρατήρηση: η μέθοδος split() σε μια συμβολοσειρά επιστρέφει μια λίστα με τις λέξεις της.
 

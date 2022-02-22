@@ -58,8 +58,9 @@
 ## Βίντεο μαθήματα για την Prolog
 
 * [Εργαστήριο Prolog, Κ. Σγάρμπας](https://eclass.upatras.gr/modules/video/?course=EE690)
-* [Εισαγωγή στην Prolog, Δ. Ψούνης)](https://www.youtube.com/playlist?list=PLLMmbOLFy25HGbFmMa6aWLBkFcI5FVabr)
 * [The Power of Prolog by Markus Triska: Videos](https://www.metalevel.at/prolog/videos/)
+
+<!-- * [Εισαγωγή στην Prolog, Δ. Ψούνης)](https://www.youtube.com/playlist?list=PLLMmbOLFy25HGbFmMa6aWLBkFcI5FVabr) -->
 
 ## Λογισμικά
 

@@ -7,6 +7,7 @@
 ## Podcasts
 
 * [Lex Fridman Podcast](https://lexfridman.com/podcast/)
+* [CoRecursive - The Stories Behind The Code](https://corecursive.com/)
 * [Programming podcast with Minko Gechev](https://podcast.mgechev.com/)
 * [CppCast](https://cppcast.com/)
 
@@ -26,4 +27,5 @@
 
 * [Java is criminally underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
 * [Green Vs. Brown Programming Languages](https://earthly.dev/blog/brown-green-language/)
-* [StackOverflow 2020 Developer Survey](https://insights.stackoverflow.com/survey/2020)
+
+<!-- * [StackOverflow 2020 Developer Survey](https://insights.stackoverflow.com/survey/2020) -->

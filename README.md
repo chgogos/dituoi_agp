@@ -6,7 +6,7 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 22/02/2022
+Τελευταία ενημέρωση: 23/02/2022
 
 ## 1. ΘΕΩΡΙΑ
 
@@ -41,12 +41,12 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
   
 * [Εγκατάσταση της Python](https://eclass.aueb.gr/modules/document/file.php/INF259/python_installation_windows.pdf)
 * [Εκτέλεση κώδικα στο IDLE](https://sites.pitt.edu/~naraehan/python3/getting_started_win_first_try.html), εκτέλεση script της Python στη γραμμή εντολών
-* [Μεταβλητές, τιμές και τύποι, τελεστές και εκφράσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/01-intro.ipynb)
+* [Μεταβλητές, τιμές και τύποι, τελεστές και εκφράσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/01-intro.ipynb?flush_cache=true)
 * Είσοδος από τον χρήστη, εμφάνιση στη γραμμή εντολών (παραδείγματα [1](./pl/python/input1.py), [2](./pl/python/passwd.py))
-* Έλεγχος ροής ([επιλογή](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/04-conditionals.ipynb) και [επανάληψη](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/05-loops.ipynb))
+* Έλεγχος ροής ([επιλογή](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/04-conditionals.ipynb?flush_cache=true) και [επανάληψη](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/05-loops.ipynb?flush_cache=true))
 * Αμυντικός προγραμματισμός (παραδείγματα [1](./pl/python/defensive1.py), [2](./pl/python/defensive2.py), [3](./pl/python/defensive3.py), [4](./pl/python/defensive4.py))
-* [Δομές Δεδομένων (λίστα, πλειάδα, λεξικό, σύνολο)](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/03-lists-tuples-dictionaries-sets.ipynb)
-* Τεμαχισμός λιστών και [συμβολοσειρών](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/02-strings.ipynb)
+* [Δομές Δεδομένων (λίστα, πλειάδα, λεξικό, σύνολο)](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/03-lists-tuples-dictionaries-sets.ipynb?flush_cache=true)
+* Τεμαχισμός λιστών και [συμβολοσειρών](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/02-strings.ipynb?flush_cache=true)
 * [Εγκατάσταση VSCode, ms-python.python extension, εκτέλεση κώδικα Python από το VSCode](https://code.visualstudio.com/docs/python/python-tutorial)
 
 **Άσκηση E1A1** - Γράψτε πρόγραμμα που να υπολογίζει τα 10 πρώτα ψηφία του αποτελέσματος της ακόλουθης πράξης:

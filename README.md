@@ -39,16 +39,15 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 ### **Εβδομάδα 1 - πρώτο εργαστήριο Python**
   
-* Εγκατάσταση της Python
-* Εκτέλεση κώδικα στο IDLE, εκτέλεση script της Python στη γραμμή εντολών
-* Μεταβλητές, τιμές και τύποι
-* Τελεστές και εκφράσεις
-* Είσοδος από τον χρήστη, εμφάνιση στη γραμμή εντολών
-* Έλεγχος ροής (επιλογή και επανάληψη)
-* Αμυντικός προγραμματισμός
-* Δομές Δεδομένων (λίστα, πλειάδα, λεξικό, σύνολο)
-* Τεμαχισμός λιστών και συμβολοσειρών
-* Εγκατάσταση VSCode, ms-python.python extension, εκτέλεση κώδικα Python από το VSCode
+* [Εγκατάσταση της Python](https://eclass.aueb.gr/modules/document/file.php/INF259/python_installation_windows.pdf)
+* [Εκτέλεση κώδικα στο IDLE](https://sites.pitt.edu/~naraehan/python3/getting_started_win_first_try.html), εκτέλεση script της Python στη γραμμή εντολών
+* [Μεταβλητές, τιμές και τύποι, τελεστές και εκφράσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/01-intro.ipynb)
+* Είσοδος από τον χρήστη, εμφάνιση στη γραμμή εντολών (παραδείγματα [1](./pl/python/input1.py), [2](./pl/python/passwd.py))
+* Έλεγχος ροής ([επιλογή](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/04-conditionals.ipynb) και [επανάληψη](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/05-loops.ipynb))
+* Αμυντικός προγραμματισμός (παραδείγματα [1](./pl/python/defensive1.py), [2](./pl/python/defensive2.py), [3](./pl/python/defensive3.py), [4](./pl/python/defensive4.py))
+* [Δομές Δεδομένων (λίστα, πλειάδα, λεξικό, σύνολο)](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/03-lists-tuples-dictionaries-sets.ipynb)
+* Τεμαχισμός λιστών και [συμβολοσειρών](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/02-strings.ipynb)
+* [Εγκατάσταση VSCode, ms-python.python extension, εκτέλεση κώδικα Python από το VSCode](https://code.visualstudio.com/docs/python/python-tutorial)
 
 **Άσκηση E1A1** - Γράψτε πρόγραμμα που να υπολογίζει τα 10 πρώτα ψηφία του αποτελέσματος της ακόλουθης πράξης:
 

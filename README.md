@@ -49,6 +49,9 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 * Τεμαχισμός λιστών και [συμβολοσειρών](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/02-strings.ipynb?flush_cache=true)
 * [Εγκατάσταση VSCode, ms-python.python extension, εκτέλεση κώδικα Python από το VSCode](https://code.visualstudio.com/docs/python/python-tutorial)
 
+Ενισχύστε τις γνώσεις σας για τα παραπάνω διαβάζοντας:
+* τα κεφάλαια 1,2,3,4,5,7,8 από το [Αγγελιδάκης-2015](http://aggelid.mysch.gr/pythonbook/).
+
 **Άσκηση E1A1** - Γράψτε πρόγραμμα που να υπολογίζει τα 10 πρώτα ψηφία του αποτελέσματος της ακόλουθης πράξης:
 
 <img src="https://render.githubusercontent.com/render/math?math=\sqrt{\frac{2^{101}}{\pi^{53}+11^7}}">
@@ -83,6 +86,9 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 * Να δημιουργεί νέα λίστα με ζεύγη τιμών που το πρώτο στοιχείο κάθε ζεύγους να είναι η ίδια τιμή και δεύτερο στοιχείο μια λογική τιμή με τιμή True αν η τιμή είναι άρτια αλλιώς η τιμή False.
 
 Τροποποιήστε το [template2_4.py](./lab2022/week02/template2_4.py) έτσι ώστε η λύση σας να επιτυγχάνει σε όλα τα unit tests.
+
+Ενισχύστε τις γνώσεις σας για τα παραπάνω διαβάζοντας: 
+* το κεφάλαιο 6 από το [Αγγελιδάκης-2015](http://aggelid.mysch.gr/pythonbook/).
 
 ---
 

@@ -28,12 +28,12 @@
 24. [Iterators](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/24-iterators.ipynb)
 25. [itertools](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/25-itertools.ipynb)
 26. [enums](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/26-enums.ipynb)
-27. [<mark>urllib</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/27-urllib.ipynb)
-28. [<mark>requests</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/28-requests.ipynb)
-29. [<mark>bs4</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/29-bs4.ipynb)
+27. [urllib](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/27-urllib.ipynb)
+28. [requests](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/28-requests.ipynb)
+29. [bs4](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/29-bs4.ipynb)
 30. [collections](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/30-collections.ipynb)
-31. [<mark>PLY - Python Lex Yacc</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/31-PLY.ipynb)
-32. [<mark>Aliasing</mark>](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/32-alias.ipynb)
+31. [PLY - Python Lex Yacc](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/31-PLY.ipynb)
+32. [Aliasing](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/32-alias.ipynb)
 
 
 
@@ -49,13 +49,13 @@
   
 ## Βιβλία 
 
+* [<mark>Εισαγωγή στον προγραμματισμό με την Python, Αγγελιδάκης</mark>](http://aggelid.mysch.gr/pythonbook/)
 * [A byte of Python](https://python.swaroopch.com/)
   * [Μετάφραση στα Ελληνικά]( http://dide.flo.sch.gr/Plinet/Meetings/Meeting23/A_Byte_of_Python-el.pdf)
 * [Think Python 2nd Edition by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)
-  * [<mark>Μετάφραση στα Ελληνικά (Κ.Γ. Μαργαρίτης)</mark>](http://www.it.uom.gr/teaching/python/ThinkPython2eGR.pdf)
+  * [Μετάφραση στα Ελληνικά (Κ.Γ. Μαργαρίτης)](http://www.it.uom.gr/teaching/python/ThinkPython2eGR.pdf)
 * [ΚΑΛΛΙΠΟΣ - Εισαγωγή στον αντικειμενοστραφή προγραμματισμό με Python, Μαγκούτης και Νικολάου](https://repository.kallipos.gr/handle/11419/1708)
 * [ΚΑΛΛΙΠΟΣ - Εισαγωγή στον Προγραμματισμό με αρωγό τη γλώσσα Python, Μανής](https://repository.kallipos.gr/handle/11419/2745)
-* [Εισαγωγή στον προγραμματισμό με την Python, Αγγελιδάκης](http://aggelid.mysch.gr/pythonbook/)
 * [Python Programming - Α. Τερζίδου και Μ. Δασυγένης](https://arch.icte.uowm.gr/docs/Python_Programming_Full_Book_Dasygenis_Terzidou.pdf)
 * [Automate the boring staff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
@@ -97,7 +97,7 @@
 * Εγκατάσταση της [Python](https://www.python.org/), χρήση του IDLE
 * [Thonny IDE](https://thonny.org/)
 * Εγκατάσταση της Python, εγκατάσταση του [VSCode](https://code.visualstudio.com/) και του [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-* <mark>Εγκατάσταση της Python, εγκατάσταση του </mark>[<mark>JetBrains PyCharm Community</mark>](https://www.jetbrains.com/pycharm/download/#section=windows) 
+* Εγκατάσταση της Python, εγκατάσταση του [JetBrains PyCharm Community](https://www.jetbrains.com/pycharm/download/#section=windows) 
 * Εγκατάσταση του [Anaconda Python Individual Edition](https://www.anaconda.com/products/individual), χρήση του Spyder IDE
 
 

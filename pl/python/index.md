@@ -62,6 +62,18 @@
 * [Dive into Python 3 by Mark Pilgrim](https://diveintopython3.net/index.html)
 * [Github repository με ελεύθερα διαθέσιμα βιβλία για Python](https://github.com/pamoroso/free-python-books)
 
+## Παρουσιάσεις
+
+* [<mark>Python for Everybody (PY4E)</mark>](https://www.py4e.com/lessons)
+  * [expressions](https://www.py4e.com/lectures3/Pythonlearn-02-Expressions.pptx)
+  * [conditionals](https://www.py4e.com/lectures3/Pythonlearn-03-Conditional.pptx)
+  * [loops and iterations](https://www.py4e.com/lectures3/Pythonlearn-05-Iterations.pptx)
+  * [strings](https://www.py4e.com/lectures3/Pythonlearn-06-Strings.pptx)
+  * [lists](https://www.py4e.com/lectures3/Pythonlearn-08-Lists.pptx)
+  * [dictionaries](https://www.py4e.com/lectures3/Pythonlearn-09-Dictionaries.pptx)
+  * [tuples](https://www.py4e.com/lectures3/Pythonlearn-10-Tuples.pptx)
+
+
 ## Online μαθήματα
 
 * [<mark>Sololearn - Python course</mark>](https://www.sololearn.com/learning/1073)
@@ -95,9 +107,9 @@
 Μπορείτε να επιλέξτε **έναν** από τους ακόλουθους τρόπους: 
 
 * Εγκατάσταση της [Python](https://www.python.org/), χρήση του IDLE
+* Εγκατάσταση της Python, εγκατάσταση του [JetBrains PyCharm Community](https://www.jetbrains.com/pycharm/download/#section=windows) 
 * [Thonny IDE](https://thonny.org/)
 * Εγκατάσταση της Python, εγκατάσταση του [VSCode](https://code.visualstudio.com/) και του [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-* Εγκατάσταση της Python, εγκατάσταση του [JetBrains PyCharm Community](https://www.jetbrains.com/pycharm/download/#section=windows) 
 * Εγκατάσταση του [Anaconda Python Individual Edition](https://www.anaconda.com/products/individual), χρήση του Spyder IDE
 
 

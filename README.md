@@ -6,7 +6,7 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 23/02/2022
+Τελευταία ενημέρωση: 24/02/2022
 
 ## 1. ΘΕΩΡΙΑ
 
@@ -49,8 +49,16 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 * Τεμαχισμός λιστών και [συμβολοσειρών](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/02-strings.ipynb?flush_cache=true)
 * [Εγκατάσταση VSCode, ms-python.python extension, εκτέλεση κώδικα Python από το VSCode](https://code.visualstudio.com/docs/python/python-tutorial)
 
-Ενισχύστε τις γνώσεις σας για τα παραπάνω διαβάζοντας:
-* τα κεφάλαια 1,2,3,4,5,7,8 από το [Αγγελιδάκης-2015](http://aggelid.mysch.gr/pythonbook/).
+Ενισχύστε τις γνώσεις σας για τα παραπάνω :
+* διαβάζοντας τα κεφάλαια 1,2,3,4,5,7,8 από το [Αγγελιδάκης-2015](http://aggelid.mysch.gr/pythonbook/).
+* μελετώντας τις παρουσιάσεις από το PY4E
+  * [expressions](https://www.py4e.com/lectures3/Pythonlearn-02-Expressions.pptx)
+  * [conditionals](https://www.py4e.com/lectures3/Pythonlearn-03-Conditional.pptx)
+  * [loops and iterations](https://www.py4e.com/lectures3/Pythonlearn-05-Iterations.pptx)
+  * [strings](https://www.py4e.com/lectures3/Pythonlearn-06-Strings.pptx)
+  * [lists](https://www.py4e.com/lectures3/Pythonlearn-08-Lists.pptx)
+  * [dictionaries](https://www.py4e.com/lectures3/Pythonlearn-09-Dictionaries.pptx)
+  * [tuples](https://www.py4e.com/lectures3/Pythonlearn-10-Tuples.pptx)
 
 **Άσκηση E1A1** - Γράψτε πρόγραμμα που να υπολογίζει τα 10 πρώτα ψηφία του αποτελέσματος της ακόλουθης πράξης:
 
@@ -87,8 +95,8 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 Τροποποιήστε το [template2_4.py](./lab2022/week02/template2_4.py) έτσι ώστε η λύση σας να επιτυγχάνει σε όλα τα unit tests.
 
-Ενισχύστε τις γνώσεις σας για τα παραπάνω διαβάζοντας: 
-* το κεφάλαιο 6 από το [Αγγελιδάκης-2015](http://aggelid.mysch.gr/pythonbook/).
+Ενισχύστε τις γνώσεις σας για τα παραπάνω : 
+* διαβάζοντας το κεφάλαιο 6 από το [Αγγελιδάκης-2015](http://aggelid.mysch.gr/pythonbook/).
 
 ---
 

@@ -51,7 +51,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 Ενισχύστε τις γνώσεις σας για τα παραπάνω :
 * διαβάζοντας τα κεφάλαια 1,2,3,4,5,7,8 από το [Αγγελιδάκης-2015](http://aggelid.mysch.gr/pythonbook/).
-* μελετώντας τις παρουσιάσεις από το PY4E
+* μελετώντας τις παρουσιάσεις από το [PY4E](https://www.py4e.com/)
   * [expressions](https://www.py4e.com/lectures3/Pythonlearn-02-Expressions.pptx)
   * [conditionals](https://www.py4e.com/lectures3/Pythonlearn-03-Conditional.pptx)
   * [loops and iterations](https://www.py4e.com/lectures3/Pythonlearn-05-Iterations.pptx)
@@ -74,12 +74,16 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 ### **Εβδομάδα 2 - δεύτερο εργαστήριο Python**
 
-* Συναρτήσεις
+* [Συναρτήσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/09-functions.ipynb?flush_cache=true)
 * Εμβέλεια μεταβλητών
-* Λάμδα συναρτήσεις
+* [Λάμδα συναρτήσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/10-lambdas.ipynb?flush_cache=true)
 * Αρθρώματα
-* Περιφραστικές λίστες (list comprehensions)
-* Unit tests, η βιβλιοθήκη unittest
+* [Περιφραστικές λίστες (list comprehensions)](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/06-comprehensions.ipynb?flush_cache=true)
+* [Testing](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/13-testing.ipynb), η βιβλιοθήκη unittest, παραδείγματα [1](./pl/python/testing1/index.md), [2](./pl/python/testing2/index.md), [3](./pl/python/testing3/index.md) 
+
+Ενισχύστε τις γνώσεις σας για τα παραπάνω : 
+* διαβάζοντας το κεφάλαιο 6 από το [Αγγελιδάκης-2015](http://aggelid.mysch.gr/pythonbook/).
+* μελετώντας την παρουσίαση [functions](https://www.py4e.com/lectures3/Pythonlearn-04-Functions.pptx) από το [PY4E](https://www.py4e.com/)
 
 **Άσκηση E2A1** - Γράψτε μια συνάρτηση που να δέχεται δύο λεκτικά και να επιστρέφει την απόσταση Hamming (δηλαδή το πλήθος των αντίστοιχων χαρακτήρων που διαφέρουν στα δύο λεκτικά). Αν τα λεκτικά είναι διαφορετικού μήκους η συνάρτηση να επιστρέφει την τιμή -1. Τροποποιήστε το [template2_1.py](./lab2022/week02/template2_1.py) έτσι ώστε η λύση σας να επιτυγχάνει σε όλα τα unit tests.
 
@@ -95,8 +99,6 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 Τροποποιήστε το [template2_4.py](./lab2022/week02/template2_4.py) έτσι ώστε η λύση σας να επιτυγχάνει σε όλα τα unit tests.
 
-Ενισχύστε τις γνώσεις σας για τα παραπάνω : 
-* διαβάζοντας το κεφάλαιο 6 από το [Αγγελιδάκης-2015](http://aggelid.mysch.gr/pythonbook/).
 
 ---
 

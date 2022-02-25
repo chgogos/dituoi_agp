@@ -41,12 +41,6 @@
 
 [TkInter + wxPython](./gui/index.md)
 
-## Testing (με unittest)
-
-* [Παράδειγμα 1](./testing1/index.md)
-* [Παράδειγμα 2](./testing2/index.md)
-* [Παράδειγμα 3](./testing3/index.md)
-  
 ## Βιβλία 
 
 * [<mark>Εισαγωγή στον προγραμματισμό με την Python, Αγγελιδάκης</mark>](http://aggelid.mysch.gr/pythonbook/)
@@ -72,6 +66,7 @@
   * [lists](https://www.py4e.com/lectures3/Pythonlearn-08-Lists.pptx)
   * [dictionaries](https://www.py4e.com/lectures3/Pythonlearn-09-Dictionaries.pptx)
   * [tuples](https://www.py4e.com/lectures3/Pythonlearn-10-Tuples.pptx)
+  * [functions](https://www.py4e.com/lectures3/Pythonlearn-04-Functions.pptx)
 
 
 ## Online μαθήματα

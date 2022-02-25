@@ -75,7 +75,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 ### **Εβδομάδα 2 - δεύτερο εργαστήριο Python**
 
 * [Συναρτήσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/09-functions.ipynb?flush_cache=true)
-* Εμβέλεια μεταβλητών, παραδείγματα [1a](./pl/python/scope1a.py), [1b](./pl/python/scope1b.py), [1c](./pl/python/scope1c.py), [2a](./pl/python/scope2.py), [2b](./pl/python/scope2a.py) 
+* Εμβέλεια μεταβλητών, παραδείγματα [1a](./pl/python/scope1a.py), [1b](./pl/python/scope1b.py), [1c](./pl/python/scope1c.py), [2a](./pl/python/scope2a.py), [2b](./pl/python/scope2b.py) 
 * [Λάμδα συναρτήσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/10-lambdas.ipynb?flush_cache=true)
 * Αρθρώματα
 * [Περιφραστικές λίστες (list comprehensions)](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/06-comprehensions.ipynb?flush_cache=true)

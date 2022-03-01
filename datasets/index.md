@@ -32,3 +32,4 @@
 * [Supplemental Excel Data Sets by John Aleshunas](http://mercury.webster.edu/aleshunas/Data%20Sets/Supplemental%20Excel%20Data%20Sets.htm) 
 * [Google Stock Data (2004-2014)](https://docs.google.com/spreadsheets/d/1G4sYrPtocF8eOoS4kEZtMQfMBTOc6luBu86Zm_vWiNA/edit#gid=1250910947) 
 * [California housing](https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html)
+* [Data repository for seaborn examples από τον Michael Waskom](https://github.com/mwaskom/seaborn-data)

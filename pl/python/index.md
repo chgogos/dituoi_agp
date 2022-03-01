@@ -67,12 +67,16 @@
   * [dictionaries](https://www.py4e.com/lectures3/Pythonlearn-09-Dictionaries.pptx)
   * [tuples](https://www.py4e.com/lectures3/Pythonlearn-10-Tuples.pptx)
   * [functions](https://www.py4e.com/lectures3/Pythonlearn-04-Functions.pptx)
+  * [files](Pythonlearn-07-Files.pptx)
+  * [regular expressions](Pythonlearn-11-Regex.pptx)
+  * [object oriented programming](Pythonlearn-14-Objects.pptx)
 
 
 ## Online μαθήματα
 
 * [<mark>Sololearn - Python course</mark>](https://www.sololearn.com/learning/1073)
 * [Python 101: Interactively learn how to program with Python 3](https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3)
+* [python-course.eu](https://python-course.eu/)
 
 ## Tutorials
 

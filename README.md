@@ -6,7 +6,7 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 25/02/2022
+Τελευταία ενημέρωση: 9/3/2022
 
 ## 1. ΘΕΩΡΙΑ
 
@@ -77,9 +77,9 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 * [Συναρτήσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/09-functions.ipynb?flush_cache=true)
 * Εμβέλεια μεταβλητών, παραδείγματα [1a](./pl/python/scope1a.py), [1b](./pl/python/scope1b.py), [1c](./pl/python/scope1c.py), [2a](./pl/python/scope2a.py), [2b](./pl/python/scope2b.py) 
 * [Λάμδα συναρτήσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/10-lambdas.ipynb?flush_cache=true)
-* Αρθρώματα
+* Αρθρώματα (παράδειγμα [my_module.py](./pl/python/my_module.py), [use_of_my_module.py](./pl/python/use_of_my_module.py))
 * [Περιφραστικές λίστες (list comprehensions)](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/06-comprehensions.ipynb?flush_cache=true)
-* [Testing](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/13-testing.ipynb), η βιβλιοθήκη unittest, παραδείγματα [1](./pl/python/testing1/index.md), [2](./pl/python/testing2/index.md) 
+* [Testing](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/13-testing.ipynb), η βιβλιοθήκη unittest, παραδείγματα [1](./pl/python/testing0/faculty.py), [2](./pl/python/testing1/index.md), [3](./pl/python/testing2/index.md) 
 
 Ενισχύστε τις γνώσεις σας για τα παραπάνω : 
 * διαβάζοντας το κεφάλαιο 6 από το [Αγγελιδάκης-2015](http://aggelid.mysch.gr/pythonbook/).

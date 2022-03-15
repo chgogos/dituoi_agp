@@ -6,7 +6,7 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 9/3/2022
+Τελευταία ενημέρωση: 15/3/2022
 
 ## 1. ΘΕΩΡΙΑ
 
@@ -99,6 +99,46 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 Τροποποιήστε το [template2_4.py](./lab2022/week02/template2_4.py) έτσι ώστε η λύση σας να επιτυγχάνει σε όλα τα unit tests.
 
-
 ---
 
+### **Εβδομάδα 3 - τρίτο εργαστήριο Python**
+
+* Η βιβλιοθήκη [os](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/os.ipynb?flush_cache=true), παράδειγμα [1](./pl/python/os_walk.py)
+* Αρχεία ([απλού κειμένου](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/07-exceptions.ipynb?flush_cache=true), [CSV](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/14-csv.ipynb), [excel](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/15-excel.ipynb?flush_cache=true), [XML](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/16-xml.ipynb?flush_cache=true), [JSON](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/17-json.ipynb?flush_cache=true), [YAML](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/18-yaml.ipynb?flush_cache=true))
+* [Σειριοποίηση με το pickle](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/19-pickle.ipynb?flush_cache=true)
+* [Εξαιρέσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/07-exceptions.ipynb?flush_cache=true)
+* [Η βιβλιοθήκη κανονικών εκφράσεων re](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/22-regular_expressions.ipynb?flush_cache=true)
+* [Τυχαίες τιμές, η βιβλιοθήκη random](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/21-random.ipynb?flush_cache=true)
+* Εγκατάσταση βιβλιοθηκών
+
+Ενισχύστε τις γνώσεις σας για τα παραπάνω :
+* διαβάζοντας τα κεφάλαια 9 και 10 από το [Αγγελιδάκης-2015](http://aggelid.mysch.gr/pythonbook/).
+* μελετώντας τις παρουσιάσεις από το [PY4E](https://www.py4e.com/)
+  * [files](https://www.py4e.com/lectures3/Pythonlearn-07-Files.pptx)
+  * [regular expressions](https://www.py4e.com/lectures3/Pythonlearn-11-Regex.pptx)
+
+**Άσκηση E3A1** - Στο ακόλουθο tweet ο Lex Fridman αναφέρει ότι η αναμενόμενη τιμή του πλήθους τυχαίων επιλογών αριθμών στο διάστημα 0 έως 1 που απαιτούνται έτσι ώστε το άθροισμά τους να ξεπεράσει το 1 είναι ίση με e=2.7182…
+
+```
+  Select numbers between 0 and 1 randomly until sum is > 1.
+  The expected # of selections needed is equal to e.
+  — Lex Fridman (@lexfridman) March 8, 2021
+```
+
+Τροποποιήστε το [template3_1.py](./lab2022/week03/template3_1.py) έτσι ώστε η λύση σας να επιτυγχάνει στο unit test.
+
+**Άσκηση E3A2** - Κατεβάστε σε txt μορφή το βιβλίο "Μεταμόρφωση" του Φ. Κάφκα από το <https://www.gutenberg.org/ebooks/5200>. Συμπληρώστε τις συναρτήσεις που απαντούν στα ακόλουθα ερωτήματα:
+* Ποιο είναι το πλήθος εμφάνισης του χαρακτήρα α;
+* Ποιό είναι το πλήθος των λέξεων που ξεκινούν με a και τελειώνουν με e;
+* Ποιο είναι το πλήθος των λέξεων με 5 χαρακτήρες;
+* Ποιό είναι το πλήθος λέξεων που περιέχουν συνεχόμενους τους χαρακτήρες abs;
+* Ποιό είναι το πλήθος λέξεων που περιέχουν τους χαρακτήρες abs σε οποιαδήποτε σειρά;
+Να γίνει χρήση της βιβλιοθήκης re.
+
+**Άσκηση E3A3** - Κατεβάστε το MovieLens [100K Dataset ml-100k.zip](https://grouplens.org/datasets/movielens/100k/). Εντοπίστε το αρχείο u.data που περιέχει 100.000 αξιολογήσεις από 943 χρήστες για 1.682 ταινίες και το αρχείο u.item που περιέχει τα στοιχεία των ταινιών. Εντοπίστε τις 10 ταινίες με τις καλύτερες αξιολογήσεις κατά μέσο όρο λαμβάνοντας υπόψη μόνο ταινίες που έχουν λάβει τουλάχιστον 50 αξιολογήσεις η κάθε μια. Εμφανίστε τους τίτλους αυτών των ταινιών. Παρατήρηση: Δείτε το αρχείο README στο ml-100k.zip για περιγραφή των περιεχομένων των αρχείων.
+
+**Άσκηση E3A4** - Κατεβάστε το ακόλουθο XML αρχείο που περιέχει το πρόγραμμα αγώνων ενός πρωταθλήματος.
+
+[ITC2021_Test8_SolGenMethodA.xml](./datasets/itc2021/ITC2021_Test8_SolGenMethodA.xml)
+
+Για κάθε αγώνα εμφανίστε την απόσταση περιόδων ανάμεσα στον αγώνα και στον επαναληπτικό του. Για παράδειγμα, για τις ομάδες 0 και 1 ο αγώνας 0-1 γίνεται στην περίοδο 33 και ο επαναληπτικός αγώνας 1-0 γίνεται στην περίοδο 14, άρα η απόσταση των δύο αγώνων είναι 33-14=19 αγωνιστικές.

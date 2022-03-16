@@ -116,6 +116,8 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 * μελετώντας τις παρουσιάσεις από το [PY4E](https://www.py4e.com/)
   * [files](https://www.py4e.com/lectures3/Pythonlearn-07-Files.pptx)
   * [regular expressions](https://www.py4e.com/lectures3/Pythonlearn-11-Regex.pptx)
+* παίζοντας με τις κανονικές εκφράσεις στo <https://regexr.com/>, στο <https://alf.nu/RegexGolf>, στο <https://regexcrossword.com/> ή στο <http://play.inginf.units.it/#/>.
+
 
 **Άσκηση E3A1** - Στο ακόλουθο tweet ο Lex Fridman αναφέρει ότι η αναμενόμενη τιμή του πλήθους τυχαίων επιλογών αριθμών στο διάστημα 0 έως 1 που απαιτούνται έτσι ώστε το άθροισμά τους να ξεπεράσει το 1 είναι ίση με e=2.7182…
 

@@ -6,7 +6,7 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 15/3/2022
+Τελευταία ενημέρωση: 16/3/2022
 
 ## 1. ΘΕΩΡΙΑ
 
@@ -77,7 +77,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 * [Συναρτήσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/09-functions.ipynb?flush_cache=true)
 * Εμβέλεια μεταβλητών, παραδείγματα [1a](./pl/python/scope1a.py), [1b](./pl/python/scope1b.py), [1c](./pl/python/scope1c.py), [2a](./pl/python/scope2a.py), [2b](./pl/python/scope2b.py) 
 * [Λάμδα συναρτήσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/10-lambdas.ipynb?flush_cache=true)
-* Αρθρώματα (παράδειγμα [my_module.py](./pl/python/my_module.py), [use_of_my_module.py](./pl/python/use_of_my_module.py))
+* Αρθρώματα (modules)  ,παράδειγμα [my_module.py](./pl/python/my_module.py), [use_of_my_module.py](./pl/python/use_of_my_module.py))
 * [Περιφραστικές λίστες (list comprehensions)](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/06-comprehensions.ipynb?flush_cache=true)
 * [Testing](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/13-testing.ipynb), η βιβλιοθήκη unittest, παραδείγματα [1](./pl/python/testing0/faculty.py), [2](./pl/python/testing1/index.md), [3](./pl/python/testing2/index.md) 
 
@@ -103,13 +103,13 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 ### **Εβδομάδα 3 - τρίτο εργαστήριο Python**
 
-* Η βιβλιοθήκη [os](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/os.ipynb?flush_cache=true), παράδειγμα [1](./pl/python/os_walk.py)
+* [Εξαιρέσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/07-exceptions.ipynb?flush_cache=true)
+* Η βιβλιοθήκη [os](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/os.ipynb?flush_cache=true), παραδείγματα [1](./pl/python/os_walk.py)
 * Αρχεία ([απλού κειμένου](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/08-files.ipynb?flush_cache=true), [CSV](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/14-csv.ipynb), [excel](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/15-excel.ipynb?flush_cache=true), [XML](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/16-xml.ipynb?flush_cache=true), [JSON](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/17-json.ipynb?flush_cache=true), [YAML](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/18-yaml.ipynb?flush_cache=true))
 * [Σειριοποίηση με το pickle](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/19-pickle.ipynb?flush_cache=true)
-* [Εξαιρέσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/07-exceptions.ipynb?flush_cache=true)
 * [Η βιβλιοθήκη κανονικών εκφράσεων re](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/22-regular_expressions.ipynb?flush_cache=true)
 * [Τυχαίες τιμές, η βιβλιοθήκη random](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/21-random.ipynb?flush_cache=true)
-* Εγκατάσταση βιβλιοθηκών
+* Εγκατάσταση βιβλιοθηκών (π.χ. NumPy, pandas, Scikit-learn, Matplotlib, Seaborn, Pillow κ.α.)
 
 Ενισχύστε τις γνώσεις σας για τα παραπάνω :
 * διαβάζοντας τα κεφάλαια 9 και 10 από το [Αγγελιδάκης-2015](http://aggelid.mysch.gr/pythonbook/).
@@ -127,13 +127,16 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 Τροποποιήστε το [template3_1.py](./lab2022/week03/template3_1.py) έτσι ώστε η λύση σας να επιτυγχάνει στο unit test.
 
-**Άσκηση E3A2** - Κατεβάστε σε txt μορφή το βιβλίο "Μεταμόρφωση" του Φ. Κάφκα από το <https://www.gutenberg.org/ebooks/5200>. Συμπληρώστε τις συναρτήσεις που απαντούν στα ακόλουθα ερωτήματα:
-* Ποιο είναι το πλήθος εμφάνισης του χαρακτήρα α;
-* Ποιό είναι το πλήθος των λέξεων που ξεκινούν με a και τελειώνουν με e;
-* Ποιο είναι το πλήθος των λέξεων με 5 χαρακτήρες;
-* Ποιό είναι το πλήθος λέξεων που περιέχουν συνεχόμενους τους χαρακτήρες abs;
-* Ποιό είναι το πλήθος λέξεων που περιέχουν τους χαρακτήρες abs σε οποιαδήποτε σειρά;
-Να γίνει χρήση της βιβλιοθήκης re.
+**Άσκηση E3A2** - Κατεβάστε σε txt μορφή το βιβλίο “Μεταμόρφωση” του Φ. Κάφκα από το <https://www.gutenberg.org/ebooks/5200>. Μετατρέψτε όλο το κείμενο σε πεζά και συμπληρώστε τις συναρτήσεις που απαντούν στα ακόλουθα ερωτήματα:
+
+1. Ποιο είναι το πλήθος των λέξεων του κειμένου; Θεωρήστε ως λέξεις τις συμβολοσειρές που περιέχουν μόνο χαρακτήρες του αγγλικού αλφαβήτου.
+2. Ποιο είναι το πλήθος των λέξεων του κειμένου που ξεκινούν με τον χαρακτήρα 'c' και τελειώνουν με τον χαρακτήρα 'e';
+3. Ποιο είναι το πλήθος των λέξεων του κειμένου με 5 χαρακτήρες;
+4. Ποιο είναι το πλήθος λέξεων του κειμένου που περιέχουν συνεχόμενους τους χαρακτήρες 't', 'a', 'c';
+5. Ποιο είναι το πλήθος λέξεων του κειμένου που περιέχουν συνεχόμενους τους χαρακτήρες 't', 'a', 'c' σε οποιαδήποτε σειρά;
+6. Ποιο είναι το πλήθος λέξεων του κειμένου που ξεκινούν και τελειώνουν με τον ίδιο χαρακτήρα;
+
+Τροποποιήστε το [template3_2.py](./lab2022/week03/template3_2.py) έτσι ώστε η λύση σας να επιτυγχάνει σε όλα τα unit tests.
 
 **Άσκηση E3A3** - Κατεβάστε το MovieLens [100K Dataset ml-100k.zip](https://grouplens.org/datasets/movielens/100k/). Εντοπίστε το αρχείο u.data που περιέχει 100.000 αξιολογήσεις από 943 χρήστες για 1.682 ταινίες και το αρχείο u.item που περιέχει τα στοιχεία των ταινιών. Εντοπίστε τις 10 ταινίες με τις καλύτερες αξιολογήσεις κατά μέσο όρο λαμβάνοντας υπόψη μόνο ταινίες που έχουν λάβει τουλάχιστον 50 αξιολογήσεις η κάθε μια. Εμφανίστε τους τίτλους αυτών των ταινιών. Παρατήρηση: Δείτε το αρχείο README στο ml-100k.zip για περιγραφή των περιεχομένων των αρχείων.
 

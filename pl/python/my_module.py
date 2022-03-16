@@ -15,3 +15,8 @@ def triangle(n):
         for _ in range(0, i + 1):
             print("* ", end="")
         print("\r")
+
+
+if __name__ == "__main__":
+    print_boxed_text("Hello")
+    triangle(10)

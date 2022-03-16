@@ -1,4 +1,4 @@
-# Θεωρήστε ως λέξεις τις συμβολοσειρές που περιέχουν μόνο χαρακτήρες του αγγλικού αλφαβήτου.
+# Θεωρήστε ως λέξεις τις συμβολοσειρές που περιέχουν μόνο χαρακτήρες του αγγλικού αλφαβήτου και ότι οι λέξεις χωρίζονται μεταξύ τους με κενά.
 
 import re
 import unittest
@@ -10,76 +10,32 @@ text = text.lower()
 
 # Πλήθος των λέξεων του κειμένου
 def q1():
-    pattern = re.compile(r"\b([a-z]*)\W")
-    matches = pattern.finditer(text)
-    all_matches = set()
-    for match in matches:
-        m = match.group(1)
-        all_matches.add(m)
-    # print(all_matches)
-    return len(all_matches)
+    pass
 
 
 # Πλήθος των λέξεων του κειμένου που ξεκινούν με τον χαρακτήρα 'c' και τελειώνουν με τον χαρακτήρα 'e'
 def q2():
-    pattern = re.compile(
-        r"\b(c[a-z]*e)\W"
-    )  # λέξεις που ξεκινούν με c και τελειώνουν με e
-    matches = pattern.finditer(text)
-    all_matches = set()
-    for match in matches:
-        m = match.group(1)
-        all_matches.add(m)
-    # print(all_matches)
-    return len(all_matches)
+    pass
 
 
 # Πλήθος των λέξεων του κειμένου με 5 χαρακτήρες
 def q3():
-    pattern = re.compile(r"\b([a-z]{5})\W")
-    matches = pattern.finditer(text)
-    all_matches = set()
-    for match in matches:
-        m = match.group(1)
-        all_matches.add(m)
-    # print(all_matches)
-    return len(all_matches)
+    pass
 
 
 # Πλήθος λέξεων του κειμένου που περιέχουν συνεχόμενους τους χαρακτήρες 't', 'a', 'c'
 def q4():
-    pattern = re.compile(r"\b([a-z]*tac[a-zA-Z]*)\W")
-    matches = pattern.finditer(text)
-    all_matches = set()
-    for match in matches:
-        m = match.group(1)
-        all_matches.add(m)
-    # print(all_matches)
-    return len(all_matches)
+    pass
 
 
 # πλήθος λέξεων του κειμένου που περιέχουν συνεχόμενους τους χαρακτήρες 't', 'a', 'c' σε οποιαδήποτε σειρά
 def q5():
-    pattern = re.compile(r"\b([a-z]*(tac|tca|atc|act|cat|cta)[a-zA-Z]*)\W")
-    matches = pattern.finditer(text)
-    all_matches = set()
-    for match in matches:
-        m = match.group(1)
-        all_matches.add(m)
-    # print(all_matches)
-    return len(all_matches)
+    pass
 
 
 # πλήθος λέξεων του κειμένου που ξεκινούν και τελειώνουν με τον ίδιο χαρακτήρα
 def q6():
-    pattern = re.compile(r"\b([a-z])([a-z]*\1)\W")
-    matches = pattern.finditer(text)
-    all_matches = set()
-    for match in matches:
-        m = match.group(1) + match.group(2)
-        all_matches.add(m)
-    # print(all_matches)
-    return len(all_matches)
+    pass
 
 
 # Mην αλλάξετε κάτι από εδώ και κάτω

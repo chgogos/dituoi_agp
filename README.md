@@ -6,7 +6,7 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 16/3/2022
+Τελευταία ενημέρωση: 17/3/2022
 
 ## 1. ΘΕΩΡΙΑ
 
@@ -75,7 +75,8 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 ### **Εβδομάδα 2 - δεύτερο εργαστήριο Python**
 
 * [Συναρτήσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/09-functions.ipynb?flush_cache=true)
-* Εμβέλεια μεταβλητών, παραδείγματα [1a](./pl/python/scope1a.py), [1b](./pl/python/scope1b.py), [1c](./pl/python/scope1c.py), [2a](./pl/python/scope2a.py), [2b](./pl/python/scope2b.py) 
+* Εμβέλεια μεταβλητών, παραδείγματα [1a](./pl/python/scope1a.py), [1b](./pl/python/scope1b.py), [1c](./pl/python/scope1c.py), [2a](./pl/python/scope2a.py), [2b](./pl/python/scope2b.py)
+* [mutability vs immutability](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/35-mutable_vs_immutable.ipynb)
 * [Λάμδα συναρτήσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/10-lambdas.ipynb?flush_cache=true)
 * Αρθρώματα (modules), παράδειγμα [my_module.py](./pl/python/my_module.py), [use_of_my_module.py](./pl/python/use_of_my_module.py))
 * [Περιφραστικές λίστες (list comprehensions)](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/06-comprehensions.ipynb?flush_cache=true)

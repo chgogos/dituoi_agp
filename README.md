@@ -76,7 +76,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 * [Συναρτήσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/09-functions.ipynb?flush_cache=true)
 * Εμβέλεια μεταβλητών, παραδείγματα [1a](./pl/python/scope1a.py), [1b](./pl/python/scope1b.py), [1c](./pl/python/scope1c.py), [2a](./pl/python/scope2a.py), [2b](./pl/python/scope2b.py)
-* [mutability vs immutability](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/35-mutable_vs_immutable.ipynb)
+* [mutability vs immutability](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/35-mutable_vs_immutable.ipynb?flush_cache=true)
 * [Λάμδα συναρτήσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/10-lambdas.ipynb?flush_cache=true)
 * Αρθρώματα (modules), παράδειγμα [my_module.py](./pl/python/my_module.py), [use_of_my_module.py](./pl/python/use_of_my_module.py))
 * [Περιφραστικές λίστες (list comprehensions)](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/06-comprehensions.ipynb?flush_cache=true)
@@ -130,7 +130,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 Τροποποιήστε το [template3_1.py](./lab2022/week03/template3_1.py) έτσι ώστε η λύση σας να επιτυγχάνει στο unit test.
 
-**Άσκηση E3A2** - Κατεβάστε σε txt μορφή το βιβλίο “Μεταμόρφωση” του Φ. Κάφκα από το <https://www.gutenberg.org/ebooks/5200>. Μετατρέψτε όλο το κείμενο σε πεζά και συμπληρώστε τις συναρτήσεις που απαντούν στα ακόλουθα ερωτήματα:
+**Άσκηση E3A2** - Κατεβάστε σε txt μορφή το βιβλίο "Μεταμόρφωση" του Φ. Κάφκα από το <https://www.gutenberg.org/ebooks/5200>. Μετατρέψτε όλο το κείμενο σε πεζά και συμπληρώστε τις συναρτήσεις που απαντούν στα ακόλουθα ερωτήματα:
 
 1. Ποιο είναι το πλήθος των λέξεων του κειμένου; Θεωρήστε ως λέξεις τις συμβολοσειρές που περιέχουν μόνο χαρακτήρες του αγγλικού αλφαβήτου.
 2. Ποιο είναι το πλήθος των λέξεων του κειμένου που ξεκινούν με τον χαρακτήρα 'c' και τελειώνουν με τον χαρακτήρα 'e';

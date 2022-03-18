@@ -3,50 +3,65 @@
 import re
 import unittest
 
-with open("metamorphosis.txt", "r") as f:
-    text = f.read().replace("\n", " ")
-
-text = text.lower()
+text = ""  # να αλλαχθεί
 
 # Πλήθος των λέξεων του κειμένου
 def q1():
-    pass
+    ...
 
 
-# Πλήθος των λέξεων του κειμένου που ξεκινούν με τον χαρακτήρα 'c' και τελειώνουν με τον χαρακτήρα 'e'
+# Πλήθος των λέξεων που ξεκινούν με τον χαρακτήρα 'h' και τελειώνουν με τον χαρακτήρα 'e'
 def q2():
-    pass
+    ...
 
 
 # Πλήθος των λέξεων του κειμένου με 5 χαρακτήρες
 def q3():
-    pass
+    ...
 
 
-# Πλήθος λέξεων του κειμένου που περιέχουν συνεχόμενους τους χαρακτήρες 't', 'a', 'c'
+# Πλήθος λέξεων του κειμένου που περιέχουν συνεχόμενους τους χαρακτήρες 'a', 's'
 def q4():
-    pass
+    ...
 
 
-# πλήθος λέξεων του κειμένου που περιέχουν συνεχόμενους τους χαρακτήρες 't', 'a', 'c' σε οποιαδήποτε σειρά
+# πλήθος λέξεων του κειμένου που περιέχουν συνεχόμενους τους χαρακτήρες 'a', 's' σε οποιαδήποτε σειρά
 def q5():
-    pass
+    ...
 
 
 # πλήθος λέξεων του κειμένου που ξεκινούν και τελειώνουν με τον ίδιο χαρακτήρα
 def q6():
-    pass
+    ...
+
+
+# πλήθος λέξεων του κειμένου που ξεκινούν και τελειώνουν με τους 2 ίδιους χαρακτήρες
+def q7():
+    ...
 
 
 # Mην αλλάξετε κάτι από εδώ και κάτω
 class TestReExamples(unittest.TestCase):
-    def test_regexes(self):
-        self.assertEqual(q1(), 2581)
-        self.assertEqual(q2(), 35)
-        self.assertEqual(q3(), 397)
-        self.assertEqual(q4(), 3)
-        self.assertEqual(q5(), 34)
-        self.assertEqual(q6(), 136)
+    def test_q1(self):
+        self.assertEqual(q1(), 70)
+
+    def test_q2(self):
+        self.assertEqual(q2(), 2)
+
+    def test_q3(self):
+        self.assertEqual(q3(), 12)
+
+    def test_q4(self):
+        self.assertEqual(q4(), 2)
+
+    def test_q5(self):
+        self.assertEqual(q5(), 3)
+
+    def test_q6(self):
+        self.assertEqual(q6(), 3)
+
+    def test_q7(self):
+        self.assertEqual(q7(), 1)
 
 
 if __name__ == "__main__":

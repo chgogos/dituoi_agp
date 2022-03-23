@@ -6,7 +6,7 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 19/3/2022
+Τελευταία ενημέρωση: 23/3/2022
 
 ## 1. ΘΕΩΡΙΑ
 
@@ -37,7 +37,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 * [Prolog](./pl/prolog/index.md) 
 
 
-### **Εβδομάδα 1 - πρώτο εργαστήριο Python**
+### **Πρώτο εργαστήριο Python**
   
 * [Εγκατάσταση της Python](https://eclass.aueb.gr/modules/document/file.php/INF259/python_installation_windows.pdf)
 * [Εκτέλεση κώδικα στο IDLE](https://sites.pitt.edu/~naraehan/python3/getting_started_win_first_try.html), εκτέλεση script της Python στη γραμμή εντολών
@@ -72,7 +72,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 ---
 
-### **Εβδομάδα 2 - δεύτερο εργαστήριο Python**
+### **Δεύτερο εργαστήριο Python**
 
 * [Συναρτήσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/09-functions.ipynb?flush_cache=true)
 * Εμβέλεια μεταβλητών, παραδείγματα [1a](./pl/python/scope1a.py), [1b](./pl/python/scope1b.py), [1c](./pl/python/scope1c.py), [2a](./pl/python/scope2a.py), [2b](./pl/python/scope2b.py)
@@ -102,7 +102,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 ---
 
-### **Εβδομάδα 3 - τρίτο εργαστήριο Python**
+### **Τρίτο εργαστήριο Python**
 
 * [Εξαιρέσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/07-exceptions.ipynb?flush_cache=true)
 * Η βιβλιοθήκη [os](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/os.ipynb?flush_cache=true), παραδείγματα [1](./pl/python/os_walk.py)
@@ -142,9 +142,6 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 Τροποποιήστε το [template3_2.py](./lab2022/week03/template3_2.py) έτσι ώστε η λύση σας να επιτυγχάνει σε όλα τα unit tests.
 
-<mark>Προσοχή: η εκφώνηση της Ε3Α2 άλλαξε στις 19/3/2022</mark>
-
-
 **Άσκηση E3A3** - Κατεβάστε το MovieLens [100K Dataset ml-100k.zip](https://grouplens.org/datasets/movielens/100k/). Εντοπίστε το αρχείο u.data που περιέχει 100.000 αξιολογήσεις από 943 χρήστες για 1.682 ταινίες και το αρχείο u.item που περιέχει τα στοιχεία των ταινιών. Εντοπίστε τις 10 ταινίες με τις καλύτερες αξιολογήσεις κατά μέσο όρο λαμβάνοντας υπόψη μόνο ταινίες που έχουν λάβει τουλάχιστον 50 αξιολογήσεις η κάθε μια. Εμφανίστε τους τίτλους αυτών των ταινιών. Παρατήρηση: Δείτε το αρχείο README στο ml-100k.zip για περιγραφή των περιεχομένων των αρχείων.
 
 **Άσκηση E3A4** - Κατεβάστε το ακόλουθο XML αρχείο που περιέχει το πρόγραμμα αγώνων ενός πρωταθλήματος.
@@ -152,3 +149,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 [ITC2021_Test8_SolGenMethodA.xml](./datasets/itc2021/ITC2021_Test8_SolGenMethodA.xml)
 
 Για κάθε αγώνα εμφανίστε την απόσταση περιόδων ανάμεσα στον αγώνα και στον επαναληπτικό του. Για παράδειγμα, για τις ομάδες 0 και 1 ο αγώνας 0-1 γίνεται στην περίοδο 33 και ο επαναληπτικός αγώνας 1-0 γίνεται στην περίοδο 14, άρα η απόσταση των δύο αγώνων είναι 33-14=19 αγωνιστικές.
+
+---
+
+<!-- ### **Τέταρτο εργαστήριο Python** -->

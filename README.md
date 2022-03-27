@@ -154,11 +154,11 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 ### **Τέταρτο εργαστήριο Python**
 
-* Αντικειμενοστραφής Προγραμματισμός 
+* [Αντικειμενοστραφής Προγραμματισμός](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/11-classes.ipynb?flush_cache=true) 
 * Κλάσεις και αντικείμενα, ιδιότητες και μέθοδοι 
 * Κατασκευαστές \_\_init\_\_
 * Οι μέθοδοι \_\_str\_\_ και \_\_repr\_\_
-* Υπερφόρτωση τελεστών
+* [Υπερφόρτωση τελεστών](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/34-operator_overloading.ipynb?flush_cache=true)
 * Κληρονομικότητα
 * Πολυμορφισμός
 

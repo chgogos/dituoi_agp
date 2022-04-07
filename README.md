@@ -6,7 +6,10 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 27/3/2022
+Τελευταία ενημέρωση: 7/4/2022
+
+Η ύλη της προόδου που θα πραγματοποιηθεί στις 6/5/2022 στις 9:00-12:00 θα είναι τα κεφάλαια 1,3,4 από το [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi) καθώς και βασικές γνώσεις για την Python που αντιστοιχούν στα εργαστήρια 1 έως και 5.
+
 
 ## 1. ΘΕΩΡΙΑ
 
@@ -22,13 +25,13 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
   * [pl11ch1GR.pdf](./resources/pl11ch1GR.pdf)
 * [Κεφ.3 Περιγραφή συντακτικού και σημασιολογίας](./cpl_sebesta/ch03/index.md)
   * [pl11ch3GR.pdf](./resources/pl11ch3GR.pdf)
+* [Κεφ.4 Λεκτική και συντακτική ανάλυση](./cpl_sebesta/ch04/index.md)
+  * [pl11ch4GR.pdf](./resources/pl11ch4GR.pdf)
 
-<!-- * [Κεφ.4 Λεκτική και συντακτική ανάλυση](./cpl_sebesta/ch04/index.md)
-* [Κεφ.5 Ονόματα, προσδέσεις και εμβέλειες](./cpl_sebesta/ch05/index.md)
+<!-- * [Κεφ.5 Ονόματα, προσδέσεις και εμβέλειες](./cpl_sebesta/ch05/index.md)
 * [Κεφ.9 Υποπρογράμματα](./cpl_sebesta/ch09/index.md)
 * [Κεφ.15 Γλώσσες συναρτησιακού προγραμματισμού](./cpl_sebesta/ch15/index.md)
 * [Κεφ.16 Γλώσσες λογικού προγραμματισμού](./cpl_sebesta/ch16/index.md) -->
-
 
 ## 2. ΕΡΓΑΣΤΗΡΙΟ
 
@@ -120,7 +123,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 * παίζοντας με τις κανονικές εκφράσεις στo <https://regexr.com/>, στο <https://alf.nu/RegexGolf>, στο <https://regexcrossword.com/> ή στο <http://play.inginf.units.it/#/>.
 
 
-**Άσκηση E3A1** - Στο ακόλουθο tweet ο Lex Fridman αναφέρει ότι η αναμενόμενη τιμή του πλήθους τυχαίων επιλογών αριθμών στο διάστημα 0 έως 1 που απαιτούνται έτσι ώστε το άθροισμά τους να ξεπεράσει το 1 είναι ίση με e=2.7182…
+**Άσκηση E3A1** - Στο ακόλουθο tweet ο [Lex Fridman](https://twitter.com/lexfridman) αναφέρει ότι η αναμενόμενη τιμή του πλήθους τυχαίων επιλογών αριθμών στο διάστημα 0 έως 1 που απαιτούνται έτσι ώστε το άθροισμά τους να ξεπεράσει το 1 είναι ίση με e=2.7182…
 
 ```
   Select numbers between 0 and 1 randomly until sum is > 1.
@@ -224,3 +227,20 @@ Document created at 2022-03-21 22:45:00 authors=Marianthi, Vasilis sender=Marian
 ```
 
 * Συμπληρώστε τον κώδικα στη main έτσι ώστε η λίστα εγγράφων να εμφανίζεται ταξινομημένη σε αύξουσα σειρά ημερομηνίας και ώρας δημιουργίας. 
+
+---
+
+### **Πέμπτο εργαστήριο Python**
+
+* Προγραμματισμός με γεγονότα (event driven programming)
+* Γραφικές διεπαφές με το tkinter (GUIs = Graphical User Interfaces)
+* Άλλες βιβλιοθήκες κατασκευής γραφικών διεπαφών (PySimpleGUI, PyQt5, wxPython)
+* Η βιβλιοθήκη matplotlib για τη σχεδίαση γραφημάτων
+
+<!-- **Άσκηση E5A1** - ...
+
+**Άσκηση E5A2** - ...
+
+**Άσκηση E5A3** - ...
+
+**Άσκηση E5A4** - ... -->

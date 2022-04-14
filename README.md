@@ -6,10 +6,12 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 11/4/2022
+Τελευταία ενημέρωση: 14/4/2022
 
 Η ύλη της προόδου που θα πραγματοποιηθεί στις 6/5/2022 στις 9:00-12:00 θα είναι τα κεφάλαια 1,3,4 από το [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi) καθώς και βασικές γνώσεις για την Python που αντιστοιχούν στα εργαστήρια 1 έως και 5.
 
+* Ασκήσεις επανάληψης: [1](./exercises/recitation.md), [2](./exercises/ppl.md)
+* [Quiz επανάληψης στο ecourse](https://ecourse.uoi.gr/mod/quiz/view.php?id=110672)
 
 ## 1. ΘΕΩΡΙΑ
 

@@ -8,7 +8,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 Τελευταία ενημέρωση: 14/4/2022
 
-Η ύλη της προόδου που θα πραγματοποιηθεί στις 6/5/2022 στις 9:00-12:00 θα είναι τα κεφάλαια 1,3,4 από το [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi) καθώς και βασικές γνώσεις για την Python που αντιστοιχούν στα εργαστήρια 1 έως και 5.
+Η ύλη της προόδου που θα πραγματοποιηθεί στις 6/5/2022 στις 9:00-12:00 θα είναι το Κεφάλαιο 1, το Κεφάλαιο 3 (μέχρι σελ. 137), το Κεφάλαιο 4 από το [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi) καθώς και βασικές γνώσεις για την Python που αντιστοιχούν στα εργαστήρια 1 έως και 5.
 
 * Ασκήσεις επανάληψης: [1](./exercises/recitation.md), [2](./exercises/ppl.md)
 * [Quiz επανάληψης στο ecourse](https://ecourse.uoi.gr/mod/quiz/view.php?id=110672)
@@ -26,7 +26,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 * [Κεφ.1 Εισαγωγή](./cpl_sebesta/ch01/index.md)
   * [pl11ch1GR.pdf](./resources/pl11ch1GR.pdf)
 * [Κεφ.3 Περιγραφή συντακτικού και σημασιολογίας](./cpl_sebesta/ch03/index.md)
-  * [pl11ch3GR.pdf](./resources/pl11ch3GR.pdf)
+  * [pl11ch3GR.pdf](./resources/pl11ch3GR.pdf) 
 * [Κεφ.4 Λεκτική και συντακτική ανάλυση](./cpl_sebesta/ch04/index.md)
   * [pl11ch4GR.pdf](./resources/pl11ch4GR.pdf)
 

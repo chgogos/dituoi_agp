@@ -1,6 +1,5 @@
-from email import message
 import tkinter as tk
-from turtle import title
+from tkinter import messagebox
 
 root = tk.Tk()
 root.title("Λίστα εργασιών")
@@ -9,9 +8,9 @@ root.title("Λίστα εργασιών")
 def add_task():
     task = entry_task.get()
     if task == "":
-        tk.messagebox.showwarning(title="Σφάλμα", message="Πρέπει να εισάγετε κείμενο")
+        messagebox.showwarning(title="Σφάλμα", message="Πρέπει να εισάγετε κείμενο")
     elif task in tasks.get():
-        tk.messagebox.showwarning(title="Σφάλμα", message="Υπάρχει ήδη η τιμή")
+        messagebox.showwarning(title="Σφάλμα", message="Υπάρχει ήδη η τιμή")
     else:
         listbox_tasks.insert(tk.END, task)
         entry_task.delete(0, tk.END)
@@ -22,7 +21,7 @@ def del_task():
         task_index = listbox_tasks.curselection()[0]
         listbox_tasks.delete(task_index)
     except:
-        tk.messagebox.showwarning(
+        messagebox.showwarning(
             title="Σφάλμα", message="Δεν έχετε επιλέξει εργασία προς διαγραφή"
         )
 

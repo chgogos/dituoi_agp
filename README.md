@@ -257,3 +257,14 @@ Document created at 2022-03-21 22:45:00 authors=Marianthi, Vasilis sender=Marian
 
 ---
 
+
+<!-- ### **Πρώτο εργαστήριο Haskell**
+
+* Εγκατάσταση της Haskell
+* Ο διερμηνευτής της Haskell ghci
+
+Ενισχύστε τις γνώσεις σας για τα παραπάνω:
+* [Haskell wikibook](https://en.m.wikibooks.org/wiki/Haskell) -->
+
+
+

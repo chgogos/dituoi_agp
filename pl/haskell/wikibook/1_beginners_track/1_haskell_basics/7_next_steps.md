@@ -144,6 +144,8 @@ fst' :: (a, b) -> a
 fst' (x, _) = x
 ```
 
+[myfst.hs](./myfst.hs)
+
 ```
 head             :: [a] -> a
 head (x:_)       =  x
@@ -154,5 +156,43 @@ tail (_:xs)      =  xs
 tail []          =  error "Prelude.tail: empty list"
 ```
 
+[my_head_tail.hs](./my_head_tail.hs)
+
 ## let bindings (προσδέσεις)
+
+Οι προσδέσεις let αποτελούν εναλλακτική των προτάσεων where έτσι ώστε να πραγματοποιούνται τοπικές δηλώσεις.
+
+Παράδειγμα: εύρεση πραγματικών λύσεων δευτεροβάθμιας εξίσωσης ax^2+bx+c=0
+
+```
+roots a b c =
+    ((-b + sqrt(b * b - 4 * a * c)) / (2 * a),
+     (-b - sqrt(b * b - 4 * a * c)) / (2 * a))
+```
+
+[roots.hs](./roots.hs)
+
+με χρήση let bindings
+
+```
+roots a b c =
+    let sdisc = sqrt (b * b - 4 * a * c)
+    in  ((-b + sdisc) / (2 * a),
+         (-b - sdisc) / (2 * a))
+```
+
+[roots_let_bindings.hs](./roots_let_bindings.hs)
+
+ή ακόμα και με πολλαπλά let bindings
+
+
+```
+roots a b c =
+    let sdisc = sqrt (b * b - 4 * a * c)
+        twice_a = 2 * a
+    in  ((-b + sdisc) / twice_a,
+         (-b - sdisc) / twice_a)
+```
+
+[roots_many_let_bindings.hs](./roots_many_let_bindings.hs)
 

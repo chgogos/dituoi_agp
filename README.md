@@ -6,7 +6,7 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 14/4/2022
+Τελευταία ενημέρωση: 5/5/2022
 
 Η ύλη της προόδου που θα πραγματοποιηθεί στις 6/5/2022 στις 9:00-12:00 θα είναι το Κεφάλαιο 1, το Κεφάλαιο 3 (μέχρι σελ. 137), το Κεφάλαιο 4 από το [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi) καθώς και βασικές γνώσεις για την Python που αντιστοιχούν στα εργαστήρια 1 έως και 5.
 
@@ -257,14 +257,27 @@ Document created at 2022-03-21 22:45:00 authors=Marianthi, Vasilis sender=Marian
 
 ---
 
+### **Πρώτο εργαστήριο Haskell**
 
-<!-- ### **Πρώτο εργαστήριο Haskell**
-
-* Εγκατάσταση της Haskell
-* Ο διερμηνευτής της Haskell ghci
+* Από το [Haskell wikibook](https://en.m.wikibooks.org/wiki/Haskell) Haskell Basics
+  * Εγκατάσταση της Haskell, ghci [1.1](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/1_getting_set_up.md)
+  * Μεταβλητές, συναρτήσεις, αρχεία πηγαίου κώδικα, where [1.2](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/2_variables_and_functions.md)
+  * Τιμές αλήθειας, guards[1.3](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/3_truth_values.md)
+  * Τύποι [1.4](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/4_type_basics.md)
+  * Λίστες, πλειάδες, fst και snd, head και tail [1.5](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/5_lists_and_tuples.md)
+  * Πολυμορφικοί τύποι, Num, Eq [1.6](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/6_type_basics_ii.md)
+  * if/then/else/, pattern matching, let bindings [1.7](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/7_next_steps.md)
+  * Σύνθεση συναρτήσεων (composition), βιβλιοθήκες [1.8](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/8_building_vocabulary.md)
+  * Είσοδος, έξοδος [1.9](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/9_simple_input_and_output.md))
 
 Ενισχύστε τις γνώσεις σας για τα παραπάνω:
-* [Haskell wikibook](https://en.m.wikibooks.org/wiki/Haskell) -->
+* [Διάφορα παραδείγματα και πηγές](./pl/haskell/index.md)
 
+**Άσκηση Ε6Α1**
+Γράψτε μια συνάρτηση που να υπολογίζει τον όγκο ενός κουτιού και μια συνάρτηση που να υπολογίζει τον όγκο μιας πυραμίδας. Γράψτε ένα πρόγραμμα σε Haskell που να ζητά από το χρήστη τις διαστάσεις μιας πυραμίδας με τετραγωνική βάση (μήκος πλευράς βάσης και ύψος σε μέτρα) και να υπολογίζει πόσα πέτρινα τούβλα χρειάζονται κατά προσέγγιση για να καλυφθεί ο όγκος της πυραμίδας αν κάθε τούβλο έχει μήκος 19 εκατοστά, πλάτος 9 εκατοστά και ύψος 6 εκατοστά. Δίνεται ότι ο όγκος μιας πυραμίδας είναι ίσος με το ένα τρίτο του γινομένου του εμβαδού της βάσης της πυραμίδας επί το ύψος της.
 
+**Άσκηση Ε6Α2**
+Οι αντιστάσεις έχουν χρωματικό κώδικα που υποδεικνύει πόσα Ohms είναι η κάθε μια. Αποτελείται από τρεις γραμμές και κάθε μία υποδηλώνει ένα ψηφίο (black=0, brown=1, red=2, orange=3, yellow=4, green=5, blue=6 violet=7, grey=8, white=9). Η χωρητικότητα σε Ohms υπολογίζεται ως εξής. Η πρώτη γραμμή αντιστοιχεί στο πλέον αριστερό ψηφίο, η δεύτερη γραμμή στο αμέσως επόμενο και η τρίτη γραμμή σε ποσα μηδενικά ακολουθούν. Έτσι, για παράδειγμα ο συνδυασμός violet, grey, red υποδηλώνει 7800 Ohms. Γράψτε ένα πρόγραμμα σε Haskell που για μια αντίσταση ο χρήστης να δίνει τρία χρώματα στη σειρά και το πρόγραμμα να εμφανίζει τα Ohms της αντίστασης.
 
+**Άσκηση Ε6Α3**
+Κατασκευάστε μια συνάρτηση με όνομα inRange που να δέχεται τρία ορίσματα min, max και x (ακέραιες τιμές) και να επιστρέφει YES ή NO ανάλογα με το αν το x βρίσκεται στο διάστημα [min,max] ή όχι. Καλέστε τη συνάρτηση από κύριο πρόγραμμα για 3 τιμές που θα δίνει ο χρήστης. Γράψτε 3 επιπλέον εναλλακτικές υλοποιήσεις της inRange χρησιμοποιώντας α)let bindings, β) where και γ) guards.

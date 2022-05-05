@@ -262,13 +262,13 @@ Document created at 2022-03-21 22:45:00 authors=Marianthi, Vasilis sender=Marian
 * Από το [Haskell wikibook](https://en.m.wikibooks.org/wiki/Haskell) Haskell Basics
   * Εγκατάσταση της Haskell, ghci [1.1](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/1_getting_set_up.md)
   * Μεταβλητές, συναρτήσεις, αρχεία πηγαίου κώδικα, where [1.2](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/2_variables_and_functions.md)
-  * Τιμές αλήθειας, guards[1.3](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/3_truth_values.md)
+  * Τιμές αλήθειας, guards [1.3](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/3_truth_values.md)
   * Τύποι [1.4](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/4_type_basics.md)
-  * Λίστες, πλειάδες, fst και snd, head και tail [1.5](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/5_lists_and_tuples.md)
+  * Λίστες (συναρτήσεις head και tail), πλειάδες (συναρτήσεις fst και snd) [1.5](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/5_lists_and_tuples.md)
   * Πολυμορφικοί τύποι, Num, Eq [1.6](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/6_type_basics_ii.md)
   * if/then/else/, pattern matching, let bindings [1.7](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/7_next_steps.md)
   * Σύνθεση συναρτήσεων (composition), βιβλιοθήκες [1.8](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/8_building_vocabulary.md)
-  * Είσοδος, έξοδος [1.9](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/9_simple_input_and_output.md))
+  * Είσοδος, έξοδος [1.9](./pl/haskell/wikibook/1_beginners_track/1_haskell_basics/9_simple_input_and_output.md)
 
 Ενισχύστε τις γνώσεις σας για τα παραπάνω:
 * [Διάφορα παραδείγματα και πηγές](./pl/haskell/index.md)

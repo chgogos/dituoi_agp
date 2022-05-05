@@ -501,7 +501,7 @@ main = print (fac 42)
 [example1.hs](./example1.hs)
 
 
-Εκτέλεση από το διερμηνευτή
+Εκτέλεση από το διερμηνευτή ghci
 ```
 $ ghci example1.hs
 GHCi, version 8.10.7: https://www.haskell.org/ghc/  :? for help
@@ -510,6 +510,7 @@ Prelude Main> main
 1405006117752879898543142606244511569936384000000000 
 ```
 
+Μεταγλώττιση από το ghc, εκτέλεση
 ```
 $ ghc example1.hs
 [1 of 1] Compiling Main             ( example1.hs, example1.o )

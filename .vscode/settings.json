@@ -8,5 +8,8 @@
         "*.c": "c",
         "*.pl": "prolog",
         "random": "cpp"
-    }
+    },
+    "cSpell.words": [
+        "παραγοντικό"
+    ]
 }

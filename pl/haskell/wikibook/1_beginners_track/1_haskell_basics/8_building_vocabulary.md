@@ -112,7 +112,7 @@ monsterRevWords input = rejoinUnreversed (divideReversed input)
 
 [monsterRevWords.hs](./monsterRevWords.hs)
 
-Ο κώδικας μπορεί να γραφείν πολύ απλούστερα με χρήση των ακόλουθων συναρτήσεων του Prelude.
+Ο κώδικας μπορεί να γραφεί πολύ απλούστερα με χρήση των ακόλουθων συναρτήσεων του Prelude.
 
 * words, χωρίζει ένα λεκτικό με βάση τα κενά του σε μια λίστα λεκτικών
 * reverse, αντιστρέφει μια λίστα 

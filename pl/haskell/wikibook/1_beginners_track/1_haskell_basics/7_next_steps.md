@@ -107,7 +107,7 @@ pts x
 
 [pointsMix.hs](./pointsMix.hs)
 
-**Παράδειγμα ορισμού της συνάρτησης τελεστή (||) με pattern matching**
+**Παράδειγμα ορισμού της συνάρτησης τελεστή (\|\|) με pattern matching**
 
 ```
 (||) :: Bool -> Bool -> Bool

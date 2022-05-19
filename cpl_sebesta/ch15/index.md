@@ -354,7 +354,7 @@ quadratic_root a b c =
 		minus_b_over_2a + root_part_over_2a
 ```
 
-**Συλλογές σε λίστες (list comprehensions)**
+**Περιφραστικές λίστες (list comprehensions)**
 
 Λίστα όλων των n\*n\*n ώστε το n να βρίσκεται στο διάστημα 1 έως και 50.
 

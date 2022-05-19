@@ -13,7 +13,7 @@
 * [SimpleLambda.java](./../pl/java/simple_lambda/SimpleLambda.java)
 * [simple_lambda.py](./../pl/python/simple_lambda.py)
 
-[10-lambdas.ipynb](./pl/python/notebooks/10-lambdas.ipynb)
+[10-lambdas.ipynb](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/10-lambdas.ipynb)
 
 ## Συναρτήσεις υψηλότερης τάξης σε C++, Java, Python
 
@@ -27,7 +27,7 @@
 
 Τα list comprehensions είναι μια ιδέα που πρωτοεμφανίστηκε στην Haskell αλλά πλέον και άλλες γλώσσες τα έχουν ενσωματώσει όπως οι Scala, F#, Python.
 
-[06-comprehensions.ipynb](./../pl/python/notebooks/06-comprehensions.ipynb)
+[06-comprehensions.ipynb](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/06-comprehensions.ipynb)
 
 ## Μερικές συναρτήσεις στην Python
 
@@ -41,7 +41,7 @@
 * [ranges_are_lazy.py](./../pl/python/ranges_are_lazy.py)
 * [generators_are_lazy.py](./../pl/python/generators_are_lazy.py)
 
-[23-generators.ipynb](./../pl/python/notebooks/23-generators.ipynb)
+[23-generators.ipynb](https://github.com/chgogos/dituoi_agp/blob/main/pl/python/notebooks/23-generators.ipynb)
 
 ## Κλειστότητες στην Python
 

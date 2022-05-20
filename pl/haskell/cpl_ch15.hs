@@ -2,7 +2,7 @@
 fact1 :: (Eq p, Num p) => p -> p
 fact1 0 = 1
 fact1 1 = 1
-fact1 n = n * fact1 (n -1)
+fact1 n = n * fact1 (n - 1)
 
 -- παραγοντικό (υλοποίηση 2)
 fact2 :: (Num p, Ord p) => p -> p
@@ -77,3 +77,8 @@ member2 b (a : x)
 -- True
 -- > member2 17 [n*n | n <- [0..]]
 -- False
+
+sub n
+  | n < 10 = 0
+  | n > 100 = 2
+  | otherwise = 1

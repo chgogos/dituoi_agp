@@ -16,7 +16,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 ## Εργασίες
 * [Εργασία 1](./resources/2022e_agp_prj1.pdf) παράδοση μέχρι ~~27/4/2022~~ στο ecourse
 * [Εργασία 2](./resources/2022e_agp_prj2.pdf) παράδοση μέχρι 19/6/2022 στο ecourse
-  * παραδείγματα εισόδου: [input1000.txt](./resources/input1000.txt)
+  * παραδείγματα εισόδου: [input1000.txt](./resources/input1000.txt), [input10000.txt](./resources/input10000.txt)
 
 ## 1. ΘΕΩΡΙΑ
 
@@ -83,7 +83,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 **Άσκηση E1A4** - Δώστε την εντολή import this στο IDLE και αντιγράψτε σε ένα λεκτικό το κείμενο που επιστρέφεται. Γράψτε πρόγραμμα που να εμφανίζει το πλήθος παρατηρήσεων των χαρακτήρων Α έως και Z, χωρίς διάκριση πεζών και κεφαλαίων, στο παραπάνω κείμενο.
 
-[Λύσεις](./resources/lab1_python_solutions.zip)
+[Λύσεις εργαστηρίου 1](./resources/lab1_python_solutions.zip)
 
 ---
 
@@ -115,7 +115,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 Τροποποιήστε το [template2_4.py](./lab2022/week02/template2_4.py) έτσι ώστε η λύση σας να επιτυγχάνει σε όλα τα unit tests.
 
-[Λύσεις](./resources/lab2_python_solutions.zip)
+[Λύσεις εργαστηρίου 2](./resources/lab2_python_solutions.zip)
 
 ---
 
@@ -167,7 +167,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 Για κάθε αγώνα εμφανίστε την απόσταση περιόδων ανάμεσα στον αγώνα και στον επαναληπτικό του. Για παράδειγμα, για τις ομάδες 0 και 1 ο αγώνας 0-1 γίνεται στην περίοδο 33 και ο επαναληπτικός αγώνας 1-0 γίνεται στην περίοδο 14, άρα η απόσταση των δύο αγώνων είναι 33-14=19 αγωνιστικές.
 
-[Λύσεις](./resources/lab3_python_solutions.zip)
+[Λύσεις εργαστηρίου 3](./resources/lab3_python_solutions.zip)
 
 ---
 
@@ -245,7 +245,7 @@ Document created at 2022-03-21 22:45:00 authors=Marianthi, Vasilis sender=Marian
 * Συμπληρώστε τον κώδικα στη main έτσι ώστε η λίστα εγγράφων να εμφανίζεται ταξινομημένη σε αύξουσα σειρά ημερομηνίας και ώρας δημιουργίας. 
 
 
-[Λύσεις](./resources/lab4_python_solutions.zip)
+[Λύσεις εργαστηρίου 4](./resources/lab4_python_solutions.zip)
 
 ---
 
@@ -272,7 +272,7 @@ Document created at 2022-03-21 22:45:00 authors=Marianthi, Vasilis sender=Marian
 
 **Άσκηση E5A4** - Χρησιμοποιήστε το pattern MVC έτσι ώστε να αναπτύξετε μια εφαρμογή που να πραγματοποιεί πράξεις πρόσθεσης, αφαίρεσης, πολλαπλασιασμού και διαίρεσης με μιγαδικούς αριθμούς. Στο ρόλο του view να μπορεί να εναλλάσσεται γραφικό περιβάλλον (GUI) και περιβάλλον κειμένου (TUI=Text User Interface).
 
-[Λύσεις](./resources/lab5_python_solutions.zip)
+[Λύσεις εργαστηρίου 5](./resources/lab5_python_solutions.zip)
 
 ---
 
@@ -301,7 +301,7 @@ Document created at 2022-03-21 22:45:00 authors=Marianthi, Vasilis sender=Marian
 **Άσκηση Ε6Α3**
 Κατασκευάστε μια συνάρτηση με όνομα ```inRange``` που να δέχεται τρία ορίσματα ```min```, ```max``` και ```x``` (ακέραιες τιμές) και να επιστρέφει ```True``` ή ```False``` ανάλογα με το αν το ```x``` βρίσκεται στο διάστημα [min,max] ή όχι. Καλέστε τη συνάρτηση από κύριο πρόγραμμα για 3 τιμές που θα δίνει ο χρήστης και εμφανίστε . Γράψτε 3 επιπλέον εναλλακτικές υλοποιήσεις της inRange χρησιμοποιώντας α) let bindings, β) where και γ) guards.
 
-[Λύσεις](./resources/lab6_haskell_solutions.zip)
+[Λύσεις εργαστηρίου 6](./resources/lab6_haskell_solutions.zip)
 
 ---
 
@@ -349,7 +349,7 @@ Document created at 2022-03-21 22:45:00 authors=Marianthi, Vasilis sender=Marian
 1. Γράψτε μια συνάρτηση που να επιστρέφει το τελευταίο στοιχείο μιας λίστας. Η συνάρτηση αυτή υπάρχει στο Prelude με όνομα ```last```.
 2. Γράψτε μια συνάρτηση που να επιστρέφει μια λίστα από την οποία να έχει αφαιρεθεί το τελευταίο στοιχείο της. Η συνάρτηση αυτή υπάρχει στο Prelude με όνομα ```init```. -->
 
-[Λύσεις](./resources/lab7_haskell_solutions.zip)
+[Λύσεις εργαστηρίου 7](./resources/lab7_haskell_solutions.zip)
 
 ---
 
@@ -364,7 +364,6 @@ Document created at 2022-03-21 22:45:00 authors=Marianthi, Vasilis sender=Marian
 
 **Άσκηση Ε8Α2** -->
 
----
 
 ### **Πρώτο εργαστήριο Prolog**
 * Εγκατάσταση Prolog [SWI-Prolog](https://www.swi-prolog.org/)

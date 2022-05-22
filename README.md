@@ -384,14 +384,14 @@ Document created at 2022-03-21 22:45:00 authors=Marianthi, Vasilis sender=Marian
 
 **Άσκηση Ε8Α4** -->
 
-### **Δεύτερο εργαστήριο Prolog**
+<!-- ### **Δεύτερο εργαστήριο Prolog**
 * Από το [Learn Prolog Now](http://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=top)
   * Λίστες [Ch.4](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter4.pdf), [Ch.6](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter6.pdf)
   * Αριθμητική με την Prolog [Ch.5](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter5.pdf)
   * Αποκοπή και άρνηση [Ch.10](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter10.pdf)
 
 Ενισχύστε τις γνώσεις σας για τα παραπάνω:
-* [Prolog tutorial by J.R.Fisher](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/pt_framer.html)
+* [Prolog tutorial by J.R.Fisher](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/pt_framer.html) -->
 
 <!-- **Άσκηση Ε9Α1**
 

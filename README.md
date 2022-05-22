@@ -122,7 +122,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 ### **Τρίτο εργαστήριο Python**
 
 * [Εξαιρέσεις](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/07-exceptions.ipynb?flush_cache=true)
-* Η βιβλιοθήκη [os](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/os.ipynb?flush_cache=true), παραδείγματα [1](./pl/python/os_walk.py)
+* Η βιβλιοθήκη [os](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/42-os.ipynb?flush_cache=true), παραδείγματα [1](./pl/python/os_walk.py)
 * Αρχεία ([απλού κειμένου](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/08-files.ipynb?flush_cache=true), [CSV](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/14-csv.ipynb), [excel](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/15-excel.ipynb?flush_cache=true), [XML](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/16-xml.ipynb?flush_cache=true), [JSON](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/17-json.ipynb?flush_cache=true), [YAML](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/18-yaml.ipynb?flush_cache=true))
 * [Σειριοποίηση με το pickle](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/19-pickle.ipynb?flush_cache=true)
 * [Η βιβλιοθήκη κανονικών εκφράσεων re](https://nbviewer.org/github/chgogos/dituoi_agp/blob/main/pl/python/notebooks/22-regular_expressions.ipynb?flush_cache=true)
@@ -134,7 +134,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 * μελετώντας τις παρουσιάσεις από το [PY4E](https://www.py4e.com/)
   * [files](https://www.py4e.com/lectures3/Pythonlearn-07-Files.pptx)
   * [regular expressions](https://www.py4e.com/lectures3/Pythonlearn-11-Regex.pptx)
-* παίζοντας με τις κανονικές εκφράσεις στo <https://regexr.com/>, στο <https://alf.nu/RegexGolf>, στο <https://regexcrossword.com/> ή στο <http://play.inginf.units.it/#/>.
+* παίζοντας με τις κανονικές εκφράσεις στo <https://regexr.com/>, στο <https://alf.nu/RegexGolf>, ή στο <https://regexcrossword.com/>.
 
 
 **Άσκηση E3A1** - Στο ακόλουθο tweet ο [Lex Fridman](https://twitter.com/lexfridman) αναφέρει ότι η αναμενόμενη τιμή του πλήθους τυχαίων επιλογών αριθμών στο διάστημα 0 έως 1 που απαιτούνται έτσι ώστε το άθροισμά τους να ξεπεράσει το 1 είναι ίση με e=2.7182…

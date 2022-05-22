@@ -6,12 +6,17 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 19/5/2022
+Τελευταία ενημέρωση: 22/5/2022
 
 Η ύλη της προόδου που θα πραγματοποιηθεί στις 6/5/2022 στις 9:00-12:00 θα είναι το Κεφάλαιο 1, το Κεφάλαιο 3 (μέχρι σελ. 137), το Κεφάλαιο 4 από το [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi) καθώς και βασικές γνώσεις για την Python που αντιστοιχούν στα εργαστήρια 1 έως και 5.
 
 * Ασκήσεις επανάληψης: [1](./exercises/recitation.md), [2](./exercises/ppl.md)
 * [Quiz επανάληψης στο ecourse](https://ecourse.uoi.gr/mod/quiz/view.php?id=110672)
+
+## Εργασίες
+* [Εργασία 1](./resources/2022e_agp_prj1.pdf) παράδοση μέχρι ~~27/4/2022~~ στο ecourse
+* [Εργασία 2](./resources/2022e_agp_prj2.pdf) παράδοση μέχρι 19/6/2022 στο ecourse
+  * παραδείγματα εισόδου: [input1000.txt](./resources/input1000.txt)
 
 ## 1. ΘΕΩΡΙΑ
 
@@ -35,9 +40,8 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
   * [pl11ch9GR.pdf](./resources/pl11ch9GR.pdf)
 * [Κεφ.15 Γλώσσες συναρτησιακού προγραμματισμού](./cpl_sebesta/ch15/index.md)
   * [pl11ch15GR.pdf](./resources/pl11ch15GR.pdf)
-* [Κεφ.16 Γλώσσες λογικού προγραμματισμού](./cpl_sebesta/ch16/index.md) -->
+* [Κεφ.16 Γλώσσες λογικού προγραμματισμού](./cpl_sebesta/ch16/index.md)
   * [pl11ch16GR.pdf](./resources/pl11ch16GR.pdf)
-
 
 ## 2. ΕΡΓΑΣΤΗΡΙΟ
 
@@ -343,3 +347,40 @@ Document created at 2022-03-21 22:45:00 authors=Marianthi, Vasilis sender=Marian
 
 **Άσκηση Ε8Α2** -->
 
+---
+
+### **Πρώτο εργαστήριο Prolog**
+* Εγκατάσταση Prolog [SWI-Prolog](https://www.swi-prolog.org/)
+* Από το [Learn Prolog Now](http://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=top)
+  * Γεγονότα, κανόνες, ερωτήματα [Ch.1](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter1.pdf)
+  * Ενοποίηση, αναζήτηση απόδειξης [Ch.2](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter2.pdf)
+  * Αναδρομή [Ch.3](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter3.pdf)
+
+Ενισχύστε τις γνώσεις σας για τα παραπάνω:
+* [Prolog tutorial by Derek Banas (video)](https://www.youtube.com/watch?v=SykxWpFwMGs)
+* Learn X in Y minutes where X=prolog](https://learnxinyminutes.com/docs/prolog/)
+
+<!-- **Άσκηση Ε8Α1**
+
+**Άσκηση Ε8Α2**
+
+**Άσκηση Ε8Α3**
+
+**Άσκηση Ε8Α4** -->
+
+### **Δεύτερο εργαστήριο Prolog** -->
+* Από το [Learn Prolog Now](http://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=top)
+  * Λίστες [Ch.4](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter4.pdf), [Ch.6](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter6.pdf)
+  * Αριθμητική με την Prolog [Ch.5](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter5.pdf)
+  * Αποκοπή και άρνηση [Ch.10](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter10.pdf)
+
+Ενισχύστε τις γνώσεις σας για τα παραπάνω:
+* [Prolog tutorial by J.R.Fisher](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/pt_framer.html)
+
+<!-- **Άσκηση Ε9Α1**
+
+**Άσκηση Ε9Α2**
+
+**Άσκηση Ε9Α3**
+
+**Άσκηση Ε9Α4** -->

@@ -20,8 +20,8 @@
 ## Tutorials
 
 * [<mark>Learn X in Y minutes where X=prolog</mark>](https://learnxinyminutes.com/docs/prolog/)
-* [The power of Prolog by Markus Triska](https://www.metalevel.at/prolog)
 * [Prolog tutorial by J.R.Fisher](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/pt_framer.html)
+* [The power of Prolog by Markus Triska](https://www.metalevel.at/prolog)
 * [Learn Prolog Now](http://www.learnprolognow.org/)
   * [Chapter 1 kb1.pl](./lpn/ch1/kb1.pl)
   * [Chapter 1 kb2.pl](./lpn/ch1/kb2.pl)
@@ -58,6 +58,7 @@
 ## Βίντεο μαθήματα για την Prolog
 
 * [Εργαστήριο Prolog, Κ. Σγάρμπας](https://eclass.upatras.gr/modules/video/?course=EE690)
+* [Prolog tutorial by Derek Banas](https://www.youtube.com/watch?v=SykxWpFwMGs)
 * [The Power of Prolog by Markus Triska: Videos](https://www.metalevel.at/prolog/videos/)
 
 <!-- * [Εισαγωγή στην Prolog, Δ. Ψούνης)](https://www.youtube.com/playlist?list=PLLMmbOLFy25HGbFmMa6aWLBkFcI5FVabr) -->

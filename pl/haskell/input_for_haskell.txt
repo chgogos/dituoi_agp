@@ -1,0 +1,3 @@
+maria 8
+petros 9
+kostas 5

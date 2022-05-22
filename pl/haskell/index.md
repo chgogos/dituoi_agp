@@ -519,6 +519,29 @@ $ example1.exe
 1405006117752879898543142606244511569936384000000000
 ```
 
+## Ανάγνωση και εγγραφή σε αρχεία
+
+Ανάγνωση από το αρχείο κειμένου ["input_for_haskell.txt"](./input_for_haskell.txt)
+```
+main :: IO()
+main = do
+   content <- readFile "input_for_haskell.txt"
+   let linesOfFiles = lines content
+       x = map words linesOfFiles
+   print x
+```
+[fileReadFrom.hs](./fileReadFrom.hs)
+
+
+Εγγραφή περιεχομένων λίστας στο αρχείο κειμένου "output_from_haskell.txt"
+```
+main :: IO ()
+main = do
+  let a_list = ["Arta", "Informatics", "Telecommunications"]
+  writeFile ("output_from_haskell.txt") (unlines a_list)
+```
+[fileWriteTo.hs.hs](./fileWriteTo.hs)
+
 ## Βιβλία - σημειώσεις
 
 * [Λογικός και συναρτησιακός προγραμματισμός - Σταματόπουλος Παναγιώτης](https://repository.kallipos.gr/handle/11419/3587)

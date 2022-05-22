@@ -5,7 +5,7 @@
 *.class
 
 # package files
-*.zip
+# *.zip
 
 # python
 __pycache__/

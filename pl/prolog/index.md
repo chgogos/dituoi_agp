@@ -123,6 +123,46 @@ nodebug.
 ?-
 ```
 
+**Έναρξη SWI-Prolog διερμηνευτή από τη γραμμή εντολών και φόρτωση αρχείου κώδικα prolog**
+
+Έστω ότι ο κώδικας prolog βρίσκεται σε ένα αρχείο ```demo.pl```.
+
+Α΄ τρόπος (με όρισμα στη γραμμή εντολών)
+```
+$ swipl -l demo.pl
+```
+
+Β' τρόπος (με την εντολή consult)
+```
+$ swipl
+1 ?- consult("demo.pl").
+true. 
+% ή
+2 ?- consult(demo).
+true. 
+```
+
+Γ' τρόπος (με τη συντόμευση \[\])
+```
+$ swipl
+1 ?- ["demo.pl"].
+true.
+% ή
+1 ?- [demo].
+true.
+```
+
+**Βιβλιοθήκες της SWI-Prolog**
+
+* https://www.swi-prolog.org/pldoc/man?section=libpl
+  * [<mark>library(clpb): Constraint Logic Programming over Boolean Variables</mark>](https://www.swi-prolog.org/pldoc/man?section=clpb)
+  * [library(clpfd): Constraint Logic Programming over Finite Domains](https://www.swi-prolog.org/pldoc/man?section=clpfd)
+  * [library(clpqr): Constraint Logic Programming over Rationals and Reals](https://www.swi-prolog.org/pldoc/man?section=clpqr)
+  * [library(simplex): Solve linear programming problems](https://www.swi-prolog.org/pldoc/man?section=simplex)
+
+
+---
+
 **Εγκατάσταση της GNU-Prolog σε Ubuntu**
 
 ```
@@ -140,11 +180,3 @@ hello world
 yes
 | ?- halt.
 ```
-
-**Βιβλιοθήκες της SWI-Prolog**
-
-* https://www.swi-prolog.org/pldoc/man?section=libpl
-  * [<mark>library(clpb): Constraint Logic Programming over Boolean Variables</mark>](https://www.swi-prolog.org/pldoc/man?section=clpb)
-  * [library(clpfd): Constraint Logic Programming over Finite Domains](https://www.swi-prolog.org/pldoc/man?section=clpfd)
-  * [library(clpqr): Constraint Logic Programming over Rationals and Reals](https://www.swi-prolog.org/pldoc/man?section=clpqr)
-  * [library(simplex): Solve linear programming problems](https://www.swi-prolog.org/pldoc/man?section=simplex)

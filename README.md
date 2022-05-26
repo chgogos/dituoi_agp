@@ -6,7 +6,7 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 24/5/2022
+Τελευταία ενημέρωση: 26/5/2022
 
 Η ύλη της προόδου που θα πραγματοποιηθεί στις 6/5/2022 στις 9:00-12:00 θα είναι το Κεφάλαιο 1, το Κεφάλαιο 3 (μέχρι σελ. 137), το Κεφάλαιο 4 από το [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi) καθώς και βασικές γνώσεις για την Python που αντιστοιχούν στα εργαστήρια 1 έως και 5.
 
@@ -383,7 +383,7 @@ Document created at 2022-03-21 22:45:00 authors=Marianthi, Vasilis sender=Marian
 2. Ο Πλάτωνας είναι φιλόσοφος.
 2. Ο Περικλής είναι πολιτικός.
 
-Προσθέστε τα εξής κατηγορήματα (predicates):
+Προσθέστε τους εξής κανόνες (rules):
 1. Οι φιλόσοφοι είναι άνθρωποι.
 2. Οι πολιτικοί είναι άνθρωποι.
 3. Οι άνθρωποι είναι θηλαστικά.
@@ -470,6 +470,7 @@ factorial(N,F) :-
 * Από το [Learn Prolog Now](http://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=top)
   * Λίστες [Ch.4](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter4.pdf), [Ch.6](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter6.pdf)
   * Αποκοπή και άρνηση [Ch.10](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter10.pdf)
+  * Λογικός προγραμματισμός με περιορισμούς (Constraint Logic Programming).
 
 Ενισχύστε τις γνώσεις σας για τα παραπάνω:
 * [Prolog tutorial by J.R.Fisher](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/pt_framer.html) -->

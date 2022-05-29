@@ -135,6 +135,7 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
   * [files](https://www.py4e.com/lectures3/Pythonlearn-07-Files.pptx)
   * [regular expressions](https://www.py4e.com/lectures3/Pythonlearn-11-Regex.pptx)
 * παίζοντας με τις κανονικές εκφράσεις στo <https://regexr.com/>, στο <https://alf.nu/RegexGolf>, ή στο <https://regexcrossword.com/>.
+* οπτικοποιώντας κανονικές εκφράσεις στο <https://regexper.com/>, για παράδειγμα: [κανονική έκφραση](<https://regexper.com/#%5B0-9%5D%3F%5B0-9%5D%3A%5B0-9%5D%5B0-9%5D>) για ώρα σε μορφή h:mm ή hh:mm.
 
 
 **Άσκηση E3A1** - Στο ακόλουθο tweet ο [Lex Fridman](https://twitter.com/lexfridman) αναφέρει ότι η αναμενόμενη τιμή του πλήθους τυχαίων επιλογών αριθμών στο διάστημα 0 έως 1 που απαιτούνται έτσι ώστε το άθροισμά τους να ξεπεράσει το 1 είναι ίση με e=2.7182…
@@ -466,14 +467,19 @@ factorial(N,F) :-
 Ορίστε κατηγόρημα ```doublefactorial/2``` που να υπολογίζει το διπλό παραγοντικό ενός αριθμού ```n```. Το διπλό παραγοντικό ορίζεται ως το γινόμενο όλων των ακεραίων από το 1 μέχρι και τον αριθμό ```n``` που είναι είτε άρτιοι είτε περιττοί, ανάλογα με το εάν το ```n``` είναι άρτιο ή περιττό αντίστοιχα (π.χ. το διπλό παραγοντικό του 7 είναι 1 * 3 * 5 * 7 = 105).
 
 
-<!-- ### **Δεύτερο εργαστήριο Prolog**
+### **Δεύτερο εργαστήριο Prolog**
 * Από το [Learn Prolog Now](http://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=top)
   * Λίστες [Ch.4](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter4.pdf), [Ch.6](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter6.pdf)
   * Αποκοπή και άρνηση [Ch.10](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter10.pdf)
-  * Λογικός προγραμματισμός με περιορισμούς (Constraint Logic Programming).
+  * Λογικός προγραμματισμός με περιορισμούς (Constraint Logic Programming)
+    * [CLPFD](https://www.swi-prolog.org/man/clpfd.html)
+
+    <!-- * [CLB](https://www.swi-prolog.org/pldoc/man?section=clpb), -->
+    <!-- * [CLPQR](Constraint Logic Programming over Rationals and Reals).  -->
 
 Ενισχύστε τις γνώσεις σας για τα παραπάνω:
-* [Prolog tutorial by J.R.Fisher](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/pt_framer.html) -->
+* [Prolog tutorial by J.R.Fisher](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/pt_framer.html)
+* [CLP(FD) tutorial by A. Ogborn](https://github.com/Anniepoo/swiplclpfd/blob/master/clpfd.adoc)
 
 <!-- **Άσκηση Ε9Α1**
 

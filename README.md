@@ -368,11 +368,11 @@ Document created at 2022-03-21 22:45:00 authors=Marianthi, Vasilis sender=Marian
 
 ### **Πρώτο εργαστήριο Prolog**
 * Εγκατάσταση Prolog [SWI-Prolog](https://www.swi-prolog.org/)
-* Από το [Learn Prolog Now](http://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=top)
-  * Γεγονότα, κανόνες, ερωτήματα [Ch.1](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter1.pdf)
-  * Ενοποίηση, αναζήτηση απόδειξης [Ch.2](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter2.pdf)
-  * Αναδρομή [Ch.3](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter3.pdf)
-  * Αριθμητική με την Prolog [Ch.5](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter5.pdf)
+* Από το [Learn Prolog Now (LPN)](http://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=top)
+  * Γεγονότα, κανόνες, ερωτήματα [LPN Ch.1](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter1.pdf)
+  * Ενοποίηση, αναζήτηση απόδειξης [LPN Ch.2](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter2.pdf)
+  * Αναδρομή [LPN Ch.3](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter3.pdf)
+  * Αριθμητική με την Prolog [LPN Ch.5](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter5.pdf)
 
 Ενισχύστε τις γνώσεις σας για τα παραπάνω:
 * [Prolog tutorial by Derek Banas (video)](https://www.youtube.com/watch?v=SykxWpFwMGs)
@@ -469,9 +469,9 @@ factorial(N,F) :-
 [Λύσεις ασκήσεων εργαστηρίου 8](./resources/lab8_prolog_solutions.zip)
 
 ### **Δεύτερο εργαστήριο Prolog**
-* Από το [Learn Prolog Now](http://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=top)
-  * Λίστες [Ch.4](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter4.pdf), [Ch.6](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter6.pdf)
-  * Αποκοπή και άρνηση [Ch.10](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter10.pdf)
+* Από το [Learn Prolog Now (LPN)](http://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=top)
+  * Λίστες [LPN Ch.4](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter4.pdf), [LPN Ch.6](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter6.pdf)
+  * Αποκοπή και άρνηση [LPN Ch.10](http://www.let.rug.nl/bos/lpn//slides/official/LPNchapter10.pdf)
   * Λογικός προγραμματισμός με περιορισμούς (Constraint Logic Programming)
     * [CLPFD](https://www.swi-prolog.org/man/clpfd.html)
 

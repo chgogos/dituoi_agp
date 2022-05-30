@@ -1,0 +1,1 @@
+See https://raw.githubusercontent.com/Anniepoo/swiplstudenttut/master/studentfaq.txt

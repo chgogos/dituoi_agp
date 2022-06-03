@@ -6,12 +6,16 @@
 
 e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
-Τελευταία ενημέρωση: 29/5/2022
+Τελευταία ενημέρωση: 3/6/2022
 
-Η ύλη της προόδου που θα πραγματοποιηθεί στις 6/5/2022 στις 9:00-12:00 θα είναι το Κεφάλαιο 1, το Κεφάλαιο 3 (μέχρι σελ. 137), το Κεφάλαιο 4 από το [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi) καθώς και βασικές γνώσεις για την Python που αντιστοιχούν στα εργαστήρια 1 έως και 5.
+<!-- Η ύλη της προόδου που θα πραγματοποιηθεί στις 6/5/2022 στις 9:00-12:00 θα είναι το Κεφάλαιο 1, το Κεφάλαιο 3 (μέχρι σελ. 137), το Κεφάλαιο 4 από το [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi) καθώς και βασικές γνώσεις για την Python που αντιστοιχούν στα εργαστήρια 1 έως και 5. -->
+
+ΥΛΗ ΑΠΟ ΤΟ ΒΙΒΛΙΟ [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi) 
+
+ΚΕΦΑΛΑΙΑ: 1,3,4,5,9,15,16
 
 * Ασκήσεις επανάληψης: [1](./exercises/recitation.md), [2](./exercises/ppl.md)
-* [Quiz επανάληψης στο ecourse](https://ecourse.uoi.gr/mod/quiz/view.php?id=110672)
+* [Quiz επανάληψης στο ecourse (x4)](https://ecourse.uoi.gr/mod/quiz/view.php?id=110672)
 
 ## Εργασίες
 * [Εργασία 1](./resources/2022e_agp_prj1.pdf) παράδοση μέχρι ~~27/4/2022~~ στο ecourse
@@ -510,3 +514,5 @@ max(X,_,X).
 
 **Άσκηση Ε9Α4**
 Με τη χρήση της βιβλιοθήκης CLPFD, λύστε το κρυπταριθμητικό παζλ ```SEND + MORE = MONEY``` στο οποίο κάθε χαρακτήρας πρέπει να αντικατασταθεί με ένα ψηφίο έτσι ώστε η παραπάνω πράξη να είναι ορθή.
+
+[Λύσεις ασκήσεων εργαστηρίου 9](./resources/lab9_prolog_solutions.zip)

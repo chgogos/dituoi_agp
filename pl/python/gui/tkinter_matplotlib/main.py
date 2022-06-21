@@ -1,8 +1,8 @@
-from tkinter import *
-from turtle import color
-from matplotlib.figure import Figure
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import random
+from tkinter import Tk, Frame, Button, BOTTOM
+
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+from matplotlib.figure import Figure
 
 
 def plot():

@@ -10,9 +10,9 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
 
 <!-- Η ύλη της προόδου που θα πραγματοποιηθεί στις 6/5/2022 στις 9:00-12:00 θα είναι το Κεφάλαιο 1, το Κεφάλαιο 3 (μέχρι σελ. 137), το Κεφάλαιο 4 από το [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi) καθώς και βασικές γνώσεις για την Python που αντιστοιχούν στα εργαστήρια 1 έως και 5. -->
 
-ΥΛΗ ΑΠΟ ΤΟ ΒΙΒΛΙΟ [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi) 
+<!-- ΥΛΗ ΑΠΟ ΤΟ ΒΙΒΛΙΟ [Αρχές Γλωσσών Προγραμματισμού 11η εκδ., Robert W. Sebesta](https://www.mgiurdas.gr/biblia/arhes-glosson-programmatismoy-11i-ekdosi) 
 
-ΚΕΦΑΛΑΙΑ: 1,3,4,5,9,15,16
+ΚΕΦΑΛΑΙΑ: 1,3,4,5,9,15,16 -->
 
 * Ασκήσεις επανάληψης: [1](./exercises/recitation.md), [2](./exercises/ppl.md)
 * [Quiz επανάληψης στο ecourse (x4)](https://ecourse.uoi.gr/mod/quiz/view.php?id=110672)
@@ -77,9 +77,9 @@ e-course μαθήματος: <http://ecourse.uoi.gr/course/view.php?id=1945>
   * [dictionaries](https://www.py4e.com/lectures3/Pythonlearn-09-Dictionaries.pptx)
   * [tuples](https://www.py4e.com/lectures3/Pythonlearn-10-Tuples.pptx)
 
-**Άσκηση E1A1** - Γράψτε πρόγραμμα που να υπολογίζει τα 10 πρώτα ψηφία του αποτελέσματος της ακόλουθης πράξης:
+**Άσκηση E1A1** - Γράψτε πρόγραμμα που να υπολογίζει τα 10 πρώτα ψηφία του αποτελέσματος της πράξης $\sqrt{\frac{2^{101}}{\pi^{53}+11^7}}$
 
-<img src="https://render.githubusercontent.com/render/math?math=\sqrt{\frac{2^{101}}{\pi^{53}+11^7}}">
+<!-- <img src="https://render.githubusercontent.com/render/math?math=\sqrt{\frac{2^{101}}{\pi^{53}+11^7}}"> -->
 
 **Άσκηση E1A2** - Γράψτε πρόγραμμα που να εμφανίζει για τη συμβολοσειρά "How I need a drink alcoholic of course, after all those lectures involving quantum mechanics" το πλήθος των χαρακτήρων κάθε λέξης. Παρατήρηση: η μέθοδος split() σε μια συμβολοσειρά επιστρέφει μια λίστα με τις λέξεις της.
 
